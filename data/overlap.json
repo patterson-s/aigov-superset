@@ -1,10 +1,10 @@
 {
  "generated": "2026-09-30",
- "source_count": 8,
- "record_count": 4787,
+ "source_count": 9,
+ "record_count": 4856,
  "clusters": [
   {
-   "id": "OVL-0040",
+   "id": "OVL-0043",
    "name": "Artifical Intelligence and Data Protection",
    "source_count": 5,
    "instrument_count": 10,
@@ -69,7 +69,7 @@
    ]
   },
   {
-   "id": "OVL-0002",
+   "id": "OVL-0003",
    "name": "Model AI Governance Framework",
    "source_count": 5,
    "instrument_count": 6,
@@ -114,7 +114,47 @@
    ]
   },
   {
-   "id": "OVL-0018",
+   "id": "OVL-0011",
+   "name": "Ethical Norms for the New Generation Artificial Intelligence",
+   "source_count": 5,
+   "instrument_count": 5,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 1,
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00300",
+     "name": "Ethical Norms for the New Generation Artificial Intelligence"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-047",
+     "name": "New Generation AI Ethics Norms"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0142",
+     "name": "The Ethical Norms for the New Generation Artificial Intelligence, China"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0018",
+     "name": "Ethical Norms for the New Generation Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1715",
+     "name": "Ethical Norms for New Generation AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0021",
    "name": "Directive on Automated Decision-Making",
    "source_count": 5,
    "instrument_count": 5,
@@ -154,7 +194,7 @@
    ]
   },
   {
-   "id": "OVL-0024",
+   "id": "OVL-0027",
    "name": "Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence",
    "source_count": 5,
    "instrument_count": 5,
@@ -194,7 +234,7 @@
    ]
   },
   {
-   "id": "OVL-0032",
+   "id": "OVL-0035",
    "name": "Statement on Algorithmic Transparency and Accountability",
    "source_count": 5,
    "instrument_count": 5,
@@ -234,7 +274,7 @@
    ]
   },
   {
-   "id": "OVL-0027",
+   "id": "OVL-0030",
    "name": "National Artificial Intelligence Research and Development Strategic Plan 2023 Update",
    "source_count": 4,
    "instrument_count": 5,
@@ -273,7 +313,7 @@
    ]
   },
   {
-   "id": "OVL-0108",
+   "id": "OVL-0111",
    "name": "A guide to using Artificial Intelligence in the public sector",
    "source_count": 4,
    "instrument_count": 5,
@@ -312,7 +352,7 @@
    ]
   },
   {
-   "id": "OVL-0009",
+   "id": "OVL-0010",
    "name": "OpenAI Charter",
    "source_count": 4,
    "instrument_count": 4,
@@ -346,41 +386,7 @@
    ]
   },
   {
-   "id": "OVL-0010",
-   "name": "Ethical Norms for the New Generation Artificial Intelligence",
-   "source_count": 4,
-   "instrument_count": 4,
-   "source_distribution": {
-    "agora": 1,
-    "correa-2023": 1,
-    "laip": 1,
-    "oecd-ai": 1
-   },
-   "members": [
-    {
-     "source": "agora",
-     "record_id": "DOCUMENTS-00300",
-     "name": "Ethical Norms for the New Generation Artificial Intelligence"
-    },
-    {
-     "source": "correa-2023",
-     "record_id": "WAIE-0142",
-     "name": "The Ethical Norms for the New Generation Artificial Intelligence, China"
-    },
-    {
-     "source": "laip",
-     "record_id": "LAIP-0018",
-     "name": "Ethical Norms for the New Generation Artificial Intelligence"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-1715",
-     "name": "Ethical Norms for New Generation AI"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0072",
+   "id": "OVL-0075",
    "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -414,7 +420,7 @@
    ]
   },
   {
-   "id": "OVL-0086",
+   "id": "OVL-0089",
    "name": "OP Financial Group’s ethical guidelines for artificial intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -448,7 +454,7 @@
    ]
   },
   {
-   "id": "OVL-0094",
+   "id": "OVL-0097",
    "name": "The Ethics of Code: Developing AI for Business with Five Core Principles",
    "source_count": 4,
    "instrument_count": 4,
@@ -482,7 +488,7 @@
    ]
   },
   {
-   "id": "OVL-0095",
+   "id": "OVL-0098",
    "name": "SAP’s guiding principles for Artificial Intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -516,7 +522,7 @@
    ]
   },
   {
-   "id": "OVL-0097",
+   "id": "OVL-0100",
    "name": "Sony Group AI Ethics Guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -550,7 +556,7 @@
    ]
   },
   {
-   "id": "OVL-0107",
+   "id": "OVL-0110",
    "name": "Tieto’s AI ethics guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -584,7 +590,7 @@
    ]
   },
   {
-   "id": "OVL-0111",
+   "id": "OVL-0114",
    "name": "Top 10 Principles for Ethical Artificial Intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -618,7 +624,7 @@
    ]
   },
   {
-   "id": "OVL-0112",
+   "id": "OVL-0115",
    "name": "Unity’s six guiding AI principles",
    "source_count": 4,
    "instrument_count": 4,
@@ -652,7 +658,7 @@
    ]
   },
   {
-   "id": "OVL-0152",
+   "id": "OVL-0155",
    "name": "AI R&D Principles",
    "source_count": 3,
    "instrument_count": 6,
@@ -695,7 +701,7 @@
    ]
   },
   {
-   "id": "OVL-0070",
+   "id": "OVL-0073",
    "name": "Artificial Intelligence and Machine Learning: Policy Paper",
    "source_count": 3,
    "instrument_count": 4,
@@ -728,7 +734,7 @@
    ]
   },
   {
-   "id": "OVL-0121",
+   "id": "OVL-0124",
    "name": "Opinion of the Data Ethics Commission",
    "source_count": 3,
    "instrument_count": 4,
@@ -761,7 +767,7 @@
    ]
   },
   {
-   "id": "OVL-0124",
+   "id": "OVL-0127",
    "name": "Social Principles of Human-centric AI",
    "source_count": 3,
    "instrument_count": 4,
@@ -794,7 +800,7 @@
    ]
   },
   {
-   "id": "OVL-0151",
+   "id": "OVL-0154",
    "name": "ASEAN Guide on AI Governance and Ethics",
    "source_count": 3,
    "instrument_count": 4,
@@ -827,7 +833,63 @@
    ]
   },
   {
-   "id": "OVL-0025",
+   "id": "OVL-0004",
+   "name": "Global AI Governance Initiative",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00213",
+     "name": "Global AI Governance Initiative"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-001",
+     "name": "Global AI Governance Initiative"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0009",
+     "name": "Global AI Governance Initiative"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0020",
+   "name": "New Generation Artificial Intelligence Development Plan",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00714",
+     "name": "New Generation Artificial Intelligence Development Plan"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-056",
+     "name": "New Generation AI Development Plan"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1729",
+     "name": "National New Generation AI Plan"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0028",
    "name": "Australia’s AI Ethics Principles",
    "source_count": 3,
    "instrument_count": 3,
@@ -855,7 +917,7 @@
    ]
   },
   {
-   "id": "OVL-0030",
+   "id": "OVL-0033",
    "name": "Policy Recommendations on Augmented Intelligence in Health Care H-480.940",
    "source_count": 3,
    "instrument_count": 3,
@@ -883,7 +945,7 @@
    ]
   },
   {
-   "id": "OVL-0046",
+   "id": "OVL-0049",
    "name": "European ethical Charter on the use of Artificial Intelligence in judicial systems and their environment",
    "source_count": 3,
    "instrument_count": 3,
@@ -911,7 +973,7 @@
    ]
   },
   {
-   "id": "OVL-0049",
+   "id": "OVL-0052",
    "name": "Report with recommendations to the Commission on Civil Law Rules on Robotics",
    "source_count": 3,
    "instrument_count": 3,
@@ -939,7 +1001,7 @@
    ]
   },
   {
-   "id": "OVL-0063",
+   "id": "OVL-0066",
    "name": "IBM’s Principles for Trust and Transparency",
    "source_count": 3,
    "instrument_count": 3,
@@ -967,7 +1029,7 @@
    ]
   },
   {
-   "id": "OVL-0075",
+   "id": "OVL-0078",
    "name": "Charlevoix Common Vision for the Future of Artificial Intelligence",
    "source_count": 3,
    "instrument_count": 3,
@@ -995,7 +1057,7 @@
    ]
   },
   {
-   "id": "OVL-0080",
+   "id": "OVL-0083",
    "name": "Principlesto Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics in Singapore’sFinancial Sector",
    "source_count": 3,
    "instrument_count": 3,
@@ -1023,7 +1085,7 @@
    ]
   },
   {
-   "id": "OVL-0088",
+   "id": "OVL-0091",
    "name": "Tenets Partnership on AI",
    "source_count": 3,
    "instrument_count": 3,
@@ -1051,7 +1113,7 @@
    ]
   },
   {
-   "id": "OVL-0090",
+   "id": "OVL-0093",
    "name": "Rome Call for AI Ethics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1079,7 +1141,7 @@
    ]
   },
   {
-   "id": "OVL-0091",
+   "id": "OVL-0094",
    "name": "A practical guide to Responsible Artificial Intelligence (AI)",
    "source_count": 3,
    "instrument_count": 3,
@@ -1107,7 +1169,7 @@
    ]
   },
   {
-   "id": "OVL-0098",
+   "id": "OVL-0101",
    "name": "Principles for the safe and effective use of data and analytics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1135,7 +1197,7 @@
    ]
   },
   {
-   "id": "OVL-0099",
+   "id": "OVL-0102",
    "name": "Telia Company Guiding Principles on trusted AI ethics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1163,7 +1225,7 @@
    ]
   },
   {
-   "id": "OVL-0102",
+   "id": "OVL-0105",
    "name": "Unified Ethical Frame for Big Data Analysis (draft)",
    "source_count": 3,
    "instrument_count": 3,
@@ -1191,7 +1253,44 @@
    ]
   },
   {
-   "id": "OVL-0005",
+   "id": "OVL-0012",
+   "name": "Interim Measures for Generative AI Services",
+   "source_count": 2,
+   "instrument_count": 5,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 4
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00302",
+     "name": "Interim Measures for the Management of Generative Artificial Intelligence Services"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-003",
+     "name": "Interim Measures for Generative AI Services"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-015",
+     "name": "Interim Measures for Generative AI Services"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-039",
+     "name": "Interim Measures for Generative AI Services"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-068",
+     "name": "Interim Measures for Generative AI Services"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0006",
    "name": "Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)",
    "source_count": 2,
    "instrument_count": 4,
@@ -1223,7 +1322,7 @@
    ]
   },
   {
-   "id": "OVL-0019",
+   "id": "OVL-0022",
    "name": "National AI Strategy 2.0",
    "source_count": 2,
    "instrument_count": 4,
@@ -1255,7 +1354,7 @@
    ]
   },
   {
-   "id": "OVL-0136",
+   "id": "OVL-0139",
    "name": "Guide on the Use of Generative Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 4,
@@ -1287,7 +1386,34 @@
    ]
   },
   {
-   "id": "OVL-0008",
+   "id": "OVL-0002",
+   "name": "Measures for Labeling AI-Generated Content",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 2
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00025",
+     "name": "Measures for Labeling of AI-Generated Synthetic Content"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-004",
+     "name": "Measures for Labeling AI-Generated Content"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-016",
+     "name": "Measures for Labeling AI-Generated Content"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0009",
    "name": "Executive Order on Removing Barriers To American Leadership In Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 3,
@@ -1314,7 +1440,7 @@
    ]
   },
   {
-   "id": "OVL-0055",
+   "id": "OVL-0058",
    "name": "For a meaningful Artificial Intelligence. Towards a French and European strategy",
    "source_count": 2,
    "instrument_count": 3,
@@ -1341,7 +1467,7 @@
    ]
   },
   {
-   "id": "OVL-0065",
+   "id": "OVL-0068",
    "name": "Ethically Aligned Design",
    "source_count": 2,
    "instrument_count": 3,
@@ -1368,7 +1494,7 @@
    ]
   },
   {
-   "id": "OVL-0116",
+   "id": "OVL-0119",
    "name": "Artificial Intelligence: open questions about gender inclusion",
    "source_count": 2,
    "instrument_count": 3,
@@ -1395,7 +1521,7 @@
    ]
   },
   {
-   "id": "OVL-0118",
+   "id": "OVL-0121",
    "name": "Artificial Intelligence at Google: Our Principles",
    "source_count": 2,
    "instrument_count": 3,
@@ -1422,7 +1548,7 @@
    ]
   },
   {
-   "id": "OVL-0134",
+   "id": "OVL-0137",
    "name": "Policy for the Responsible Use of AI in Government",
    "source_count": 2,
    "instrument_count": 3,
@@ -1449,7 +1575,7 @@
    ]
   },
   {
-   "id": "OVL-0140",
+   "id": "OVL-0143",
    "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE)",
    "source_count": 2,
    "instrument_count": 3,
@@ -1476,7 +1602,7 @@
    ]
   },
   {
-   "id": "OVL-0147",
+   "id": "OVL-0150",
    "name": "Generative Artificial Intelligence for Government Guidelines",
    "source_count": 2,
    "instrument_count": 3,
@@ -1503,7 +1629,7 @@
    ]
   },
   {
-   "id": "OVL-0148",
+   "id": "OVL-0151",
    "name": "Guidelines for Generative AI in Public Administration",
    "source_count": 2,
    "instrument_count": 3,
@@ -1530,7 +1656,7 @@
    ]
   },
   {
-   "id": "OVL-0150",
+   "id": "OVL-0153",
    "name": "Artificial Intelligence -AI- and Generative Artificial Intelligence -GenAI- Policy",
    "source_count": 2,
    "instrument_count": 3,
@@ -1579,29 +1705,7 @@
    ]
   },
   {
-   "id": "OVL-0003",
-   "name": "Global AI Governance Initiative",
-   "source_count": 2,
-   "instrument_count": 2,
-   "source_distribution": {
-    "agora": 1,
-    "laip": 1
-   },
-   "members": [
-    {
-     "source": "agora",
-     "record_id": "DOCUMENTS-00213",
-     "name": "Global AI Governance Initiative"
-    },
-    {
-     "source": "laip",
-     "record_id": "LAIP-0009",
-     "name": "Global AI Governance Initiative"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0004",
+   "id": "OVL-0005",
    "name": "San Francisco Generative AI Guidelines",
    "source_count": 2,
    "instrument_count": 2,
@@ -1623,7 +1727,7 @@
    ]
   },
   {
-   "id": "OVL-0006",
+   "id": "OVL-0007",
    "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033",
    "source_count": 2,
    "instrument_count": 2,
@@ -1645,7 +1749,7 @@
    ]
   },
   {
-   "id": "OVL-0007",
+   "id": "OVL-0008",
    "name": "AI Act of 2024",
    "source_count": 2,
    "instrument_count": 2,
@@ -1667,7 +1771,7 @@
    ]
   },
   {
-   "id": "OVL-0011",
+   "id": "OVL-0013",
    "name": "NIST AI Risk Management Framework 1.0",
    "source_count": 2,
    "instrument_count": 2,
@@ -1689,7 +1793,7 @@
    ]
   },
   {
-   "id": "OVL-0012",
+   "id": "OVL-0014",
    "name": "G20 Ministerial Statement on Trade and Digital Economy (Annex \"G20 AI Principles\")",
    "source_count": 2,
    "instrument_count": 2,
@@ -1711,7 +1815,7 @@
    ]
   },
   {
-   "id": "OVL-0013",
+   "id": "OVL-0015",
    "name": "County of Santa Cruz Artificial Intelligence Appropriate Use Policy",
    "source_count": 2,
    "instrument_count": 2,
@@ -1733,7 +1837,7 @@
    ]
   },
   {
-   "id": "OVL-0014",
+   "id": "OVL-0016",
    "name": "City of Boston Interim Guidelines for Using Generative AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -1755,7 +1859,29 @@
    ]
   },
   {
-   "id": "OVL-0015",
+   "id": "OVL-0017",
+   "name": "(Trial) Measures for Science and Technology Ethics Reviews",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "concordia-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00487",
+     "name": "(Trial) Measures for Science and Technology Ethics Reviews"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-067",
+     "name": "Science and Technology Ethics Review Measures (Trial)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0018",
    "name": "Federal Senate Bill of Law No. 2338, of 2023",
    "source_count": 2,
    "instrument_count": 2,
@@ -1777,7 +1903,7 @@
    ]
   },
   {
-   "id": "OVL-0016",
+   "id": "OVL-0019",
    "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
    "source_count": 2,
    "instrument_count": 2,
@@ -1799,29 +1925,7 @@
    ]
   },
   {
-   "id": "OVL-0017",
-   "name": "New Generation Artificial Intelligence Development Plan",
-   "source_count": 2,
-   "instrument_count": 2,
-   "source_distribution": {
-    "agora": 1,
-    "oecd-ai": 1
-   },
-   "members": [
-    {
-     "source": "agora",
-     "record_id": "DOCUMENTS-00714",
-     "name": "New Generation Artificial Intelligence Development Plan"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-1729",
-     "name": "National New Generation AI Plan"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0020",
+   "id": "OVL-0023",
    "name": "Artificial Intelligence and the Information Privacy Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -1843,7 +1947,7 @@
    ]
   },
   {
-   "id": "OVL-0021",
+   "id": "OVL-0024",
    "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -1865,7 +1969,7 @@
    ]
   },
   {
-   "id": "OVL-0022",
+   "id": "OVL-0025",
    "name": "Artificial Intelligence Video Interview Act",
    "source_count": 2,
    "instrument_count": 2,
@@ -1887,7 +1991,7 @@
    ]
   },
   {
-   "id": "OVL-0023",
+   "id": "OVL-0026",
    "name": "Artificial Intelligence Training for the Acquisition Workforce Act",
    "source_count": 2,
    "instrument_count": 2,
@@ -1909,7 +2013,7 @@
    ]
   },
   {
-   "id": "OVL-0026",
+   "id": "OVL-0029",
    "name": "Safe and Responsible AI in Australia Consultation, Interim Response",
    "source_count": 2,
    "instrument_count": 2,
@@ -1931,7 +2035,7 @@
    ]
   },
   {
-   "id": "OVL-0028",
+   "id": "OVL-0031",
    "name": "L’intelligenzia artificiale al servizio del cittadino (Artificial Intelligence at the service of the citizen)",
    "source_count": 2,
    "instrument_count": 2,
@@ -1953,7 +2057,7 @@
    ]
   },
   {
-   "id": "OVL-0029",
+   "id": "OVL-0032",
    "name": "AI Now Report 2018",
    "source_count": 2,
    "instrument_count": 2,
@@ -1975,7 +2079,7 @@
    ]
   },
   {
-   "id": "OVL-0031",
+   "id": "OVL-0034",
    "name": "Safety First for Automated Driving – Proposed technical standards for the development of Automated Driving",
    "source_count": 2,
    "instrument_count": 2,
@@ -1997,7 +2101,7 @@
    ]
   },
   {
-   "id": "OVL-0033",
+   "id": "OVL-0036",
    "name": "It’s Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process",
    "source_count": 2,
    "instrument_count": 2,
@@ -2019,7 +2123,7 @@
    ]
   },
   {
-   "id": "OVL-0034",
+   "id": "OVL-0037",
    "name": "AI4People’s Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",
    "source_count": 2,
    "instrument_count": 2,
@@ -2041,7 +2145,7 @@
    ]
   },
   {
-   "id": "OVL-0035",
+   "id": "OVL-0038",
    "name": "Artificial Intelligence Australia’s Ethics Framework A Discussion Paper",
    "source_count": 2,
    "instrument_count": 2,
@@ -2063,7 +2167,7 @@
    ]
   },
   {
-   "id": "OVL-0036",
+   "id": "OVL-0039",
    "name": "Empfehlungen für den verantwortlichen Einsatz von KI und automatisierten Entscheidungen (Recommendations for the responsible use of AI and automated decision making)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2085,7 +2189,7 @@
    ]
   },
   {
-   "id": "OVL-0037",
+   "id": "OVL-0040",
    "name": "Digital Decisions",
    "source_count": 2,
    "instrument_count": 2,
@@ -2107,7 +2211,7 @@
    ]
   },
   {
-   "id": "OVL-0038",
+   "id": "OVL-0041",
    "name": "Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2129,7 +2233,7 @@
    ]
   },
   {
-   "id": "OVL-0039",
+   "id": "OVL-0042",
    "name": "Artificial Intelligence: opportunities, risks and recommendations for the financial sector",
    "source_count": 2,
    "instrument_count": 2,
@@ -2151,7 +2255,7 @@
    ]
   },
   {
-   "id": "OVL-0041",
+   "id": "OVL-0044",
    "name": "Governing Artificial Intelligence. Upholding Human Rights & Dignity",
    "source_count": 2,
    "instrument_count": 2,
@@ -2173,7 +2277,7 @@
    ]
   },
   {
-   "id": "OVL-0042",
+   "id": "OVL-0045",
    "name": "Code of conduct for data-driven health and care technology",
    "source_count": 2,
    "instrument_count": 2,
@@ -2195,7 +2299,7 @@
    ]
   },
   {
-   "id": "OVL-0043",
+   "id": "OVL-0046",
    "name": "Künstliche Intelligenz und die Arbeit von Morgen",
    "source_count": 2,
    "instrument_count": 2,
@@ -2217,7 +2321,7 @@
    ]
   },
   {
-   "id": "OVL-0044",
+   "id": "OVL-0047",
    "name": "Data for the Benefit of the People: Recommendations from the Danish Expert Group on Data Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -2239,7 +2343,7 @@
    ]
   },
   {
-   "id": "OVL-0045",
+   "id": "OVL-0048",
    "name": "Automatisiertes und Vernetztes Fahren / Automated and connected automated driving",
    "source_count": 2,
    "instrument_count": 2,
@@ -2261,7 +2365,7 @@
    ]
   },
   {
-   "id": "OVL-0047",
+   "id": "OVL-0050",
    "name": "Code of Practice on Disinformation",
    "source_count": 2,
    "instrument_count": 2,
@@ -2283,7 +2387,7 @@
    ]
   },
   {
-   "id": "OVL-0048",
+   "id": "OVL-0051",
    "name": "Statement on Artificial Intelligence, Robotics and ‚Autonomous‘ Systems",
    "source_count": 2,
    "instrument_count": 2,
@@ -2305,7 +2409,7 @@
    ]
   },
   {
-   "id": "OVL-0050",
+   "id": "OVL-0053",
    "name": "Preparing for the future of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -2327,7 +2431,7 @@
    ]
   },
   {
-   "id": "OVL-0051",
+   "id": "OVL-0054",
    "name": "Vienna Manifesto on Digital Humanism",
    "source_count": 2,
    "instrument_count": 2,
@@ -2349,7 +2453,7 @@
    ]
   },
   {
-   "id": "OVL-0052",
+   "id": "OVL-0055",
    "name": "Principles for Accountable Algorithms and a Social Impact Statement for Algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -2371,7 +2475,7 @@
    ]
   },
   {
-   "id": "OVL-0053",
+   "id": "OVL-0056",
    "name": "How can humans keep the upper hand? Report on the ethical matters raised by AI algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -2393,7 +2497,7 @@
    ]
   },
   {
-   "id": "OVL-0054",
+   "id": "OVL-0057",
    "name": "Digital Technology and Healthcare. Which Ethical Issues for which Regulations?",
    "source_count": 2,
    "instrument_count": 2,
@@ -2415,7 +2519,7 @@
    ]
   },
   {
-   "id": "OVL-0056",
+   "id": "OVL-0059",
    "name": "Ethical, social, and political challenges of Artificial Intelligence in Health",
    "source_count": 2,
    "instrument_count": 2,
@@ -2437,7 +2541,7 @@
    ]
   },
   {
-   "id": "OVL-0057",
+   "id": "OVL-0060",
    "name": "Unfairness by algorithm: Distilling the Harms of automated decision making",
    "source_count": 2,
    "instrument_count": 2,
@@ -2459,7 +2563,7 @@
    ]
   },
   {
-   "id": "OVL-0058",
+   "id": "OVL-0061",
    "name": "People & AI Partnership Guidebook",
    "source_count": 2,
    "instrument_count": 2,
@@ -2481,7 +2585,7 @@
    ]
   },
   {
-   "id": "OVL-0059",
+   "id": "OVL-0062",
    "name": "Responsible Artificial Intelligence in the Government of Canada (whitepaper)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2503,7 +2607,7 @@
    ]
   },
   {
-   "id": "OVL-0060",
+   "id": "OVL-0063",
    "name": "Datenschutz und Big Data / Data protection and Big Data",
    "source_count": 2,
    "instrument_count": 2,
@@ -2525,7 +2629,7 @@
    ]
   },
   {
-   "id": "OVL-0061",
+   "id": "OVL-0064",
    "name": "Draft Guidelines for Trustworthy AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2547,7 +2651,7 @@
    ]
   },
   {
-   "id": "OVL-0062",
+   "id": "OVL-0065",
    "name": "10 ethische Leitlinien für die Digitalisierung von Unternehmen (10 ethical guidelines for the digitalisation of companies)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2569,7 +2673,7 @@
    ]
   },
   {
-   "id": "OVL-0064",
+   "id": "OVL-0067",
    "name": "IIIM’s Ethics Policy",
    "source_count": 2,
    "instrument_count": 2,
@@ -2591,7 +2695,7 @@
    ]
   },
   {
-   "id": "OVL-0066",
+   "id": "OVL-0069",
    "name": "Big data, artificial intelligence, machine learning and data protection",
    "source_count": 2,
    "instrument_count": 2,
@@ -2613,7 +2717,7 @@
    ]
   },
   {
-   "id": "OVL-0067",
+   "id": "OVL-0070",
    "name": "Draft AI R&D Guidelines for International Discussions",
    "source_count": 2,
    "instrument_count": 2,
@@ -2635,7 +2739,7 @@
    ]
   },
   {
-   "id": "OVL-0068",
+   "id": "OVL-0071",
    "name": "Artificial Intelligence. The Public Policy Opportunity",
    "source_count": 2,
    "instrument_count": 2,
@@ -2657,7 +2761,7 @@
    ]
   },
   {
-   "id": "OVL-0069",
+   "id": "OVL-0072",
    "name": "Intel’s AI Privacy Policy White Paper. Protecting individuals’ privacy and data in the artificial intelligence world",
    "source_count": 2,
    "instrument_count": 2,
@@ -2679,7 +2783,7 @@
    ]
   },
   {
-   "id": "OVL-0071",
+   "id": "OVL-0074",
    "name": "Responsible AI: Global Policy Framework",
    "source_count": 2,
    "instrument_count": 2,
@@ -2701,7 +2805,7 @@
    ]
   },
   {
-   "id": "OVL-0073",
+   "id": "OVL-0076",
    "name": "Kakao Algorithm Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -2723,7 +2827,7 @@
    ]
   },
   {
-   "id": "OVL-0074",
+   "id": "OVL-0077",
    "name": "Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society Managing the Fourth Industrial Revolution",
    "source_count": 2,
    "instrument_count": 2,
@@ -2745,7 +2849,7 @@
    ]
   },
   {
-   "id": "OVL-0076",
+   "id": "OVL-0079",
    "name": "MIT Schwarzman College of Computing Task Force Working Group on Social Implications and Responsibilities of Computing Final Report",
    "source_count": 2,
    "instrument_count": 2,
@@ -2767,7 +2871,7 @@
    ]
   },
   {
-   "id": "OVL-0077",
+   "id": "OVL-0080",
    "name": "Our Approach to AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2789,7 +2893,7 @@
    ]
   },
   {
-   "id": "OVL-0078",
+   "id": "OVL-0081",
    "name": "Responsible bots: 10 guidelines for developers of conversational AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2811,7 +2915,7 @@
    ]
   },
   {
-   "id": "OVL-0079",
+   "id": "OVL-0082",
    "name": "The Future Computed – Artificial intelligence and its role in society",
    "source_count": 2,
    "instrument_count": 2,
@@ -2833,7 +2937,7 @@
    ]
   },
   {
-   "id": "OVL-0081",
+   "id": "OVL-0084",
    "name": "Discussion Paper: National Strategy for Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -2855,7 +2959,7 @@
    ]
   },
   {
-   "id": "OVL-0082",
+   "id": "OVL-0085",
    "name": "Advisory Statement on Human Ethics in Artificial Intelligence and Big Data Research (2017)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2877,7 +2981,7 @@
    ]
   },
   {
-   "id": "OVL-0083",
+   "id": "OVL-0086",
    "name": "Seeking Ground Rules for A.I.",
    "source_count": 2,
    "instrument_count": 2,
@@ -2899,7 +3003,7 @@
    ]
   },
   {
-   "id": "OVL-0084",
+   "id": "OVL-0087",
    "name": "Holberton Turing Oath",
    "source_count": 2,
    "instrument_count": 2,
@@ -2921,7 +3025,7 @@
    ]
   },
   {
-   "id": "OVL-0085",
+   "id": "OVL-0088",
    "name": "Recommendation of the Council on Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -2943,7 +3047,7 @@
    ]
   },
   {
-   "id": "OVL-0087",
+   "id": "OVL-0090",
    "name": "Code of Conduct",
    "source_count": 2,
    "instrument_count": 2,
@@ -2965,7 +3069,7 @@
    ]
   },
   {
-   "id": "OVL-0089",
+   "id": "OVL-0092",
    "name": "AI & Data Topical Guide Series",
    "source_count": 2,
    "instrument_count": 2,
@@ -2987,7 +3091,7 @@
    ]
   },
   {
-   "id": "OVL-0092",
+   "id": "OVL-0095",
    "name": "Privacy and Freedom of Expression In the Age of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3009,7 +3113,7 @@
    ]
   },
   {
-   "id": "OVL-0093",
+   "id": "OVL-0096",
    "name": "Užupis Principles for Trustworthy AI Design",
    "source_count": 2,
    "instrument_count": 2,
@@ -3031,7 +3135,7 @@
    ]
   },
   {
-   "id": "OVL-0096",
+   "id": "OVL-0099",
    "name": "Ethical Principles for Artificial Intelligence and Data Analytics",
    "source_count": 2,
    "instrument_count": 2,
@@ -3053,7 +3157,7 @@
    ]
   },
   {
-   "id": "OVL-0100",
+   "id": "OVL-0103",
    "name": "Position on Robotics and Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3075,7 +3179,7 @@
    ]
   },
   {
-   "id": "OVL-0101",
+   "id": "OVL-0104",
    "name": "A Framework for the Ethical use of advanced Data Science Methodes in the Humanitarian Sector",
    "source_count": 2,
    "instrument_count": 2,
@@ -3097,7 +3201,7 @@
    ]
   },
   {
-   "id": "OVL-0103",
+   "id": "OVL-0106",
    "name": "The Responsible Machine Learning Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3119,7 +3223,7 @@
    ]
   },
   {
-   "id": "OVL-0104",
+   "id": "OVL-0107",
    "name": "Civil Rights Principles for the Era of Big Data",
    "source_count": 2,
    "instrument_count": 2,
@@ -3141,7 +3245,7 @@
    ]
   },
   {
-   "id": "OVL-0105",
+   "id": "OVL-0108",
    "name": "Machine learning: the power and promise of computers that learn by example",
    "source_count": 2,
    "instrument_count": 2,
@@ -3163,7 +3267,7 @@
    ]
   },
   {
-   "id": "OVL-0106",
+   "id": "OVL-0109",
    "name": "Guidance for Regulation of Artificial Intelligence Applications",
    "source_count": 2,
    "instrument_count": 2,
@@ -3185,7 +3289,7 @@
    ]
   },
   {
-   "id": "OVL-0109",
+   "id": "OVL-0112",
    "name": "Preliminary study on the Ethics of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3207,7 +3311,7 @@
    ]
   },
   {
-   "id": "OVL-0110",
+   "id": "OVL-0113",
    "name": "Report of COMEST on Robotics Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -3229,7 +3333,7 @@
    ]
   },
   {
-   "id": "OVL-0113",
+   "id": "OVL-0116",
    "name": "A Code of Ethics for the Human Robot Interaction",
    "source_count": 2,
    "instrument_count": 2,
@@ -3251,7 +3355,7 @@
    ]
   },
   {
-   "id": "OVL-0114",
+   "id": "OVL-0117",
    "name": "The Malicious Use of Artificial Intelligence: Forecasting, Prevntion and Mitigation",
    "source_count": 2,
    "instrument_count": 2,
@@ -3273,7 +3377,7 @@
    ]
   },
   {
-   "id": "OVL-0115",
+   "id": "OVL-0118",
    "name": "AI UX: 7 Principles of Designing Good AI Products",
    "source_count": 2,
    "instrument_count": 2,
@@ -3295,7 +3399,7 @@
    ]
   },
   {
-   "id": "OVL-0117",
+   "id": "OVL-0120",
    "name": "White Paper: How to Prevent Discriminatory Outcomes in Machine Learning",
    "source_count": 2,
    "instrument_count": 2,
@@ -3317,7 +3421,7 @@
    ]
   },
   {
-   "id": "OVL-0119",
+   "id": "OVL-0122",
    "name": "Toward a G20 Framework for Artificial Intelligence in the Workplace",
    "source_count": 2,
    "instrument_count": 2,
@@ -3339,7 +3443,7 @@
    ]
   },
   {
-   "id": "OVL-0120",
+   "id": "OVL-0123",
    "name": "Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2",
    "source_count": 2,
    "instrument_count": 2,
@@ -3361,7 +3465,7 @@
    ]
   },
   {
-   "id": "OVL-0122",
+   "id": "OVL-0125",
    "name": "Montréal declaration for a responsible development of artificial intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3383,7 +3487,7 @@
    ]
   },
   {
-   "id": "OVL-0123",
+   "id": "OVL-0126",
    "name": "Artificial Intelligence for Children: Beijing Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3405,7 +3509,7 @@
    ]
   },
   {
-   "id": "OVL-0125",
+   "id": "OVL-0128",
    "name": "UNESCO Recommendation on the Ethics of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3427,7 +3531,7 @@
    ]
   },
   {
-   "id": "OVL-0126",
+   "id": "OVL-0129",
    "name": "Ethical Aspects of Autonomous and Intelligent Systems",
    "source_count": 2,
    "instrument_count": 2,
@@ -3449,7 +3553,7 @@
    ]
   },
   {
-   "id": "OVL-0127",
+   "id": "OVL-0130",
    "name": "Draft - AI Utilization Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3471,7 +3575,7 @@
    ]
   },
   {
-   "id": "OVL-0128",
+   "id": "OVL-0131",
    "name": "Shanghai Initiative for Safe and Secure AI Development",
    "source_count": 2,
    "instrument_count": 2,
@@ -3493,7 +3597,7 @@
    ]
   },
   {
-   "id": "OVL-0129",
+   "id": "OVL-0132",
    "name": "Chinese Young Scientists' Declaration on the Governance and Innovation of Artificial Intelligence (Shanghai Declaration)",
    "source_count": 2,
    "instrument_count": 2,
@@ -3515,7 +3619,7 @@
    ]
   },
   {
-   "id": "OVL-0130",
+   "id": "OVL-0133",
    "name": "Trustworthy AI in Aotearoa: AI Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3537,7 +3641,7 @@
    ]
   },
   {
-   "id": "OVL-0131",
+   "id": "OVL-0134",
    "name": "Stanford's Human-Centered AI Initiative Values",
    "source_count": 2,
    "instrument_count": 2,
@@ -3559,7 +3663,7 @@
    ]
   },
   {
-   "id": "OVL-0132",
+   "id": "OVL-0135",
    "name": "Guide for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3581,7 +3685,7 @@
    ]
   },
   {
-   "id": "OVL-0133",
+   "id": "OVL-0136",
    "name": "Recommendations for Reliable Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3603,7 +3707,7 @@
    ]
   },
   {
-   "id": "OVL-0135",
+   "id": "OVL-0138",
    "name": "Interim Guidance on Government Use of Public Generative AI Tools",
    "source_count": 2,
    "instrument_count": 2,
@@ -3625,7 +3729,7 @@
    ]
   },
   {
-   "id": "OVL-0137",
+   "id": "OVL-0140",
    "name": "Algorithmic Impact Assessment Tool -AIA-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3647,7 +3751,7 @@
    ]
   },
   {
-   "id": "OVL-0138",
+   "id": "OVL-0141",
    "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector",
    "source_count": 2,
    "instrument_count": 2,
@@ -3669,7 +3773,7 @@
    ]
   },
   {
-   "id": "OVL-0139",
+   "id": "OVL-0142",
    "name": "Technical and Ethical Guidelines on AI for the Capital District of Bogotá",
    "source_count": 2,
    "instrument_count": 2,
@@ -3691,7 +3795,7 @@
    ]
   },
   {
-   "id": "OVL-0141",
+   "id": "OVL-0144",
    "name": "Guide to the Use of Artificial Intelligence Tools ‘AI’ in the Superintendency of Economic Competition -SEC-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3713,7 +3817,7 @@
    ]
   },
   {
-   "id": "OVL-0142",
+   "id": "OVL-0145",
    "name": "Code of Ethics of the Superintendency of Economic Competition",
    "source_count": 2,
    "instrument_count": 2,
@@ -3735,7 +3839,7 @@
    ]
   },
   {
-   "id": "OVL-0143",
+   "id": "OVL-0146",
    "name": "Model Contractual Clauses for the Public Procurement of High-Risk AI -'MCC-AIHigh-Risk'-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3757,7 +3861,7 @@
    ]
   },
   {
-   "id": "OVL-0144",
+   "id": "OVL-0147",
    "name": "Guiding Principles for the Development of Machine Learning-based Technologies",
    "source_count": 2,
    "instrument_count": 2,
@@ -3779,7 +3883,7 @@
    ]
   },
   {
-   "id": "OVL-0145",
+   "id": "OVL-0148",
    "name": "Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration",
    "source_count": 2,
    "instrument_count": 2,
@@ -3801,7 +3905,7 @@
    ]
   },
   {
-   "id": "OVL-0146",
+   "id": "OVL-0149",
    "name": "General Principles and Impact Assessment Guide for the Development and Use of Artificial Intelligence Systems in the Federal Public Administration",
    "source_count": 2,
    "instrument_count": 2,
@@ -3823,7 +3927,7 @@
    ]
   },
   {
-   "id": "OVL-0149",
+   "id": "OVL-0152",
    "name": "Algorithmic Transparency Recording Standard -ATRS-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3845,7 +3949,7 @@
    ]
   },
   {
-   "id": "OVL-0153",
+   "id": "OVL-0156",
    "name": "Principles for Accountable Algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -3867,7 +3971,7 @@
    ]
   },
   {
-   "id": "OVL-0154",
+   "id": "OVL-0157",
    "name": "Guiding principles and recommendations",
    "source_count": 2,
    "instrument_count": 2,
@@ -3889,7 +3993,7 @@
    ]
   },
   {
-   "id": "OVL-0155",
+   "id": "OVL-0158",
    "name": "Ethical principles and democratic prerequisites",
    "source_count": 2,
    "instrument_count": 2,
@@ -3911,7 +4015,7 @@
    ]
   },
   {
-   "id": "OVL-0156",
+   "id": "OVL-0159",
    "name": "Five Areas of Ethical Focus",
    "source_count": 2,
    "instrument_count": 2,
@@ -3933,7 +4037,7 @@
    ]
   },
   {
-   "id": "OVL-0157",
+   "id": "OVL-0160",
    "name": "AI Principles of Telefónica",
    "source_count": 2,
    "instrument_count": 2,
@@ -3955,7 +4059,7 @@
    ]
   },
   {
-   "id": "OVL-0158",
+   "id": "OVL-0161",
    "name": "The FAST Track Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3979,6 +4083,7 @@
  ],
  "pair_matrix": {
   "agora|algorithmwatch": 8,
+  "agora|concordia-ai": 20,
   "agora|correa-2023": 12,
   "agora|gutierrez": 12,
   "agora|jobin-2019": 2,
@@ -3989,6 +4094,9 @@
   "algorithmwatch|jobin-2019": 32,
   "algorithmwatch|laip": 44,
   "algorithmwatch|oecd-ai": 22,
+  "concordia-ai|correa-2023": 2,
+  "concordia-ai|laip": 4,
+  "concordia-ai|oecd-ai": 4,
   "correa-2023|gutierrez": 8,
   "correa-2023|jobin-2019": 30,
   "correa-2023|laip": 56,
@@ -4001,18 +4109,22 @@
   "laip|oecd-ai": 20
  },
  "summary": {
-  "cluster_count": 158,
-  "duplicate_records": 404,
-  "unique_records": 4383,
-  "dedup_ratio": 0.084,
+  "cluster_count": 161,
+  "duplicate_records": 417,
+  "unique_records": 4439,
+  "dedup_ratio": 0.086,
   "by_source": {
    "agora": {
     "total": 1066,
-    "in_overlap": 29
+    "in_overlap": 32
    },
    "algorithmwatch": {
     "total": 140,
     "in_overlap": 99
+   },
+   "concordia-ai": {
+    "total": 69,
+    "in_overlap": 10
    },
    "correa-2023": {
     "total": 166,

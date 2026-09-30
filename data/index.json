@@ -14,6 +14,12 @@
    "count": 167
   },
   {
+   "db": "concordia-ai",
+   "file": "concordia-ai.json",
+   "title": "Concordia AI — China AI Safety Policy-Risk Matrix (72 measures)",
+   "count": 72
+  },
+  {
    "db": "correa-2023",
    "file": "correa-2023.json",
    "title": "Corrêa et al. — Worldwide AI Ethics: a pooled data set of 200 guidelines",

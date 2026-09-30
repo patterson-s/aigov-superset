@@ -428,7 +428,7 @@
    "link": "https://www.chinalawtranslate.com/en/ai-labeling/",
    "summary": "Requires clear labeling of AI-generated synthetic content in China through both explicit user-facing indicators and implicit metadata, mandates service providers and platforms to verify, disclose, and preserve such labels, and ensures compliance through regulatory oversight.",
    "classification": "unclassified",
-   "review": "auto",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -3046,7 +3046,7 @@
    "link": "https://cset.georgetown.edu/wp-content/uploads/t0611_science_ethics_trial_measures_draft_EN.pdf",
    "summary": "Establishes ethics review committees for S&T activities, including AI, to assess ethical risks. Requires committees to follow principles of independence and transparency and create emergency review procedures and high-risk AI activities. ",
    "classification": "unclassified",
-   "review": "auto",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -8282,7 +8282,7 @@
    "link": "https://cset.georgetown.edu/publication/china-science-ethics-review-trial-measures/",
    "summary": "Regulates the circumstances under which ethics reviews for AI-related research must be conducted and review processes. Requires organizations conducting research involving potentially ethically problematic scientific research to establish ethics review committees.",
    "classification": "unclassified",
-   "review": "auto",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -12141,7 +12141,7 @@
    "link": "https://digichina.stanford.edu/work/full-translation-chinas-new-generation-artificial-intelligence-development-plan-2017/",
    "summary": "Aims to establish China as an AI leader by 2030. Promotes AI integration, key technology development, and military-civilian integration. Sets strategic objectives, standards, and regulations. Supports talent cultivation, international cooperation, and governance structures for implementation and evaluation.",
    "classification": "unclassified",
-   "review": "auto",
+   "review": "none",
    "matched_to": ""
   },
   {
