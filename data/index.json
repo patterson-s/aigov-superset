@@ -2,6 +2,12 @@
  "generated": "2026-09-30",
  "sources": [
   {
+   "db": "africa-policy",
+   "file": "africa-policy.json",
+   "title": "Africa AI Policy Tool — national AI strategies & policies across Africa (1,505)",
+   "count": 1505
+  },
+  {
    "db": "agora",
    "file": "agora.json",
    "title": "AGORA — AI governance instruments, measures & actors (Zenodo v1.29.0)",
@@ -12,6 +18,12 @@
    "file": "algorithmwatch.json",
    "title": "AlgorithmWatch — AI Ethics Guidelines Global Inventory",
    "count": 167
+  },
+  {
+   "db": "asia-policy",
+   "file": "asia-policy.json",
+   "title": "Digital in Asia — Asia AI Policy Tracker (12 national strategies)",
+   "count": 12
   },
   {
    "db": "concordia-ai",

@@ -1023,7 +1023,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-2026-2030",
    "summary": "Peru’s National Artificial Intelligence Strategy 2026–2030, approved by the Presidency of the Council of Ministers through Ministerial Resolution No. 152-2026-PCM, is a national strategic instrument designed to organise and coordinate State interventions for the development, governance and management of artificial intelligence. It establishes a long-term vision and provides a framework for strengthening AI capabilities, deployment, oversight and public-sector coordination across the country.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -1040,7 +1040,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/data-center-strategy",
    "summary": "Germany’s Data Center Strategy, published in March 2026, aims to double national data centre capacity and quadruple AI compute and HPC capacity by 2030. The data center strategy identifies three priority areas: energy and sustainability, site availability and land use, as well as technology and sovereignty. These areas are supported by 28 measures to be implemented within the next 12 months.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -1686,7 +1686,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/anac-artificial-intelligence-strategy-2025-2026",
    "summary": "ANAC’s AI Strategy 2025–2026 is the Brazilian Civil Aviation Agency’s roadmap for adopting AI across the organisation in a broad, safe and responsible way. It links governance, capacity-building, risk management and implementation. It was created to improve public services, strengthen decision support and protect data, rights and trust.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -1788,7 +1788,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/uk-national-ai-infrastructure-roadmap",
    "summary": "The UK Compute Roadmap is a long-term national strategy for expanding the United Kingdom’s computing capacity to support AI research, innovation, and industrial development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -2587,7 +2587,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-compute-access-fund",
    "summary": "A federal programme that provides financial support and compute-credits to Canadian SMEs so they can access high-performance/cloud AI compute needed to train, test and deploy models for commercialisation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -3080,7 +3080,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-experience-lab",
    "summary": "The AI Experience Lab is a capacity-building initiative of the National Institute of Administration where public organisations can safely experiment with AI for real public service needs. It follows three phases — ideation, training and deployment — combining a 90-hour certified training programme with hands-on experimentation, in collaboration with leading national universities and major technology consulting firms. Participants finish the Lab with a PoC, functional prototype or MVP.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -3539,7 +3539,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/agentic-ai-hub",
    "summary": "The Agentic AI Hub is a German initiative by the Federal Ministry for Digital and State Modernization, launched on 9 March 2026, pairing 17 municipalities with ten start-ups across 18 pilot projects covering administrative tasks such as housing benefit and naturalisation. Startups and municipalities were selected from around 400 start-up and almost 200 municipal applications.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -3607,7 +3607,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/hhs-ai-strategic-plan",
    "summary": "The HHS AI Strategic Plan (2025) outlines a roadmap for the responsible use of AI across health, public health, and human services in the U.S. It aims to improve outcomes, efficiency, and equity while managing risks such as bias and privacy issues, focusing on innovation, trustworthy AI, access to technologies, and workforce development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -4763,7 +4763,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/council-for-artificial-intelligence-and-digital-technology",
    "summary": "The Conseil de l'intelligence artificielle et du numérique (Council for Artificial Intelligence and Digital Technology) is an independent advisory body placed under the authority of the French minister responsible for artificial intelligence and digital affairs. Established by decree on 8 December 2017 and restructured by a further decree of 4 September 2025, it operates on a mandate running 2025–2027.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -4916,7 +4916,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-cloud-and-data-policy",
    "summary": "South Africa’s National Data and Cloud Policy is a policy framework adopted in 2024 to guide the use of data and cloud computing in the country, with the aim of improving public service delivery, supporting a data‑driven digital economy and strengthening national digital infrastructure.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -4984,7 +4984,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-nairr",
    "summary": "The U.S. National Science Foundation-led National Artificial Intelligence Research Resource (NAIRR) is a scalable national infrastructure that provides the research and education communities with access to the critical computing, software, data, models, educational resources and expertise needed to advance AI innovation for the U.S.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5069,7 +5069,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/brazilian-open-data-portal",
    "summary": "The Brazilian Open Data Portal, also known as the National Data Catalog, is Brazil's central platform for accessing public data published by federal and local governments. Launched on 4 May 2012 by the Ministry of Planning, it enables citizens, researchers, and developers to find, download, and reuse government datasets.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5086,7 +5086,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-portal",
    "summary": "DANE.GOV.PL is Poland's national open data portal and API, maintained by the Chancellery of the Prime Minister of the Republic of Poland. It serves as the Central Public Data Repository, making public-sector data available free of charge for reuse by citizens, businesses, NGOs, scientists, and public officials.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5103,7 +5103,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-hub",
    "summary": "AI Hub is South Korea's national AI data platform, operated by the Ministry of Science and ICT (MSIT) and the National Information Society Agency (NIA). Since 2017, the platform has made available AI training datasets, enabling researchers, SMEs, ventures, and university students to access the data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5120,7 +5120,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-government-data-portal",
    "summary": "The Open Government Data Portal (data.go.kr) is South Korea's national platform for accessing and sharing public government data. It provides access to data files, open APIs, and standardised datasets published by government agencies, covering sectors such as education, health care, transportation, agriculture, finance, and culture.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5392,7 +5392,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/sandkescht-%E2%80%94-regulatory-sandbox",
    "summary": "Sandkëscht is a regulatory sandbox launched by Luxembourg's National Commission for Data Protection. Open to any entity established in Luxembourg regardless of size or sector, it provides a dedicated environment for testing projects involving new technologies, particularly artificial intelligence systems, while ensuring compliance with data protection principles. Participation lasts generally between 9 and 18 months.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5409,7 +5409,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/regulatory-sandbox",
    "summary": "The Regulatory Sandbox is an initiative by Brazil's National Data Protection Agency (ANPD), authorised under Complementary Law No. 182 of 2021. It creates a controlled environment for collaborative experimentation between the ANPD, regulated entities, and stakeholders to test AI and machine learning technologies within a regulatory framework, with a current focus on algorithmic transparency and compliance with Brazil's General Data Protection Law (LGPD).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5783,7 +5783,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-programme-on-artificial-intelligence",
    "summary": "The National programme to promote the development and use of AI in the Republic of Slovenia by 2025  (NpAI) was adopted in May 2021 as the country’s national AI strategy. The NpAI has been designed to support research, development and uptake of ethical and trustworthy AI, assuring safety and human rights in a user-centric way that benefits humans and society, based on Slovenia’s long-time research experience and capacity in AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -5953,7 +5953,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/cameroons-national-artificial-intelligence-strategy-snia",
    "summary": "Cameroon's National Artificial Intelligence Strategy (SNIA), unveiled in July 2025 by the Minister of Posts and Telecommunications, aims to position the country as Africa's leading AI hub by 2040. Built around seven pillars — governance, data infrastructure, multilingual AI, edge computing, human capital, innovation, and regional cooperation, it targets 60,000 people trained, 12,000 jobs created, and an AI contribution to GDP of 0.8–1.2%.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6038,7 +6038,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-roadmap-ai%E2%80%91rmap",
    "summary": "Malaysia’s National Artificial Intelligence Roadmap (AI‑Rmap), led by the Ministry of Science, Technology and Innovation, covers 2021–2025. It aims to build a sustainable national AI innovation ecosystem to improve productivity, competitiveness and quality of life, focusing on governance, research and development, digital infrastructure, talent and AI adoption, guided by Responsible AI principles.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6072,7 +6072,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-of-libya-2025-2030",
    "summary": "The National Artificial Intelligence Strategy of Libya 2025–2030 sets a national framework to use artificial intelligence as a driver of inclusive and sustainable development. It aims to improve public services, enhance security and innovation, and place people at the centre of AI use. The strategy is structured around six pillars covering governance, legislation and ethics, infrastructure and data, human capacity development, priority sectors, and monitoring and evaluation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6089,7 +6089,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/kenya-artificial-intelligence-strategy-2025-2030",
    "summary": "The Kenya Artificial Intelligence Strategy 2025–2030, led by the Ministry of Information, Communications and the Digital Economy, sets out a framework to position Kenya as a regional leader in AI research, innovation and application. It prioritises AI digital infrastructure, data, research and innovation, talent development, governance, investment, and ethics, equity and inclusion, with an emphasis on responsible, secure and inclusive AI deployment.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6106,7 +6106,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-of-mauritania-2024-2029",
    "summary": "The National Artificial Intelligence Strategy of Mauritania 2024–2029, led by the Ministry of Digital Transformation, Innovation and Modernization of Administration, aims to develop artificial intelligence through five priorities: human capacity building, research and innovation, data governance, ethical AI, and sectoral applications in key areas such as healthcare, education, agriculture, transport, energy and defence.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6123,7 +6123,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-of-zambia-2025-2027",
    "summary": "The National Artificial Intelligence Strategy of Zambia 2024–2026, led by the Ministry of Technology and Science, sets a national framework to use AI for economic growth, improved public services and inclusive development. It prioritises human capital development, digital infrastructure, data ecosystems, research and innovation, sectoral AI adoption and international collaboration, and establishes governance and ethical oversight through a National AI Council and Technical Working Groups.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6140,7 +6140,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/zimbabwe-national-artificial-intelligence-strategy-2026-2030",
    "summary": "Zimbabwe's National Artificial Intelligence Strategy 2026–2030 is led by the Ministry of Information Communication Technology, Postal and Courier Services and sets a national framework to harness AI for inclusive growth, innovation and national sovereignty. It defines strategic pillars on AI talent development, infrastructure and computational sovereignty, sectoral adoption, research and innovation, international collaboration, and governance and ethics.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6191,7 +6191,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/senegal-national-artificial-intelligence-strategy-and-road-map",
    "summary": "Senegal's National AI Strategy and Road Map, published in 2023 by the Ministry of Communication, Telecommunications and Digital Economy, sets out a vision for ethical, trustworthy AI to 2028. Built around four fundamental objectives and six strategic orientations, it aims to make AI a catalyst for the Plan Sénégal Émergent, improve living conditions, foster West African regional leadership, and ensure responsible and ethical AI governance.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6208,7 +6208,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/south-africa-national-artificial-intelligence-policy-framework",
    "summary": "The South Africa National Artificial Intelligence Policy Framework, published in October 2024 by the Department of Communications and Digital Technologies, is a first step towards developing a full National AI Policy. It aims to promote AI integration to drive economic growth, enhance societal well-being, and position South Africa as a leader in AI innovation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6259,7 +6259,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/guide-to-egypt-national-ai-governance-framework",
    "summary": "Egypt’s National AI Governance Framework is the suite of all AI Governance instruments and publications that establishes a comprehensive, sovereign, and human centric approach to governing artificial intelligence across the public and private sectors.  Rooted in Egypt’s constitutional values and aligned with global best practices, the Framework positions Egypt as a regional anchor in responsible AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6276,7 +6276,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/egypt-national-guidelines-for-trustworthy-and-responsible-ai",
    "summary": "The National Guidelines for Trustworthy and Responsible AI (the Guidelines) establish a\nnational reference for the responsible development, deployment, and oversight of Artificial Intelligence systems across the public and private sectors. These Guidelines aim to ensure that AI is used safely, transparently, and ethically, while supporting innovation and digital transformation in alignment with Egypt’s Vision 2030 and the National AI Strategy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -6514,7 +6514,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-strategy-2024",
    "summary": "Given the need to reinforce HPC capacities and adapt to generative AI developments, and building on consultation with representatives from industry and academia, Spain released an updated national AI strategy in May 2024.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -7296,7 +7296,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/science-digital-program",
    "summary": "This initiative aims to accelerate the digital transformation and digitalisation of science and the services that support the National Scientific and Technological System. The programme includes the completion of 94 projects funded under the AI and Data Science R&D Projects Programme in Public Administration, as well as the availability of 50 new courses offered through the national platform for massive open online courses (MOOCs).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -7704,7 +7704,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-semiconductor-strategy-1",
    "summary": "The National Semiconductor Strategy aims to bolster Czechia’s semiconductor sector, aligning with EU-wide goals outlined in the Chip Act. The strategy targets a threefold growth in the semiconductor sector by 2029, with a focus on research, export, and highly skilled talent migration.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -8078,7 +8078,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs-5",
    "summary": "Four European Digital Innovation Hubs operate in Bulgaria under the Digital Europe Programme, providing AI implementation support and technical expertise to SMEs and public organisations. The initiative is expanding with eight additional hubs. The four existing hubs include InnovationAmp, the European Digital Innovation Hub in the Construction Sector (EDIHCS); EDIH Thrace, and AgroHub.BG.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -8350,7 +8350,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/shared-government-data-centre",
    "summary": "The strategy aims at supporting digitalisation of Government services through delivery of high-quality Data Centre facilities.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -9404,7 +9404,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-fund",
    "summary": "Established under FPS BOSA, the AI Fund supports applied AI research in domains prioritised by the National Convergence Plan, including health, cybersecurity, and AI development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -9676,7 +9676,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/working-group-on-artificial-intelligence",
    "summary": "Working Group on Artificial Intelligence brings together 350 experts across 14 subgroups industry, legal, research across many sectors including health. The GRAI followed the Policy for the Development of Artificial Intelligence in Poland from 2020 to build capacity and knowledge within Polish businesses on AI while also considering regulatory compliance and protection of human dignity.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -9880,7 +9880,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-education-council",
    "summary": "The newly formed Romanian Committee for AI includes the establishment of the AI Education Council, facilitating input and guidance on issues related to Romanian AI skills development, education and training.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10118,7 +10118,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-research-and-innovation-strategy",
    "summary": "Luxembourg's National Research and Innovation Strategy positions artificial intelligence (AI) as a key enabling technology across its research priorities. The strategy aims to scale AI for specific use cases, such as personalized healthcare and education, and to establish Luxembourg as a \"living laboratory\" demonstrating the societal benefits of AI at the national level.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10169,7 +10169,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-strategy-2",
    "summary": "Portugal’s National Data Strategy aims to create a collaborative data ecosystem that promotes data altruism and drives innovation. It focuses on ethical data management, stakeholder collaboration, and continuous monitoring of data initiatives to assess their societal and economic impact.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10186,7 +10186,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-governance-strategy",
    "summary": "Latvia is in the process of developing its first National Data Governance Strategy, aiming to establish a comprehensive framework for data management across the public and private sectors. The strategy will address key aspects such as technical, semantic, legal, and organizational interoperability to enhance data sharing and utilization. Approval of the strategy is anticipated by the end of 2025.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10220,7 +10220,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-semiconductor-strategy",
    "summary": "Ireland’s National Semiconductor Strategy is being developed to guide research and innovation in semiconductor technologies. Research in this area is conducted at several Research Ireland Centres. A public consultation in 2023 helped shape the strategy, which was published in early 2025.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10237,7 +10237,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/greek-national-data-strategy",
    "summary": "The Greek National Data Strategy (2020–2025) is part of Greece’s Digital Transformation Bible and aims to create a balanced, privacy-respecting data ecosystem. It promotes open government, data-driven innovation, and compliance with EU standards. The strategy supports productivity, research, business growth, and better public services.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10254,7 +10254,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-strategy-1",
    "summary": "Germany’s National Data Strategy sets out a comprehensive plan to maximize the potential of data across public, private, and research sectors. It promotes responsible, effective, and sustainable data use while ensuring alignment with EU and national laws. The strategy strengthens data availability, quality, and accessibility to foster a culture of data-driven decision-making throughout society.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10458,7 +10458,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/guidance-on-the-use-of-ai-by-the-public-sector",
    "summary": "Ireland has developed Interim Guidelines for the Use of AI in the Public Service to promote responsible and transparent use of AI technologies. These guidelines support ethical, secure, and trustworthy AI adoption across public sector organisations. Additional guidance on AI-related cybersecurity risks has also been published to help safeguard government systems.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10560,7 +10560,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-center-of-excellence",
    "summary": "A National Data Center of Excellence, which is to coordinate the activities of local centres providing secure and fast access to data, is currently under preparation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -10577,7 +10577,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-center-for-data-processing",
    "summary": "This joint project between the Digital Poland Project Centre and the Ministry of Digital Affairs, carried out jointly with the Research and Academic Computer Network, the National Research Institute and the Central Information Technology Centre, aims at building modern processing centres ensuring the continuity and security of public administration resources.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -11172,7 +11172,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-phd-programme",
    "summary": "The Italian National PhD Program in Artificial Intelligence is a joint initiative of 5 federated PhD courses that bring together 60+ universities and research institutions.\n\nThe 5 PhD courses share a common basis in the foundations and developments of AI, and each one has an area of specialisation in a strategic sector of AI applications. Each PhD course is organized by a lead university, in collaboration with the National Research Council (CNR).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -12090,7 +12090,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/health-data-lab",
    "summary": "The Health Data Lab (HDL) at the Federal Institute for Drugs and Medical Devices makes pseudonymised claims data from people insured in the statutory health system available for research purposes and other legally defined public interest purposes, including AI development, the HDL makes an important contribution towards better and safer healthcare.\nWith the Act on Health Data Use the Social Security Code – Book V (SGB V) has been amended to explicitly enable the development of AI systems.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -12889,7 +12889,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/artiq-ai-centres-of-excellence",
    "summary": "In 2023, AGH University won a grant for the ARTIQ through the joint undertaking from the National Science Centre (NCN) and the National Centre for Research and Development (NCBR) to create a highly specialised research team to contribute to increasing Poland's scientific and R&D potential in the field of AI, with a project proposal titled “Integrating Reasoning, Learning, Optimization and Interpretability for accelerated commercialization of next-generation intelligent software systems.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -13246,7 +13246,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/latvian-national-center-for-artificial-intelligence",
    "summary": "The centre aims to advance AI adoption in Latvia by fostering collaboration between the public sector, private sector, and universities. Its objectives include pooling resources to drive AI innovation, supporting high-potential AI initiatives aligned with national interests, enhancing public AI literacy and access, and ensuring ethical, responsible AI use. The centre is expected to play a key role in AI research, education, and policy development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -13297,7 +13297,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-1",
    "summary": "Latvia is home to two European Digital Innovation Hubs (EDIHs), which focus on accelerating AI adoption: First, Digital Accelerator of Latvia (DAoL) specialises in AI research and digital product development. Second, Latvian Digital Innovation Hub (EDIHLV) has established an Applied AI Knowledge Centre to analyse business processes and model AI implementation benefits. These hubs support AI-driven manufacturing, business process automation, and municipal digital transformation through training",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -15065,7 +15065,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/cultural-ai-lab",
    "summary": "The Cultural AI Lab explores the intersection of AI and the humanities. It focuses on using AI to study cultural artifacts while also ensuring that AI development is informed by public values such as diversity and inclusivity.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -16425,7 +16425,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-government-action-plan",
    "summary": "The Open Government Action Plan 2023-2027 supports the development of data policies that align with the principles of open government. It emphasises transparency, accountability, and citizen participation in government activities. It includes initiatives to enhance data accessibility and promote the use of open data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -16510,7 +16510,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-hub-tampere",
    "summary": "AI Hub Tampere is a research centre dedicated to applied AI hosted by Tampere University and funded by public instruments. Backed by a coalition of 25 professors combining multiple disciplines, AI Hub explores the diverse socio-technical aspects of AI transformation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -16799,7 +16799,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs-4",
    "summary": "European Digital Innovation Hubs (EDIHs) in Slovakia play a crucial role in supporting the uptake of AI and other innovative technologies in public sector organisations. These hubs provide resources, expertise, and support for implementing AI-driven solutions to enhance public service delivery.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -16918,7 +16918,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-croatia-strategy",
    "summary": "A comprehensive national digital transformation strategy that aims to strengthen the Croatian market's investment cycle through additional financial resources for new technologies, including AI and green technologies.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -17071,7 +17071,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-policy-open-data-portal",
    "summary": "The Open Data Policy establishes a comprehensive framework for public sector data sharing, aiming to enhance transparency and create economic opportunities. The policy enables unrestricted access to government data for both domestic and international users, including researchers from academia and industry.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -17224,7 +17224,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-portal-public-sector-data",
    "summary": "This platform is designed to share a wide range of public sector data, including scientific data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -17275,7 +17275,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs-3",
    "summary": "Czechia hosts key European Digital Innovation Hubs (EDIHs) that facilitate the digital transformation of enterprises and public organisations. For instance, EDIH CTU focuses on supporting AI and HPC applications, offering tailored solutions for SMEs and the public sector through expert consultations, training, and access to cutting-edge infrastructure. Another notable hub, EDIH Testbed for Industry 4.0, specialises in advanced manufacturing technologies, helps organisations adopt Industry 4.0.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -17377,7 +17377,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-strategy-for-research-data-management",
    "summary": "DeiC is also leading the work to implement the National Strategy for Research Data Management. The strategy targets research institutions and research funding organisations. It defines several principles and areas of action to strengthen the dissemination and financing of good data management practices, resulting in more FAIR research data (Findable, Accessible, Interoperable, Reusable) in Denmark.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -17921,7 +17921,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/danish-data-portal",
    "summary": "www.datavejviser.dk aims at enabling access to available data from the public sector and engaging in dialogue with users on their demand for further access to data so that future investments in quality and availability of public sector data is demand-driven.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -18193,7 +18193,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/flemish-data-strategy",
    "summary": "The Flemish Data Strategy aims to transform governance by fostering collaboration between local and regional authorities to enable data-driven decision-making.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -18210,7 +18210,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/federal-data-strategy",
    "summary": "The Federal Data Strategy, coordinated by FPS Economy, focuses on creating a robust data ecosystem across sectors such as mobility, energy, manufacturing, and health.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -18329,7 +18329,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-strategy",
    "summary": "Austria has published its first national data strategy in October 2024 (Federal Chancellery of Austria, 2024).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -18448,7 +18448,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/using-generative-artificial-intelligence-for-and-in-education",
    "summary": "The Ministry of Education has published this public call for proposals with regard to the use of generative artificial intelligence for and in education, including content development for primary and secondary school, in line with the with the Recovery and Resilience Plan (RRP) within the development area of Smart, Sustainable and Inclusive Growth.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -19417,7 +19417,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-competition-naic",
    "summary": "The ARCHIMEDES Unit of the Athena Research Center, together with key Greek AI and education organisations, organises the National Artificial Intelligence Competition (NAIC) for middle and high school students. The competition introduces students to AI techniques such as machine learning, computer vision and natural language processing. Winners represent Greece at the International Olympiad in Artificial Intelligence.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -20114,7 +20114,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/women-in-digital",
    "summary": "Belgium’s national and intersectoral strategy “Women in Digital 2021–2026” aims to increase women’s representation in the digital sector by tackling cultural and systemic barriers. Coordinated by the FPS Economy, the five-year plan sets out concrete actions to boost women’s participation and retention in digital education and careers, challenge stereotypes, and bridge the gender gap in specific target groups.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -20335,7 +20335,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs-2",
    "summary": "Sweden has co-financed four European Digital Innovation Hubs (EDIHs) approved by the European Commission and continues to support five additional hubs through the EC’s “Seal of Excellence”. The creation and operation of these hubs is a joint effort between Vinnova (the Swedish Innovation Agency) and Tillväxtverket (the Swedish Agency for Economic and Regional Growth).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -20539,7 +20539,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/the-national-ai-policy",
    "summary": "The Rwanda AI policy aims to achieve the following national objectives:\n• Positioning Rwanda as Africa's AI Lab and Responsible AI Champion\n• Building 21st Century Skills and AI Literacy\n• Creating an Open, Secure, Trusted Data Ecosystem as an Enabler of the AI Revolution\n• Driving Public Sector Transformation to Fuel AI Adoption\n• Accelerating Responsible AI Adoption in the Private Sector",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -20641,7 +20641,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs-1",
    "summary": "Slovenia hosts two European Digital Innovation Hubs (EDIHs) with dedicated services to support AI start-ups and scale-ups in accessing financing and advancing digital transformation. These are: Smart, Resilient and Sustainable Communities (SRC-EDIH) and DIGI-SI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -20913,7 +20913,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/test-3",
    "summary": "Slovakia hosts several European Digital Innovation Hubs (EDIHs) that support digital transformation across sectors. These hubs assist SMEs, hospitals, companies, and public institutions in adopting advanced digital technologies, including AI. Their implementation is coordinated by the Ministry of Investment, Regional Development, and Informatization.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21032,7 +21032,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edihs",
    "summary": "Romania hosts seven European Digital Innovation Hubs (EDIHs), five of which have a strong focus on artificial intelligence. These hubs support SMEs and public organisations in adopting digital and AI technologies. They are co-funded by the European Commission and the Romanian Government to drive digital transformation across the country.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21049,7 +21049,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-innovative-lab",
    "summary": "The AI Innovative Lab focuses on building advanced research and development capacity in artificial intelligence. Its mission is to develop skills and applications in areas such as bioinformatics, computer vision, and natural language processing. The lab also advances research in deep learning and other AI subfields to generate innovative solutions.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21236,7 +21236,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/centre-of-excellence-for-ai-randd",
    "summary": "The Centre of Excellence for AI R&D in Portugal is currently under development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21253,7 +21253,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs",
    "summary": "There are 22 Digital Innovation Hubs in Poland, 11 of which are funded under the Digital Europe programme.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21542,7 +21542,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/data-sharing-policy",
    "summary": "The initiative seeks to establish guidelines for secure and responsible data sharing to protect privacy and confidentiality.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21559,7 +21559,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-datathon",
    "summary": "SDAIA launches the Open Data Datathon to develop talent and skills in data science, foster innovation, and address real-world challenges using open data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21695,7 +21695,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/global-ai-summit",
    "summary": "The Global AI Summit is the leading platform for advancing the global discussion on AI, where visionary experts, academics, corporates, and policymakers converge from every part of the world to shape the future of artificial intelligence for the good of humanity",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -21899,7 +21899,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-spanish-sandbox-pilot-6727",
    "summary": "The AI Regulatory Sandbox, developed in collaboration with the European Commission, is a digital space that seeks to connect competent authorities with AI development companies to jointly define best practices when implementing future European AI regulation, and ensure its application. The AI Sandbox will be implemented by two focus groups and they will work on the publication of initial guidelines. The initiative will include a quality label.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -22324,7 +22324,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-laboratory-9609",
    "summary": "Established in 2020 under the Ministry for Culture and Innovation, this laboratory serves as a central hub for AI research and development. It unites numerous research centers and receives government funding, positioning itself as a foundational pillar in advancing the country's AI capabilities.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -22562,7 +22562,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/advisory-center-for-ai-1293",
    "summary": "The Federal Ministry of the Interior and Community’s (Bundesministerium des Innern und für Heimat, BMI) BeKI initiative is creating a central advisory and coordination hub for AI in the federal administration. It aims to standardise AI initiatives across federal agencies by offering guidance on legal, ethical, and technical aspects of AI use. BeKI also collaborates with other specialised centres like the Federal Ministry of Finance’s AI Competence Centre.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -22681,7 +22681,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-task-force-for-ai-9528",
    "summary": "To accelerate the roll-out of AI in the public sector, the government, together with Local Government Denmark and Danish Regions, have established a Digital Taskforce for Artificial Intelligence.\nThe Task force shall promote a structured and coordinated initiative to to identify and address barriers to the use of AI and promote large-scale deployment of AI solutions across the public sector.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -22715,7 +22715,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/regulatory-sandbox-for-ai-5592",
    "summary": "Denmark's Regulatory Sandbox for AI helps businesses and public authorities develop AI projects by offering expert advice on data protection and AI rules. It aims to support safe and legal AI use while speeding up project development. This initiative reduces uncertainty about laws, helping more AI solutions reach the market responsibly. Part of the Danish strategy for digitalisation, the sandbox is open to public and private organisations.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -23123,7 +23123,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-digital-strategy-4259",
    "summary": "The NDS 2023 “ 2026 is the instrument that consolidates and coordinates all the public policy initiatives of the national government related to connectivity and digital transformation for the coming years, providing Colombia's vision regarding access, use and appropriation of data and digital technologies. Additionally, this strategy includes a component (axis) associated with Artificial Intelligence with specific actions to be developed in terms of public policy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -23208,7 +23208,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-startup-fund-8653",
    "summary": "Algeria's state-owned telecom company Algerie Telecom has announced a 1.5 billion dinar ($11 million) investment fund to support startups in artificial intelligence, cybersecurity, and robotics.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -23225,7 +23225,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-centers-4730",
    "summary": "Considering the progress made in Colombia concerning the adoption of AI systems and the contribution they can make to accelerate accurate decision-making based on data and evidence, as well as the priorities established by the National Government on this issue, it has been proposed that the country will be able to adopt and the creation of artificial intelligence centers. These Centers will be essential articulators for the strategy of digital ecosystems being consolidated at the national level.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -23276,7 +23276,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/centre-for-the-fourth-industrial-revolution-c4ir-network-1246",
    "summary": "C4IR is focused on developing advanced and smart regulation, research, and policy design for emerging technologies such as AI, blockchain, and IoT.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -23684,7 +23684,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-upskilling-fund-1774",
    "summary": "The AI Upskilling Fund will support small and medium-sized enterprises (SMEs) by match-funding AI skills training for their employees.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24126,7 +24126,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/uae-national-strategy-for-ai-8711",
    "summary": "In In October 2017, the UAE Government announced the vision of the National Strategy for Artificial Intelligence of 2031 which aims for the UAE to be one of the leaders in AI in the world.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24143,7 +24143,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/uae-council-for-ai-4520",
    "summary": "UAE Council for Artificial Intelligence (AI) will oversee AI integration in government departments and the education sector.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24262,7 +24262,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-lab-1033",
    "summary": "This lab is in effect a production line of AI use cases for the city. These use cases cross all aspects of city services, from police and security, to land development, education and environmental services. The AI lab is a vital innovation test bed and important in building competency within government around this fast-paced technology.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24568,7 +24568,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-policy-stakeholder-workshops-2538",
    "summary": "The process for designing the framework launched with a collective intelligence workshop in September 2020, in which a diverse set of stakeholders gathered to identify and prioritise key AI opportunities, risks, and socio-ethical implications in the country.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24602,7 +24602,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/centre-for-the-fourth-industrial-revolution-c4ir-7729",
    "summary": "In 2020, during the World Economic Forum Annual Meeting in Davos, the Government of Rwanda signed an agreement with the Forum to establish C4IR Rwanda.Part of a network of 19 centres globally, C4IR Rwanda is shaping the trajectory of the Fourth Industrial Revolution with local knowledge that can empower global change.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24840,7 +24840,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/fairness-innovation-challenge-6484",
    "summary": "The Department for Science, Innovation and Technology (DSIT) has engaged extensively with both industry and regulators to understand how we can leverage tools for trustworthy AI, like assurance techniques and standards, to help operationalise the government's proposed regulatory principles in practice, for example, fairness.  To investigate this in practice, DSIT has launched the Fairness Innovation Challenge alongside Innovate UK.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24891,7 +24891,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ico-regulatory-sandbox-4030",
    "summary": "The UK ICO Regulatory Sandbox service provides advice and supports organisations who are developing products and services that use personal data in innovative and safe ways.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24976,7 +24976,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/nhs-ai-lab-6807",
    "summary": "The NHS AI Lab was set up to accelerate the safe, ethical, and effective adoption of AI in health and care. It brings together government, health and care providers, technology companies and academia to address some of the toughest challenges to the development and deployment of AI in the NHS and care settings.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -24993,7 +24993,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-standards-hub-9110",
    "summary": "Practical tools and information to improve AI standards adoption and development, including on generative AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25078,7 +25078,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/au-data-policy-framework-2933",
    "summary": "This framework sets out a common vision, principles, strategic priorities and key recommendations to guide African countries in developing their national data systems and capabilities to effectively use and derive value from data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25095,7 +25095,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-transformation-strategy-for-africa-9041",
    "summary": "Recognizing the efforts of the continent's leadership to prioritize and accelerate digital transformation, and building on the vision of many African leaders, African countries are ready for a comprehensive digital transformation strategy to guide a common, coordinated response to reap the benefits of the fourth industrial revolution",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25486,7 +25486,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-council-ai-roadmap-8094",
    "summary": "The AI Council have published a written roadmap making recommendations to Government to double-down on investments, remain adaptable and develop a globally ambitious strategy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25554,7 +25554,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/strategy-for-science-technology-and-innovation-5806",
    "summary": "This strategy aims to articulate Spain's R&D&I strategy with EU's science and innovation programme, Horizon Europe.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25673,7 +25673,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/state-data-center-2673",
    "summary": "The Office for IT and eGovernment has established a State Data Center which is, in terms of technical and security standards, one of the most modern in the region and stores the key information and communication infrastructure of the Republic of Serbia. The Center meets the Tier 3+ standard, and the Center's services are provided in accordance with the ISO 27001 security standard, ISO 9001 quality standards, as well as with the quality of service provision, ISO 20000.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -25928,7 +25928,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-council-5545",
    "summary": "The UK government created a senior AI Council as an independent expert committee to advise on how to stimulate the adoption of AI, promote its ethical use, and maximise its contribution to economic growth. The Council consisted of leaders from business, academia and civil society.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26115,7 +26115,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-strategy-6020",
    "summary": "The National Data Strategy will help ensure that people, businesses and organisations trust the data ecosystem, are sufficiently skilled to operate effectively within it, and can get access to data when they need it.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26557,7 +26557,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/innovation-fund-serbia-5579",
    "summary": "The vision of the Fund is to, as a key state actor in the development of Serbia's innovation system, contribute to the country's economic growth by supporting innovation, strengthening the link between science and economy, establishing new and strengthening existing companies with innovative potential, through various financial instruments. The Fund's mission is to support the development of innovation through appropriate financial, technical and advisory support instrument",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26591,7 +26591,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-government-strategy-2023-2030-6950",
    "summary": "The Digital Government Strategy (2023-2030) defines the Kingdom's aspirations, vision, objectives, initiatives, and roadmap. Most strategic initiatives are geared towards achieving the UN Sustainable Development Goals (SDGs) and the Saudi Vision 2030. The Strategy is also guided and aligned with the Saudi Vision 2030 goals and strategic objectives.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26642,7 +26642,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-platform-5698",
    "summary": "In accordance with the goals and measures of the Strategy for the Development of AI in the Republic of Serbia for the Period 2020-2025. In 2021, the Government of the Republic of Serbia provided the National Platform for AI (AI Platform), which is located in the State Data Center in Kragujevac.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26659,7 +26659,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-biotechnology-strategy-6661",
    "summary": "The National Biotechnology Strategy outlines Saudi Arabia's roadmap to becoming a global leader in biotechnology by 2040, aiming to enhance healthcare, boost economic growth, create jobs, and promote sustainability.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26676,7 +26676,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-dictionary-2480",
    "summary": "There are currently ongoing efforts to launch a National Data Dictionary (NDD) in order to solve a number of problems such as the challenges of integrating information systems of public institutions and organizations, duplicate and conflictive data, lack of a common language in information systems and unknown data ownership. The NDD has started the process of standardizing data, and a Data Dictionary Portal has been established under the auspices of the Digital Transformation Office.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26693,7 +26693,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-and-ai-strategy-9964",
    "summary": "Saudi Arabia revealed its National Strategy for Data & AI (NSDAI) which aims to make the country a global leader in Artificial Intelligence by 2030.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -26948,7 +26948,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/emerging-technologies-regulatory-sandbox-1894",
    "summary": "the Communications and Information Technology Commission (CITC) launched the Emerging Technologies Regulatory Sandbox to support investors and companies interested in the Kingdom's emerging tech field. The Regulatory Sandbox aims to increase investment, foster innovation, and maintain adequate consumer protection.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27067,7 +27067,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-regulations-5185",
    "summary": "The regulations set out the regulatory frameworks for open data, which is a subset of public information.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27101,7 +27101,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/freedom-of-information-regulations-2934",
    "summary": "The regulations outline the fundamentals and guiding principles of data freedom and apply to requests made by individuals to access or obtain unprotected public data generated by public entities.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27186,7 +27186,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/guidance-on-artificial-intelligence-ai-and-machine-learning-ml-technologies-based-medical-devices-6418",
    "summary": "This guidance applies to Artificial Intelligence (AI) and Machine Learning (ML) technologies that diagnose, manage or predict diseases by analyzing medical data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27220,7 +27220,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-government-regulatory-framework-2703",
    "summary": "The Digital Government Regulatory Framework categorized as an organizational tool based on international best practices. With this framework, the main components of designing and strategically executing the digital government policy are created, and it works on unifying the concept of policies, standards, and guidelines of digital government.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27237,7 +27237,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-project-5676",
    "summary": "Open Data Portal is a data sharing project that generates value from anonymized and private data to be offered to individuals and scientific community.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27373,7 +27373,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/centre-for-fourth-industrial-revolution-t%C3%BCrkiye-9004",
    "summary": "C4IR Turkiye aims to implement a new vision that supports member companies in their transition to Industry 4.0 while fulfilling its traditional role as an industry association. The Centre is crucial in shaping national strategies for the Fourth Industrial Revolution and fostering public-private collaborations. Our primary focus areas include the Internet of Things, Robotics, Smart Cities, AI, and ML. Currently, we are working on projects to enhance the impact of Industrial IoT in SMEs.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27441,7 +27441,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/freedom-of-information-policy-4203",
    "summary": "The policy and the regulations outline the fundamentals and guiding principles of data freedom and apply to requests made by individuals to access or obtain unprotected public data generated by public entities.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27458,7 +27458,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/data-classification-policy-5280",
    "summary": "The Policy set the framework for classifying the data received, produced, or dealt with by public entities, regardless of their source, form, or nature.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27492,7 +27492,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-government-policy-9184",
    "summary": "Create a comprehensive digital government ecosystem focused on beneficiaries.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27560,7 +27560,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-policy-7419",
    "summary": "This initiative sets out the regulatory frameworks for open data, which is a subset of public information.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27662,7 +27662,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-policy-2843",
    "summary": "The 2016 access to information law is the baseline from which the Tunisian government started working on open data. The law was implemented as a result of the efforts and advocacy civil society in Tunisia.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -27679,7 +27679,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/tunisia-ai-roadmap-1825",
    "summary": "This Roadmap states objectives and proposes an action plan for the development of AI in Tunisia.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28070,7 +28070,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/thailand-national-ai-strategy-and-action-plan-2022-2027-1728",
    "summary": "Vision: Thailand has an effective ecosystem to promote AI development and application to enhance the economy and quality of life within 2027.3 Goals:1) To develop human capacity and Technology2) To create economic growth3) To create social and environmental impact",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28121,7 +28121,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/interdepartmental-working-group-on-ai-5087",
    "summary": "Within the framework of its \"Digital Switzerland\" strategy, the Swiss Federal Council established a working group within the federal administration on the subject of AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28223,7 +28223,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-switzerland-strategy-1055",
    "summary": "The \"Digital Switzerland\" Strategy provides the guidelines for government action and indicates where and how authorities, academia, the private sector, civil society and politics must work together in order to shape the transformation process for the benefit of everyone in Switzerland.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28393,7 +28393,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/slovenian-ai-observatory-1366",
    "summary": "Slovenian AI observatory, monitoring AI research, innovation and uptake status in Slovenia for monitoring implementation of NpUI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28461,7 +28461,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-uzbekistan-2030-3968",
    "summary": "Digital Uzbekistan - 2030 is a national strategy to use digital technologies to improve government services and daily life for all citizens. It aims to connect more people to fast internet, make online services widely available, and help the country become more modern and competitive. The initiative was created to reduce inequality, increase efficiency, and prepare Uzbekistan for the digital future.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28597,7 +28597,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-strategy-for-the-digital-government-6765",
    "summary": "This AI Strategy for the Digital Government presents the first actions to be carried out, through an open construction process, and shares what has been elaborated with different stakeholders to obtain their vision and contributions, both nationally and internationally.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28631,7 +28631,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/pulse-lab-kampala-3562",
    "summary": "Pulse Lab Kampala combines traditional data sources with new technologies to gain greater insight into how to better serve people living on the African continent.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28648,7 +28648,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/expert-national-task-force-on-the-fourth-industrial-revolution-2910",
    "summary": "Uganda has set up a national task force to advise government on domesticating technological advance from the fourth industrial revolution to fast track the country's economic development.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28699,7 +28699,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/presidential-commission-on-the-fourth-industrial-revolution-3441",
    "summary": "Presidential Commission on Fourth Industrial Revolution consists of leaders from academia, business and civil society.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28716,7 +28716,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/centre-for-the-fourth-industrial-revolution-south-africa-6126",
    "summary": "The South African hub of the WEF C4IR network advances smart regulation for emerging technologies such as AI and blockchain, through collaboration with government regulators and the technology industry in South Africa.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -28801,7 +28801,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/mauritius-ai-council-1646",
    "summary": "The METC has four main strategic objectives:Boost the digital ecosystem, focusing on emerging technologiesSupport innovation with emerging technologiesAdvise the government on policies related to emerging technologiesCraft industry partnerships",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29481,7 +29481,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/regulatory-sandbox-2970",
    "summary": "Objectives:To test out new technologies and services in the real market.To allow the government to improve related regulations based on real-life data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29549,7 +29549,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/presidential-committee-on-the-fourth-industrial-revolution-6528",
    "summary": "The Presidential Committee on the Fourth Industrial Revolution (PCFIR) helps guide Korea through rapid technological changes like AI. It supports businesses by creating a safe space for innovation and learning from trial and error. This initiative aims to boost Korea's global competitiveness and help industries adapt to new digital challenges.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29685,7 +29685,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/al-khwarizmi-program-4896",
    "summary": "The Al-Khwarizmi Program is a national Moroccan initiative that supports research in artificial intelligence and big data. It funds 45 projects from 15 universities to solve real-life problems in areas like health, agriculture, and education. The goal is to boost innovation and help different sectors benefit from new technologies.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29753,7 +29753,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-center-for-innovation-and-artificial-intelligence-7427",
    "summary": "It is a national center of excellence in artificial intelligence, in response to the need for human talent and with the aim of accelerating the development and adoption of AI, which will carry out research, development, socialization and innovation by adopting Artificial Intelligence, coordinating its activities with the national and international academic sector, the private and public sectors, considering the sectors where Peru has competitive advantages, whether due to biodiversity, key econo",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29889,7 +29889,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-open-data-platform-4570",
    "summary": "The National Open Data Platform publishes government data produced, processed, stored and / or collected on digital platforms from all public entities of Peru.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29906,7 +29906,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/punku-open-data-portal-2016",
    "summary": "Open data site with a computing tool that allows users to obtain statistical reports of the main indicators in the telecommucation markets (economic and financial performance, and user complaints).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -29974,7 +29974,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-rd-strategic-plan-1078",
    "summary": "This purpose of this Plan is to convey a clear set of R&D priorities that address strategic research goals, focus Federal investments on those areas in which industry is unlikely to invest, and address the need to expand and sustain the pipeline of AI R&D talent.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -30552,7 +30552,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/pcast-generative-ai-working-group-2209",
    "summary": "The PCAST Generative AI Working Group advises the President on the safe and fair use of generative AI technology. It helps identify risks and opportunities to guide responsible development and deployment. This initiative benefits the public by promoting AI that is trustworthy and used fairly.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -30790,7 +30790,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-research-resource-pilot-1037",
    "summary": "The NAIRR pilot brings together computational, data, software, model, training and user support resources to demonstrate and investigate all major elements of the NAIRR vision first laid out by the NAIRR Task Force.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -31283,7 +31283,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/federal-data-strategy-2044",
    "summary": "The Federal Data Strategy (FDS) encompasses a 10-year vision for how the Federal government will accelerate the use of data to deliver on its mission, serve the public, and steward resources while protecting security, privacy, and confidentiality.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -31300,7 +31300,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-authority-2323",
    "summary": "The Presidency of the Council of Ministers, through the Secretariat of Government and Digital Transformation, was assigned as the national technical-regulatory authority responsible for directing, evaluating and supervising the use and promotion of the development of artificial intelligence and emerging technologies at national level.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -31385,7 +31385,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/regulatory-sandbox-on-ai-5037",
    "summary": "The Government has established a regulatory sandbox for data protection in AI under the remit of the Norwegian Data Protection Authority.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -31453,7 +31453,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-data-catalogue-2478",
    "summary": "The National Data Catalogue “ data.norge.no “ is a public website providing an overview of descriptions of datasets, concepts, APIs and information models. The content is supplied by various establishments, both public and private.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -31538,7 +31538,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/strategy-for-the-digital-transformation-of-public-administration-8463",
    "summary": "he TIC2021-26 and corresponding Transversal Action Plan , both to be launched in 2021, are the guiding documents for the digital transformation of the Portuguese public administration, encompassing 6 lines of action: i) Digital public services; ii) Valorization of Data; iii) Reference Architectures; iv) ICT skills; v) ICT infrastructure and services; vi) Security and Trust.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -32422,7 +32422,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-apprenticeship-programme-7433",
    "summary": "The AIAP is a full time 9-month programme where we train and groom local Singaporean AI talent. This is in line with the nation's focus in deepening national capabilities in AI, not only in terms of technology, but also skillsets and talents. The AIAP is a deep skilling programme and successful applicants to the AIAP are expected to have prior knowledge in AI and Machine Learning. During the duration of the programme the apprentice is paid a stipend of between SGD$3500 - $5500 per month.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -32456,7 +32456,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-research-programme-5828",
    "summary": "AI Research Programme seeds high quality research efforts aimed at developing fundamental AI novel techniques, algorithms and adjacent technologies that will eventually significantly contribute to the other pillars of AI Singapore. The AI Singapore Research Programme will also encourage national research collaborations and nurture local AI talents.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33306,7 +33306,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-alliance-of-artificial-intelligence-3521",
    "summary": "A strategy that seeks to recognise and strengthen the AI ecosystem in Mexico to maintain an open dialogue on AI and its impacts, with a comprehensive, plural, and multidisciplinary perspective, and with the participation of the different stakeholders and society in general; having as main objective: \"AI for the benefit of humanity and as a transversal axis for the sustainable development of Mexico\".",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33340,7 +33340,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-certification-programme-5194",
    "summary": "A set of guidance notes aimed at assisting Service Providers and AI-ITA Applicants when approaching the Malta Digital Innovation Authority (MDIA) for registration and certification respectively.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33850,7 +33850,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-transformation-guidelines-5065",
    "summary": "Digital transformation of society, including private and public sectors",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33901,7 +33901,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/latvias-national-ai-strategy-4180",
    "summary": "In February 2020, the Latvian government released its National AI Strategy on Developing Artificial Intelligence Solutions.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33935,7 +33935,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/kenyas-digital-economy-strategy-1882",
    "summary": "This Strategy aims at developing the digital economy in Kenya. It focuses on six pillars (Digital Government, Digital Business, Infrastructure, Innovation and Entrepreneurship, Digital Skills and Values and Digital Inclusion) as well as the following cross-cutting themes: An Integrated Ecosystem, Data, Emerging Trends, Green ICT, Security and, Policy and Regulatory Framework.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33952,7 +33952,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/kenyas-digital-economy-blueprint-1532",
    "summary": "The Blueprint sets clear outcomes, identifies opportunities and areas that need further focus in the Kenyan digital economy ecosystem, while outlining corresponding plans of action for Government, private sector and the citizens. The Blueprint identifies the five pillars of the digital economy: Digital Government, Digital Business, Infrastructure, Innovation-Driven Entrepreneurship and Digital Skills and Values.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -33986,7 +33986,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/blockchain-and-ai-task-force-5334",
    "summary": "The Kenyan government created a Blockchain & Artificial Intelligence task force in February 2018.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -34445,7 +34445,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-strategy-council-9987",
    "summary": "Council of experts to discuss issues related to AI",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -34904,7 +34904,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/irish-national-ai-strategy-2021-3158",
    "summary": "This strategy aims to provide a high-level direction to the development, adoption and implementation of AI in Ireland.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35023,7 +35023,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/estonian-open-data-portal-2937",
    "summary": "Open Data Portal gives everyone the opportunity to consume and visualize open data, it includes use cases that are based on open data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35108,7 +35108,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-task-force-report-2075",
    "summary": "This report includes proposals for applying artificial intelligence within Estonia on a wider scale.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35142,7 +35142,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/estonias-ai-task-force-2988",
    "summary": "The AI Task Force was initially formed as a collaboration initiative between the Estonian Government's Ministry of Economic Affairs and Communications and Government Office, but has included over time participants from the private and public sectors, as well as academics.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35244,7 +35244,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/applied-innovation-center-8245",
    "summary": "Egypt launched an Applied Innovation Center for creating applications in different emerging technologies including AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35278,7 +35278,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/african-working-group-on-ai-5730",
    "summary": "The AI Working Group (AIWG) is a pioneering platform which aims to develop a unified AI strategy for Africa.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35295,7 +35295,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/arab-ai-working-group-6814",
    "summary": "The Arab AI Working Group aims to develop a common Arab strategy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35380,7 +35380,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-verify-7132",
    "summary": "An AI governance testing framework and toolkit for companies.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35533,7 +35533,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/innovation-fund-denmark-6685",
    "summary": "Innovation Fund Denmark supports research and innovation projects to help businesses and institutions develop new technologies, including AI. In 2024, it dedicated 100 million DKK to AI projects to boost growth and solve important challenges. This initiative helps create smarter solutions that benefit society and the economy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35771,7 +35771,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-open-data-portal-8957",
    "summary": "The National Open Data Portal is an API interface that provides access to a large data repository of the public administration. The main objective of the data.gov.cy is to offer the user the ability to easily and quickly find and access processed or unprocessed public sector data, with a view to their reuse and exploitation beyond their original destination, for the development of innovative services / products with added value. This both promotes economic growth and ensures transparency.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35788,7 +35788,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/digital-talent-8623",
    "summary": "This initiative integrates companies, training institutions, and the government to develop new capacities in people, in tune with the demands of the digital economy, generating more opportunities to access quality jobs. It aims to connect the demand for talent, the supply of training and job placement.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -35924,7 +35924,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-digital-languages-plan-7509",
    "summary": "This initiative aims to promote the digital transformation of the country by training teachers in the use of tools that contribute to promoting the teaching of computational thinking and programming in the classroom. In this way, the Plan will leave capacities installed in the schools.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -36264,7 +36264,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/egypt-national-ai-strategy-5294",
    "summary": "The National AI Strategy is a key priority for helping achieve Egypt's sustainable development goals.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -36417,7 +36417,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-resource-portal-9807",
    "summary": "This initiative aims to promote R&D in the field of artificial intelligence (AI) through a cloud-based computation platforms.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -36706,7 +36706,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/advisory-council-on-ai-9958",
    "summary": "The Advisory Council on AI advises the Government of Canada on building Canada's strengths and global leadership in AI, identifying opportunities to create economic growth that benefits all Canadians, and ensuring that AI advancements reflect Canadian values.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -36859,7 +36859,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/data-protection-authority-7674",
    "summary": "To act as the supervisory data authority in Iceland.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -37131,7 +37131,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-portal-7780",
    "summary": "The Federal government transposed the EU PSI Directive into the 2016 Law related to the re-use of public sector information, accompanied by the development of a Federal Open Data Strategy.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -37267,7 +37267,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-capability-fund-9083",
    "summary": "The AI Capability Fund was an allocation of over $29 million Australian dollars to build Australia's artificial intelligence capability and support the responsible development of AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -37454,7 +37454,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/public-data-portal-6025",
    "summary": "The aim of the public data portal is to establish a complete and responsible national data management scheme, which includes sharing non-personal data assets created in the public sector and having a significant multiplier effect in order to exploit the potential economic stimulation effect associated with their wide availability.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -38100,7 +38100,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-centre-of-excellence-2858",
    "summary": "Given the long-term investment of the Greek society in highly-educated young scientists and the increasing demand for such talent world-wide, Greece is becoming a very attractive place for setting up Centers of Excellence and Innovation, like DICE. This is gradually impacting the nature of the Greek IT industry, which focuses on innovation and provides services and products throughout the world.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -38168,7 +38168,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/high-level-advisory-committee-on-artificial-intelligence-2818",
    "summary": "The Committee provides evidence-based advice and proposals on how Greece can exploit the multiple potentials and opportunities arising from the use of AI, and how it can implement a coherent framework to protect against the potential challenges and adaptations, inequalities and risks involved.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -38202,7 +38202,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/brazilian-strategy-for-digital-transformation-4053",
    "summary": "Brazil's digital transformation strategy (E-Digital), published on March 2018, harmonises and co-ordinates different governmental initiatives on digital issues to advance the Sustainable Development Goals in Brazil.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -38678,7 +38678,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-startup-hubs-1873",
    "summary": "Objectives: \n- Support science-related start-ups in the field of artificial intelligence as well as their scaling and internationalization\n- Promote start-ups with a special focus on artificial intelligence in aviation, maritime tech, GreenTech and MedTech sectors in Hamburg metropolitan region.\n- Establishment of an internationally visible AI innovation ecosystem.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -38950,7 +38950,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/fair-forward-ai-for-all-3535",
    "summary": "FAIR Forward is committed to the goals of the German AI strategy with a particular focus on international networking. The initiative seeks to establish capacities and knowledge about AI in emerging and developing countries so that economic and social opportunities can be utilised there. The objective is to bring global partners into a position to utilize the potential of AI for sustainable development and thus to help achieve the sustainable development goals (SDG) in the Agenda 2030.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39154,7 +39154,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-technology-roadmap-1705",
    "summary": "Published by the Australian government in November 2019, and co-developed by CSIRO's Data61 and the Department of Industry, Innovation, and Science, the Roadmap identifies strategies to help develop a national AI capability to boost the productivity of Australian industry, create jobs and economic growth, and improve the quality of life for current and future generations.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39256,7 +39256,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-centre-8546",
    "summary": "The National AI Centre will be established to help drive business adoption, development and use of transformative AI technologies across the Australian ecosystem.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39409,7 +39409,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-center-6766",
    "summary": "The AI Center (Argentina) is a technical cooperation project between the Argentine government and the Inter-American Development Bank (IDB). Its main goal is to strengthen the country's institutional capacity in artificial intelligence by establishing an AI center that follows global best practices. The initiative supports the national strategy to promote AI research, development, and adoption across public and private sectors.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39528,7 +39528,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/artificial-intelligence-safety-institute-aisi-9208",
    "summary": "The Korea AISI is Korea AISI) is an organization dedicated to evaluating the risks associated with AI models or systems and researching technologies for preventing and mitigating those risks. We represent the Republic of Korea in collaborating with AI safety research institutes and related organizations worldwide.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39545,7 +39545,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-seoul-summit-3654",
    "summary": "Following the AI Safety Summit held by the UK in 2023, the AI Seoul Summit contributed to making the AI Summit a leader-level platform for comprehensive discussion on global AI governance.The Seoul Declaration suggests a balanced global AI governance that promotes AI safety while also supporting AI innovation and inclusivity, and received endorsement from global AI leaders, including the G7.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -39970,7 +39970,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/breakthrough-innovation-challenge-on-ai-for-health-1373",
    "summary": "To be determined",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40021,7 +40021,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-stakeholder-forum-5114",
    "summary": "The AI Stakeholder Forum, founded March 2024, consists of various associations and interest groups and is intended to strengthen a lively and active exchange between the federal government and Austria's various stakeholders in the field of artificial intelligence. Part of the AI Stakeholder Forum are amongst others representatives of employers and labour in Austria, AI and IT associations, as well as associations for youth and for disabilities.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40089,7 +40089,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-cybersecurity-strategy-2723",
    "summary": "This Strategy promotes public policy actions to improve people's quality of life through the implementation of secure and resilient digital solutions at the service of citizens and all sectors of society with a perspective of co-creation and collaboration",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40293,7 +40293,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-strategy-on-ai-5864",
    "summary": "France’s national AI strategy was launched in 2018. Its first phase, which ran between 2018 and 2022 and had a budget of EUR 1.85 billion, enabled the creation and development of a network of interdisciplinary AI research institutes, the establishment of chairs of excellence and doctoral programmes, and the deployment of the Jean Zay supercomputer. The second phase (2022-25) focuses more strongly on disseminating AI technologies  and enabling AI development and innovation.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40463,7 +40463,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-programme-4522",
    "summary": "Short and simple description*The Artificial Intelligence Programme is a network ofnetworks.In the Artificial Intelligence Programme, we have called for new cooperation modelsfor private-public partnerships, but also for cooperation done within the publicand private sectors. Broad application and use of AI require multivoiced discussion,identification of opportunities and obstacles, and rapid and experimental activities,often requiring joint efforts between various sect",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40599,7 +40599,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/overarching-national-ai-strategy-4375",
    "summary": "The Danish government's vision is that developing and using AI should always be citizen-centric. Danish companies must be globally competitive, and Denmark should be a world leader in using AI in the public sector. The strategic Approachsets up three guiding principles and initiate four new national initiatives for the usage and development of responsible AI.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -40820,7 +40820,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/high-level-expert-group-on-artificial-intelligence-hleg-ai-2973",
    "summary": "Following an open selection process, in June 2018 the Commission has appointed 52 experts to a new High-Level Expert Group on Artificial Intelligence, comprising representatives from academia, civil society, as well as industry. One output of the group are the ethical guidelines for trustworthy AI were presented in April 2019 which are now being piloted (June - December 2019).",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -41058,7 +41058,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/european-digital-innovation-hubs-edih-1996",
    "summary": "Digital Innovation Hubs are helping organisations in the industry and public sector become more competitive regarding their business/production processes, products or services by using AI and other advanced digital technologies.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -41143,7 +41143,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-hub-for-sustainable-development-7187",
    "summary": "As affirmed in the G7 Leaders' Declaration, the AI Hub aims to enable multi-stakeholder partnerships to support local AI digital ecosystems, strengthen capacities to advance  AI for sustainable development, and complement existing initiatives including the AI for Development Donors Partnership.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -41245,7 +41245,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/au-data-policy-framework-7602",
    "summary": "This framework sets out a common vision, principles, strategic priorities and key recommendations to guide African countries in developing their national data systems and capabilities to effectively use and derive value from data.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -41500,7 +41500,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-ai-strategy-policy-direction-6520",
    "summary": "The initiative is aimed at making Korea a global pivotal state in AI by becoming one of the G3 AI nations. It outlines the four nationwide AI flagship projects and four key pillars of the AI ecosystem: 1) Develop startup talent, 2) Innovate technology and infrastructure, 3) Lay a foundation for inclusion and fairness, and 4) Secure global leadership.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -41534,7 +41534,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-policy-on-artificial-intelligence-conpes-4144-3012",
    "summary": "This initiative aims to maximize the capabilities for research, development, adoption and ethical and sustainable use of AI systems in strategic social, economic and environmental issues in Colombia.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42248,7 +42248,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-task-force-1006",
    "summary": "The Presidency of the Republic of Colombia, with the support of the Development Bank of Latin America (CAF), is working towards the design and implementation of a task force for AI in Colombia. This Task Force will be in charge of fostering the implementation of AI Policy. It will also promote and facilitate the use of AI in the public sector. The Presidency of the Republic is launching a website presenting the AI Project and its work.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42486,7 +42486,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/africa-centre-of-competence-for-digital-and-artificial-intelligence-skilling-4535",
    "summary": "In partnership with the Ministry of Information, Communications and Digital Economy and Microsoft, UNDP Kenya is co-creating a groundbreaking Africa Center of Competence for Digital and Artificial Intelligence Skilling.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42622,7 +42622,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-trust-6213",
    "summary": "Nigeria is setting a global precedent with the establishment of the National Artificial Intelligence (AI) Trust. This first-of-its-kind body will consist of 10 AI experts, the Minister of Communications, Innovation & Digital Economy, and the Minister of Science, Innovation and Technology. The Trust's mandate includes mobilizing resources, providing oversight, and guiding AI development in Nigeria. It will ensure strategic investment in AI across key economic sectors.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42673,7 +42673,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/readiness-assessment-methodology-ram-for-the-ai-ethical-framework-3399",
    "summary": "With the support of UNESCO, this initiative is being developed, applying a diagnostic tool to help the country assess its readiness in AI ethics across five dimensions: legal/regulatory, social/cultural, technical/infrastructural, economic, and scientific/educational, as well as the subsequent implementation of the AI ethical framework.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42741,7 +42741,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/national-digital-security-strategy-5672",
    "summary": "The National Digital Security Strategy of Colombia 2024-2026 is a comprehensive and proactive response to the challenges and opportunities arising in a constantly evolving digital environment. It aims to strengthen Colombia's digital security, adapting to emerging threats and leveraging technological innovations, including AI, to create a safer and more resilient cyberspace.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42758,7 +42758,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/regulatory-sandbox-4925",
    "summary": "The sandbox enables greater collaboration between ICT innovators and the Communications Authority of Kenya, the regulatory authority for the communications sector in Kenya responsible for facilitating the development of the information and communications sectors including broadcasting, cybersecurity, multimedia, telecommunications, electronic commerce, postal and courier services. The Authority is also responsible for safeguarding the interests of Consumers of ICT product and services.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42826,7 +42826,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-regulatory-sandbox-mexico-4522",
    "summary": "In Mexico, ANIA organizes working groups on AI to democratize knowledge and contribute to public policies and best practices. The need for an AI \"sandbox\" as a flexible mechanism to address technical, legal, and ethical implications was highlighted. In collaboration with the UK Embassy and AMCID, an analysis was initiated to promote technical exchange between the two countries and update the AI landscape in Mexico.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -42894,7 +42894,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/sandbox-framework-for-adoption-of-innovative-technologies-in-the-public-sector-9187",
    "summary": "Under the Sandbox Framework, interested companies (local or international as well as incubators) will be required to offer a Minimum Viable Product (MVP), that is, a version of the new product with sufficient features, to allow the public organisation to evaluate its appropriateness with the least efforts and resources.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -43132,7 +43132,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/ai-hub-tetouan-5979",
    "summary": "A groundbreaking 386MW data center and AI hub is planned in Tetouan, Morocco. Named Eureka Park, this hub aims to become a premier global technology center, focusing on advanced AI computation and data storage. It will feature the Iozera AI Data Center, GenV Data Management Services for AI training and data handling, Ryse Research for startup incubation and workforce training, and an AI Expo to showcase global advancements in AI technology.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -43183,7 +43183,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/big-data-policy-data-governance-framework-1759",
    "summary": "The BigData policy aims to increase the use of data, by developing the conditions for them to be managed as assets for generate social and economic value.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -43421,7 +43421,7 @@
    "link": "https://oecd.ai/en/dashboards/policy-initiatives/open-data-directive-7831",
    "summary": "The Directive on open data and the re-use of public sector information provides a common legal framework for a European market for government-held data (public sector information). It is built around two key pillars of the internal market: transparency and fair competition.",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {

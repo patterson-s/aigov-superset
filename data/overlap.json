@@ -1,21 +1,62 @@
 {
  "generated": "2026-09-30",
- "source_count": 9,
- "record_count": 4856,
+ "source_count": 11,
+ "record_count": 6351,
  "clusters": [
   {
-   "id": "OVL-0043",
-   "name": "Artifical Intelligence and Data Protection",
-   "source_count": 5,
-   "instrument_count": 10,
+   "id": "OVL-0002",
+   "name": "Data Protection Office",
+   "source_count": 6,
+   "instrument_count": 28,
    "source_distribution": {
+    "africa-policy": 8,
     "algorithmwatch": 2,
-    "correa-2023": 2,
+    "correa-2023": 3,
     "gutierrez": 1,
-    "laip": 1,
-    "oecd-ai": 4
+    "laip": 2,
+    "oecd-ai": 12
    },
    "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0008",
+     "name": "Law 151/2020 on the Protection of Personal Data"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0064",
+     "name": "Data Protection Register"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0158",
+     "name": "Data Protection Office"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0209",
+     "name": "Model Law on Data Protection"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0389",
+     "name": "Data Protection Authority"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0976",
+     "name": "Data Protection Commission"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1215",
+     "name": "Personal Data Protection Office"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1264",
+     "name": "Data Protection Office"
+    },
     {
      "source": "algorithmwatch",
      "record_id": "AW-0028",
@@ -33,6 +74,11 @@
     },
     {
      "source": "correa-2023",
+     "record_id": "WAIE-0106",
+     "name": "Opinion of the Data Ethics Commission"
+    },
+    {
+     "source": "correa-2023",
      "record_id": "WAIE-0107",
      "name": "Artificial Intelligence and Data Protection"
     },
@@ -45,6 +91,11 @@
      "source": "laip",
      "record_id": "LAIP-0037",
      "name": "Declaration On Ethics And Data Protection In Artifical Intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0078",
+     "name": "Opinion of the Data Ethics Commission: General ethical and legal principles"
     },
     {
      "source": "oecd-ai",
@@ -63,13 +114,53 @@
     },
     {
      "source": "oecd-ai",
+     "record_id": "OECD-1583",
+     "name": "Law on Protection of Personal Data"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1620",
+     "name": "Personal Data Protection Law"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1625",
+     "name": "Law On The Protection Of Personal Data"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1647",
+     "name": "Amendments to Personal Data Protection Law"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2071",
+     "name": "Personal Data Protection Law"
+    },
+    {
+     "source": "oecd-ai",
      "record_id": "OECD-2168",
      "name": "Data Protection Authority"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2287",
+     "name": "General Law on Protection of Personal Data"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2301",
+     "name": "Data Ethics Commission"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2302",
+     "name": "Opinion of the Data Ethics Commission"
     }
    ]
   },
   {
-   "id": "OVL-0003",
+   "id": "OVL-0061",
    "name": "Model AI Governance Framework",
    "source_count": 5,
    "instrument_count": 6,
@@ -114,7 +205,7 @@
    ]
   },
   {
-   "id": "OVL-0011",
+   "id": "OVL-0068",
    "name": "Ethical Norms for the New Generation Artificial Intelligence",
    "source_count": 5,
    "instrument_count": 5,
@@ -154,7 +245,7 @@
    ]
   },
   {
-   "id": "OVL-0021",
+   "id": "OVL-0079",
    "name": "Directive on Automated Decision-Making",
    "source_count": 5,
    "instrument_count": 5,
@@ -194,7 +285,7 @@
    ]
   },
   {
-   "id": "OVL-0027",
+   "id": "OVL-0085",
    "name": "Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence",
    "source_count": 5,
    "instrument_count": 5,
@@ -234,7 +325,7 @@
    ]
   },
   {
-   "id": "OVL-0035",
+   "id": "OVL-0093",
    "name": "Statement on Algorithmic Transparency and Accountability",
    "source_count": 5,
    "instrument_count": 5,
@@ -274,7 +365,7 @@
    ]
   },
   {
-   "id": "OVL-0030",
+   "id": "OVL-0088",
    "name": "National Artificial Intelligence Research and Development Strategic Plan 2023 Update",
    "source_count": 4,
    "instrument_count": 5,
@@ -313,7 +404,7 @@
    ]
   },
   {
-   "id": "OVL-0111",
+   "id": "OVL-0167",
    "name": "A guide to using Artificial Intelligence in the public sector",
    "source_count": 4,
    "instrument_count": 5,
@@ -352,7 +443,7 @@
    ]
   },
   {
-   "id": "OVL-0010",
+   "id": "OVL-0067",
    "name": "OpenAI Charter",
    "source_count": 4,
    "instrument_count": 4,
@@ -386,7 +477,41 @@
    ]
   },
   {
-   "id": "OVL-0075",
+   "id": "OVL-0078",
+   "name": "New Generation AI Development Plan",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "agora": 1,
+    "asia-policy": 1,
+    "concordia-ai": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00714",
+     "name": "New Generation Artificial Intelligence Development Plan"
+    },
+    {
+     "source": "asia-policy",
+     "record_id": "ASIA-001",
+     "name": "New Generation AI Development Plan"
+    },
+    {
+     "source": "concordia-ai",
+     "record_id": "CAI-056",
+     "name": "New Generation AI Development Plan"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1729",
+     "name": "National New Generation AI Plan"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0132",
    "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -420,7 +545,7 @@
    ]
   },
   {
-   "id": "OVL-0089",
+   "id": "OVL-0146",
    "name": "OP Financial Group’s ethical guidelines for artificial intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -454,7 +579,7 @@
    ]
   },
   {
-   "id": "OVL-0097",
+   "id": "OVL-0154",
    "name": "The Ethics of Code: Developing AI for Business with Five Core Principles",
    "source_count": 4,
    "instrument_count": 4,
@@ -488,7 +613,7 @@
    ]
   },
   {
-   "id": "OVL-0098",
+   "id": "OVL-0155",
    "name": "SAP’s guiding principles for Artificial Intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -522,7 +647,7 @@
    ]
   },
   {
-   "id": "OVL-0100",
+   "id": "OVL-0157",
    "name": "Sony Group AI Ethics Guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -556,7 +681,7 @@
    ]
   },
   {
-   "id": "OVL-0110",
+   "id": "OVL-0166",
    "name": "Tieto’s AI ethics guidelines",
    "source_count": 4,
    "instrument_count": 4,
@@ -590,7 +715,7 @@
    ]
   },
   {
-   "id": "OVL-0114",
+   "id": "OVL-0170",
    "name": "Top 10 Principles for Ethical Artificial Intelligence",
    "source_count": 4,
    "instrument_count": 4,
@@ -624,7 +749,7 @@
    ]
   },
   {
-   "id": "OVL-0115",
+   "id": "OVL-0171",
    "name": "Unity’s six guiding AI principles",
    "source_count": 4,
    "instrument_count": 4,
@@ -658,7 +783,196 @@
    ]
   },
   {
-   "id": "OVL-0155",
+   "id": "OVL-0001",
+   "name": "AI Use Cases in the Public Sector",
+   "source_count": 3,
+   "instrument_count": 14,
+   "source_distribution": {
+    "africa-policy": 1,
+    "gutierrez": 1,
+    "oecd-ai": 12
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0001",
+     "name": "AI use in the public sector"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0048",
+     "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1618",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1677",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1680",
+     "name": "Public Sector Artificial Intelligence Observatory"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1928",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1980",
+     "name": "Public Sector AI Playbook"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1995",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2054",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2103",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2120",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2255",
+     "name": "AI use cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2314",
+     "name": "AI Use Cases in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2501",
+     "name": "AI in the Public Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0031",
+   "name": "National AI Strategy – Second Edition 2025-2030",
+   "source_count": 3,
+   "instrument_count": 8,
+   "source_distribution": {
+    "africa-policy": 4,
+    "asia-policy": 1,
+    "oecd-ai": 3
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0562",
+     "name": "National AI Strategy – Second Edition 2025-2030"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1079",
+     "name": "Kenya Artificial Intelligence Strategy 2025-2030"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1210",
+     "name": "Kenya National AI Strategy 2025–2030 (Draft)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1251",
+     "name": "National Data Strategy 2025–2030 (Mentioned)"
+    },
+    {
+     "source": "asia-policy",
+     "record_id": "ASIA-005",
+     "name": "National AI Strategy (2021–2030) & AI Law (2025)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0352",
+     "name": "National Artificial Intelligence Strategy 2025–2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0357",
+     "name": "National Artificial Intelligence Strategy of Libya 2025–2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0358",
+     "name": "Kenya Artificial Intelligence Strategy 2025–2030"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0080",
+   "name": "National AI Strategy 2.0",
+   "source_count": 3,
+   "instrument_count": 8,
+   "source_distribution": {
+    "agora": 1,
+    "asia-policy": 2,
+    "oecd-ai": 5
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00795",
+     "name": "Singapore National AI Strategy 2.0"
+    },
+    {
+     "source": "asia-policy",
+     "record_id": "ASIA-006",
+     "name": "National AI Strategy 2.0"
+    },
+    {
+     "source": "asia-policy",
+     "record_id": "ASIA-012",
+     "name": "National AI Strategy Roadmap 2.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0353",
+     "name": "National AI Strategy Roadmap 2.0 (NAISR 2.0)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2068",
+     "name": "National AI Strategy 2.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2069",
+     "name": "National AI Strategy 1.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2091",
+     "name": "National AI Strategy 2.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2092",
+     "name": "National AI Strategy 1.0"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0209",
    "name": "AI R&D Principles",
    "source_count": 3,
    "instrument_count": 6,
@@ -701,7 +1015,40 @@
    ]
   },
   {
-   "id": "OVL-0073",
+   "id": "OVL-0056",
+   "name": "Digital Government Policy Framework (Draft)",
+   "source_count": 3,
+   "instrument_count": 4,
+   "source_distribution": {
+    "africa-policy": 1,
+    "gutierrez": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1448",
+     "name": "Digital Government Policy Framework (Draft)"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0027",
+     "name": "Policy for the Responsible Use of AI in Government"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0345",
+     "name": "Policy for the responsible use of AI in government"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1617",
+     "name": "Digital Government Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0130",
    "name": "Artificial Intelligence and Machine Learning: Policy Paper",
    "source_count": 3,
    "instrument_count": 4,
@@ -734,40 +1081,7 @@
    ]
   },
   {
-   "id": "OVL-0124",
-   "name": "Opinion of the Data Ethics Commission",
-   "source_count": 3,
-   "instrument_count": 4,
-   "source_distribution": {
-    "correa-2023": 1,
-    "laip": 1,
-    "oecd-ai": 2
-   },
-   "members": [
-    {
-     "source": "correa-2023",
-     "record_id": "WAIE-0106",
-     "name": "Opinion of the Data Ethics Commission"
-    },
-    {
-     "source": "laip",
-     "record_id": "LAIP-0078",
-     "name": "Opinion of the Data Ethics Commission: General ethical and legal principles"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-2301",
-     "name": "Data Ethics Commission"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-2302",
-     "name": "Opinion of the Data Ethics Commission"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0127",
+   "id": "OVL-0183",
    "name": "Social Principles of Human-centric AI",
    "source_count": 3,
    "instrument_count": 4,
@@ -800,7 +1114,7 @@
    ]
   },
   {
-   "id": "OVL-0154",
+   "id": "OVL-0208",
    "name": "ASEAN Guide on AI Governance and Ethics",
    "source_count": 3,
    "instrument_count": 4,
@@ -833,7 +1147,63 @@
    ]
   },
   {
-   "id": "OVL-0004",
+   "id": "OVL-0029",
+   "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033 (Draft)",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0467",
+     "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033 (Draft)"
+    },
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00247",
+     "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0362",
+     "name": "National strategy: Republic of Ghana National Artificial Intelligence Strategy 2023–2033"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0044",
+   "name": "Machine Learning Malawi",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "algorithmwatch": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0950",
+     "name": "Machine Learning Malawi"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0134",
+     "name": "The Responsible Machine Learning Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0427",
+     "name": "Introduction to machine learning"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0062",
    "name": "Global AI Governance Initiative",
    "source_count": 3,
    "instrument_count": 3,
@@ -861,35 +1231,35 @@
    ]
   },
   {
-   "id": "OVL-0020",
-   "name": "New Generation Artificial Intelligence Development Plan",
+   "id": "OVL-0072",
+   "name": "National Artificial Intelligence Strategy 2024-2025 Action Plan (Turkey)",
    "source_count": 3,
    "instrument_count": 3,
    "source_distribution": {
     "agora": 1,
-    "concordia-ai": 1,
+    "asia-policy": 1,
     "oecd-ai": 1
    },
    "members": [
     {
      "source": "agora",
-     "record_id": "DOCUMENTS-00714",
-     "name": "New Generation Artificial Intelligence Development Plan"
+     "record_id": "DOCUMENTS-00435",
+     "name": "National Artificial Intelligence Strategy 2024-2025 Action Plan (Turkey)"
     },
     {
-     "source": "concordia-ai",
-     "record_id": "CAI-056",
-     "name": "New Generation AI Development Plan"
+     "source": "asia-policy",
+     "record_id": "ASIA-010",
+     "name": "National AI Strategy & Action Plan"
     },
     {
      "source": "oecd-ai",
-     "record_id": "OECD-1729",
-     "name": "National New Generation AI Plan"
+     "record_id": "OECD-1651",
+     "name": "Thailand National AI Strategy and Action Plan (2022 “ 2027)"
     }
    ]
   },
   {
-   "id": "OVL-0028",
+   "id": "OVL-0086",
    "name": "Australia’s AI Ethics Principles",
    "source_count": 3,
    "instrument_count": 3,
@@ -917,7 +1287,7 @@
    ]
   },
   {
-   "id": "OVL-0033",
+   "id": "OVL-0091",
    "name": "Policy Recommendations on Augmented Intelligence in Health Care H-480.940",
    "source_count": 3,
    "instrument_count": 3,
@@ -945,7 +1315,7 @@
    ]
   },
   {
-   "id": "OVL-0049",
+   "id": "OVL-0106",
    "name": "European ethical Charter on the use of Artificial Intelligence in judicial systems and their environment",
    "source_count": 3,
    "instrument_count": 3,
@@ -973,7 +1343,7 @@
    ]
   },
   {
-   "id": "OVL-0052",
+   "id": "OVL-0109",
    "name": "Report with recommendations to the Commission on Civil Law Rules on Robotics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1001,7 +1371,7 @@
    ]
   },
   {
-   "id": "OVL-0066",
+   "id": "OVL-0123",
    "name": "IBM’s Principles for Trust and Transparency",
    "source_count": 3,
    "instrument_count": 3,
@@ -1029,7 +1399,7 @@
    ]
   },
   {
-   "id": "OVL-0078",
+   "id": "OVL-0135",
    "name": "Charlevoix Common Vision for the Future of Artificial Intelligence",
    "source_count": 3,
    "instrument_count": 3,
@@ -1057,7 +1427,7 @@
    ]
   },
   {
-   "id": "OVL-0083",
+   "id": "OVL-0140",
    "name": "Principlesto Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics in Singapore’sFinancial Sector",
    "source_count": 3,
    "instrument_count": 3,
@@ -1085,7 +1455,7 @@
    ]
   },
   {
-   "id": "OVL-0091",
+   "id": "OVL-0148",
    "name": "Tenets Partnership on AI",
    "source_count": 3,
    "instrument_count": 3,
@@ -1113,7 +1483,7 @@
    ]
   },
   {
-   "id": "OVL-0093",
+   "id": "OVL-0150",
    "name": "Rome Call for AI Ethics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1141,7 +1511,7 @@
    ]
   },
   {
-   "id": "OVL-0094",
+   "id": "OVL-0151",
    "name": "A practical guide to Responsible Artificial Intelligence (AI)",
    "source_count": 3,
    "instrument_count": 3,
@@ -1169,7 +1539,7 @@
    ]
   },
   {
-   "id": "OVL-0101",
+   "id": "OVL-0158",
    "name": "Principles for the safe and effective use of data and analytics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1197,7 +1567,7 @@
    ]
   },
   {
-   "id": "OVL-0102",
+   "id": "OVL-0159",
    "name": "Telia Company Guiding Principles on trusted AI ethics",
    "source_count": 3,
    "instrument_count": 3,
@@ -1225,7 +1595,7 @@
    ]
   },
   {
-   "id": "OVL-0105",
+   "id": "OVL-0162",
    "name": "Unified Ethical Frame for Big Data Analysis (draft)",
    "source_count": 3,
    "instrument_count": 3,
@@ -1253,7 +1623,932 @@
    ]
   },
   {
+   "id": "OVL-0005",
+   "name": "National AI Strategy (Mentioned)",
+   "source_count": 2,
+   "instrument_count": 60,
+   "source_distribution": {
+    "africa-policy": 25,
+    "oecd-ai": 35
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0031",
+     "name": "National Artificial Intelligence Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0162",
+     "name": "National Cybersecurity Strategy 2022-2027"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0322",
+     "name": "National Artificial Intelligence Strategy Conference"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0360",
+     "name": "Egypt National Artificial Intelligence Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0458",
+     "name": "National e-Commerce Strategy for Egypt"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0463",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0504",
+     "name": "National Cybersecurity Policy and Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0558",
+     "name": "National Cybersecurity Strategy 2017-2021"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0583",
+     "name": "National Artificial Intelligence Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0593",
+     "name": "National strategy for artificial intelligence (AI) (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0643",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0651",
+     "name": "Draft National Data Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0664",
+     "name": "National Data Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0668",
+     "name": "National Artificial Intelligence Strategy 2024 - Draft"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0760",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0886",
+     "name": "Draft National Cybersecurity Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0938",
+     "name": "National Data Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0955",
+     "name": "National Strategy for Digital Transformation (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1010",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1045",
+     "name": "Ghana National Cybersecurity Policy and Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1057",
+     "name": "National open and interoperable data strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1139",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1148",
+     "name": "National Cybersecurity Strategy 2023-2027"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1384",
+     "name": "National Broadband Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1502",
+     "name": "National AI Strategy (Mentioned)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0348",
+     "name": "National Artificial Intelligence and Big Data Strategy 2023–2027"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0351",
+     "name": "National Artificial Intelligence Strategy (ENIA)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0363",
+     "name": "National Artificial Intelligence Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0367",
+     "name": "National Artificial Intelligence Strategy (NAIS)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0377",
+     "name": "Egypt National Artificial Intelligence Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0383",
+     "name": "National AI Strategy 2024"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0453",
+     "name": "National Semiconductor Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0574",
+     "name": "National Strategy for Semiconductors"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0598",
+     "name": "National Data Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0599",
+     "name": "National Data Governance Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0601",
+     "name": "National Semiconductor Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0602",
+     "name": "Greek National Data Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0603",
+     "name": "National Data Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1022",
+     "name": "National Strategy for Research Data Management"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1078",
+     "name": "National Data Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1360",
+     "name": "National Digital Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1419",
+     "name": "UAE National Strategy for AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1536",
+     "name": "National Data Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1539",
+     "name": "National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1568",
+     "name": "National Biotechnology Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1570",
+     "name": "National Data and AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1619",
+     "name": "National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1681",
+     "name": "National Artificial Intelligence Strategy 2024–2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1703",
+     "name": "National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1739",
+     "name": "National Strategy for AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1843",
+     "name": "National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1861",
+     "name": "National Strategy for AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2118",
+     "name": "National Strategy on Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2133",
+     "name": "Egypt National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2299",
+     "name": "National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2358",
+     "name": "National Cybersecurity Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2370",
+     "name": "National Strategy on AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2388",
+     "name": "Overarching National AI Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2441",
+     "name": "National AI Strategy Policy Direction"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2491",
+     "name": "National Artificial Intelligence Strategy (NAIS)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0003",
+   "name": "Open Data Policy",
+   "source_count": 2,
+   "instrument_count": 24,
+   "source_distribution": {
+    "africa-policy": 9,
+    "oecd-ai": 15
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0013",
+     "name": "Open Data Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0169",
+     "name": "Nigeria Open Data Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0315",
+     "name": "Open Data Portal (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0844",
+     "name": "Draft National Policy on Data and Cloud"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0960",
+     "name": "National Open Data Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1022",
+     "name": "The National Data Sharing Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1190",
+     "name": "National Policy on Data and Cloud"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1376",
+     "name": "National Cloud Computing Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1386",
+     "name": "Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0289",
+     "name": "National Cloud and Data Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0298",
+     "name": "Brazilian Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0299",
+     "name": "Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0301",
+     "name": "Open Government Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0449",
+     "name": "Strategic framework of National Cloud Computing"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1004",
+     "name": "Open Data Policy / Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1013",
+     "name": "Open Data Portal (Public Sector Data)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1267",
+     "name": "Data Sharing Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1621",
+     "name": "Open Data Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1627",
+     "name": "Open Data Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1758",
+     "name": "National Open Data Platform"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1759",
+     "name": "Punku - Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2060",
+     "name": "Estonian Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2104",
+     "name": "National Open Data Portal"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2184",
+     "name": "Open Data Portal"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0004",
+   "name": "AI Readiness Assessment Methodology (RAM) implementation",
+   "source_count": 2,
+   "instrument_count": 23,
+   "source_distribution": {
+    "africa-policy": 22,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0029",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0066",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0105",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0155",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0232",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0514",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0547",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0566",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0635",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0672",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0737",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0770",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0906",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0933",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1050",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1055",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1092",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1163",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1177",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1300",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1328",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1364",
+     "name": "AI Readiness Assessment Methodology (RAM) implementation"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2510",
+     "name": "Readiness Assessment Methodology (RAM) for the AI \"Ethical Framework\""
+    }
+   ]
+  },
+  {
    "id": "OVL-0012",
+   "name": "Regulatory Sandbox",
+   "source_count": 2,
+   "instrument_count": 16,
+   "source_distribution": {
+    "africa-policy": 8,
+    "oecd-ai": 8
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0120",
+     "name": "Regulatory Sandbox Framework"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0221",
+     "name": "Regulatory Sandbox"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0358",
+     "name": "Fintech Regulatory Sandbox Guidelines"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0517",
+     "name": "Regulatory Sandbox Framework"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0715",
+     "name": "CBN Regulatory Sandbox"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0742",
+     "name": "Framework for Regulatory Sandbox Operations"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0801",
+     "name": "CA Regulatory Sandbox"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1340",
+     "name": "Fintech Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0318",
+     "name": "Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1288",
+     "name": "AI Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1336",
+     "name": "Regulatory Sandbox for AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1464",
+     "name": "ICO Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1734",
+     "name": "Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1846",
+     "name": "Regulatory Sandbox on AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2515",
+     "name": "Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2519",
+     "name": "AI Regulatory Sandbox Mexico"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0015",
+   "name": "National ICT Policy",
+   "source_count": 2,
+   "instrument_count": 9,
+   "source_distribution": {
+    "africa-policy": 6,
+    "oecd-ai": 3
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0192",
+     "name": "National Policy on Artificial Intelligence (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0218",
+     "name": "National ICT Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0387",
+     "name": "National ICT Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0478",
+     "name": "National BPO Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0557",
+     "name": "National Artificial Intelligence Policy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1289",
+     "name": "National Artificial Intelligence (AI) policy (Mentioned)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0356",
+     "name": "National Artificial Intelligence Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1208",
+     "name": "The National AI Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2114",
+     "name": "AI National Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0048",
+   "name": "Centre for the Fourth Industrial Revolution - South Africa",
+   "source_count": 2,
+   "instrument_count": 7,
+   "source_distribution": {
+    "africa-policy": 3,
+    "oecd-ai": 4
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1026",
+     "name": "Centre for the Fourth Industrial Revolution - South Africa"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1038",
+     "name": "Human rights and the fourth industrial revolution in South Africa"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1272",
+     "name": "Centre for the Fourth Industrial Revolution Rwanda"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1369",
+     "name": "Centre for the Fourth Industrial Revolution (C4IR) Network"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1447",
+     "name": "Centre for the Fourth Industrial Revolution (C4IR)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1610",
+     "name": "Centre for Fourth Industrial Revolution Türkiye"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1689",
+     "name": "Centre for the Fourth Industrial Revolution South Africa"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0010",
+   "name": "Digital Transformation with Africa Initiative",
+   "source_count": 2,
+   "instrument_count": 6,
+   "source_distribution": {
+    "africa-policy": 3,
+    "oecd-ai": 3
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0108",
+     "name": "Digital Transformation with Africa Initiative"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0239",
+     "name": "Digital Transformation and AI Strategy (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0603",
+     "name": "Digital Transformation Strategy for Africa 2020-2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0868",
+     "name": "Digital Transformation of SMEs initiative"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1476",
+     "name": "Digital Transformation Strategy for Africa"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2247",
+     "name": "Brazilian Strategy for Digital Transformation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0017",
+   "name": "Digital Government Strategy",
+   "source_count": 2,
+   "instrument_count": 6,
+   "source_distribution": {
+    "africa-policy": 4,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0242",
+     "name": "Rwanda Digital Government Strategy and Governance"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0528",
+     "name": "Digital Government Strategy 2025-2030"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1102",
+     "name": "Digital Government Strategy"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1441",
+     "name": "Digital Government Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1564",
+     "name": "Digital Government Strategy 2023-2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1682",
+     "name": "AI Strategy for the Digital Government"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0008",
+   "name": "National Data Centre",
+   "source_count": 2,
+   "instrument_count": 5,
+   "source_distribution": {
+    "africa-policy": 3,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0076",
+     "name": "National Data Centre"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1243",
+     "name": "National Data Centre"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1297",
+     "name": "National Data Centre"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1649",
+     "name": "National Centre for AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2309",
+     "name": "National AI Centre"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0032",
+   "name": "Digital Transformation Centre",
+   "source_count": 2,
+   "instrument_count": 5,
+   "source_distribution": {
+    "africa-policy": 4,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0570",
+     "name": "Digital Transformation"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0969",
+     "name": "Digital Transformation Centre"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1436",
+     "name": "Digital Transformation Centre"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1451",
+     "name": "Digital Transformation Roadmap"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1991",
+     "name": "Digital Transformation Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0069",
    "name": "Interim Measures for Generative AI Services",
    "source_count": 2,
    "instrument_count": 5,
@@ -1290,7 +2585,71 @@
    ]
   },
   {
-   "id": "OVL-0006",
+   "id": "OVL-0013",
+   "name": "Bletchley Declaration by Countries Attending the AI Safety Summit",
+   "source_count": 2,
+   "instrument_count": 4,
+   "source_distribution": {
+    "africa-policy": 3,
+    "agora": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0134",
+     "name": "Bletchley Declaration by Countries Attending the AI Safety Summit"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0620",
+     "name": "Bletchley Declaration by Countries Attending the AI Safety Summit"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0983",
+     "name": "Bletchley Declaration by Countries Attending the AI Safety Summit"
+    },
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-01062",
+     "name": "The Bletchley Declaration by Countries Attending the AI Safety Summit"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0026",
+   "name": "AI Task Force (Mentioned)",
+   "source_count": 2,
+   "instrument_count": 4,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0435",
+     "name": "AI Task Force (Mentioned)"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0441",
+     "name": " G20 Task Force on Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2065",
+     "name": "AI Task Force Report"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2485",
+     "name": "AI Task Force"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0064",
    "name": "Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)",
    "source_count": 2,
    "instrument_count": 4,
@@ -1322,39 +2681,7 @@
    ]
   },
   {
-   "id": "OVL-0022",
-   "name": "National AI Strategy 2.0",
-   "source_count": 2,
-   "instrument_count": 4,
-   "source_distribution": {
-    "agora": 1,
-    "oecd-ai": 3
-   },
-   "members": [
-    {
-     "source": "agora",
-     "record_id": "DOCUMENTS-00795",
-     "name": "Singapore National AI Strategy 2.0"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-0353",
-     "name": "National AI Strategy Roadmap 2.0 (NAISR 2.0)"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-2068",
-     "name": "National AI Strategy 2.0"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-2091",
-     "name": "National AI Strategy 2.0"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0139",
+   "id": "OVL-0194",
    "name": "Guide on the Use of Generative Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 4,
@@ -1386,7 +2713,331 @@
    ]
   },
   {
-   "id": "OVL-0002",
+   "id": "OVL-0006",
+   "name": "Sandbox Framework for Adoption of Innovative Technologies in the Public Service",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0042",
+     "name": "Sandbox Framework for Adoption of Innovative Technologies in the Public Service"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0941",
+     "name": "Sandbox Framework for Adoption of Innovative Technologies in the Public Service"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2523",
+     "name": "Sandbox Framework for Adoption of Innovative Technologies in the Public Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0009",
+   "name": "South Africa National Artificial Intelligence Policy Framework",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0077",
+     "name": "South Africa National Artificial Intelligence Policy Framework"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1002",
+     "name": "Draft South Africa National Artificial Intelligence (AI) Policy (Withdrawn)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0365",
+     "name": "South Africa National Artificial Intelligence Policy Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0011",
+   "name": "Digital Economy Strategy ",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0111",
+     "name": "Digital Economy Strategy "
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0297",
+     "name": "Digital Economy Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1996",
+     "name": "Kenya's Digital Economy Strategy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0014",
+   "name": "The Personal Data Protection Act, 2022",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0178",
+     "name": "The Personal Data Protection Act, 2022"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2145",
+     "name": "The Digital Personal Data Protection Act"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2478",
+     "name": "Federal Act Concerning the Protection of Personal Data"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0016",
+   "name": "Zimbabwe National Artificial Intelligence (AI) Strategy 2026-2030",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0206",
+     "name": "Zimbabwe National Artificial Intelligence (AI) Strategy 2026-2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0060",
+     "name": "National Artificial Intelligence Strategy 2026–2030"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0361",
+     "name": "Zimbabwe National Artificial Intelligence Strategy 2026–2030"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0023",
+   "name": "Africa Centre of Competence for Digital and Artificial Intelligence (AI) Skilling",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0397",
+     "name": "Africa Centre of Competence for Digital and Artificial Intelligence (AI) Skilling"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0569",
+     "name": "Africa Center of Competence for Digital and Artificial Intelligence Skilling"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2499",
+     "name": "Africa Centre of Competence for Digital and Artificial Intelligence Skilling"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0030",
+   "name": "National AI Working Group",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0486",
+     "name": "National AI Working Group"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1361",
+     "name": "AU Working Group on Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0569",
+     "name": "Working Group on Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0036",
+   "name": "Konza National Data Center",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0684",
+     "name": "Konza National Data Center"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0621",
+     "name": "National Data Center of Excellence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0622",
+     "name": "National Center for Data Processing"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0038",
+   "name": "European Digital Innovation Hubs",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0759",
+     "name": "Constituency Digital Innovation Hubs"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0782",
+     "name": "European Digital Innovation Hubs"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1250",
+     "name": "European Digital Innovation Hubs"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0042",
+   "name": "FAIR Forward",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0840",
+     "name": "FAIR Forward"
+    },
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1429",
+     "name": "FAIR Forward – Artificial Intelligence for All"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2291",
+     "name": "Fair Forward AI for All"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0045",
+   "name": "AU Data Policy Framework",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0975",
+     "name": "AU Data Policy Framework"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1475",
+     "name": "AU Data Policy Framework"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2426",
+     "name": "AU Data Policy Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0053",
+   "name": "Protection of Personal Information Act 4 of 2013",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1352",
+     "name": "Protection of Personal Information Act 4 of 2013"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0281",
+     "name": "Protection of Personal Information Act (POPIA)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2023",
+     "name": "Act on the Protection of Personal Information"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0060",
    "name": "Measures for Labeling AI-Generated Content",
    "source_count": 2,
    "instrument_count": 3,
@@ -1413,7 +3064,7 @@
    ]
   },
   {
-   "id": "OVL-0009",
+   "id": "OVL-0066",
    "name": "Executive Order on Removing Barriers To American Leadership In Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 3,
@@ -1440,7 +3091,7 @@
    ]
   },
   {
-   "id": "OVL-0058",
+   "id": "OVL-0115",
    "name": "For a meaningful Artificial Intelligence. Towards a French and European strategy",
    "source_count": 2,
    "instrument_count": 3,
@@ -1467,7 +3118,7 @@
    ]
   },
   {
-   "id": "OVL-0068",
+   "id": "OVL-0125",
    "name": "Ethically Aligned Design",
    "source_count": 2,
    "instrument_count": 3,
@@ -1494,7 +3145,7 @@
    ]
   },
   {
-   "id": "OVL-0119",
+   "id": "OVL-0175",
    "name": "Artificial Intelligence: open questions about gender inclusion",
    "source_count": 2,
    "instrument_count": 3,
@@ -1521,7 +3172,7 @@
    ]
   },
   {
-   "id": "OVL-0121",
+   "id": "OVL-0178",
    "name": "Artificial Intelligence at Google: Our Principles",
    "source_count": 2,
    "instrument_count": 3,
@@ -1548,34 +3199,7 @@
    ]
   },
   {
-   "id": "OVL-0137",
-   "name": "Policy for the Responsible Use of AI in Government",
-   "source_count": 2,
-   "instrument_count": 3,
-   "source_distribution": {
-    "gutierrez": 1,
-    "oecd-ai": 2
-   },
-   "members": [
-    {
-     "source": "gutierrez",
-     "record_id": "GG-0027",
-     "name": "Policy for the Responsible Use of AI in Government"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-0345",
-     "name": "Policy for the responsible use of AI in government"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-1617",
-     "name": "Digital Government Policy"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0143",
+   "id": "OVL-0197",
    "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE)",
    "source_count": 2,
    "instrument_count": 3,
@@ -1602,7 +3226,7 @@
    ]
   },
   {
-   "id": "OVL-0150",
+   "id": "OVL-0204",
    "name": "Generative Artificial Intelligence for Government Guidelines",
    "source_count": 2,
    "instrument_count": 3,
@@ -1629,7 +3253,7 @@
    ]
   },
   {
-   "id": "OVL-0151",
+   "id": "OVL-0205",
    "name": "Guidelines for Generative AI in Public Administration",
    "source_count": 2,
    "instrument_count": 3,
@@ -1656,7 +3280,7 @@
    ]
   },
   {
-   "id": "OVL-0153",
+   "id": "OVL-0207",
    "name": "Artificial Intelligence -AI- and Generative Artificial Intelligence -GenAI- Policy",
    "source_count": 2,
    "instrument_count": 3,
@@ -1683,7 +3307,623 @@
    ]
   },
   {
-   "id": "OVL-0001",
+   "id": "OVL-0007",
+   "name": "Nigeria Data Protection Regulation",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0056",
+     "name": "Nigeria Data Protection Regulation"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2407",
+     "name": "General Data Protection Regulation (GDPR)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0018",
+   "name": "Mauritius Artificial Intelligence Strategy",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0254",
+     "name": "Mauritius Artificial Intelligence Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1695",
+     "name": "Mauritius Artificial Intelligence AI Strategy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0019",
+   "name": "Regional Fourth Industrial Revolution Strategy and Action Plan (Mentioned)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0263",
+     "name": "Regional Fourth Industrial Revolution Strategy and Action Plan (Mentioned)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2173",
+     "name": "Action Plan for Iceland in the Fourth Industrial Revolution"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0020",
+   "name": "Open Government Partnership 4th National Action Plan",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0271",
+     "name": "Open Government Partnership 4th National Action Plan"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0966",
+     "name": "Open Government Action Plan"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0021",
+   "name": "Women going Digital",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0318",
+     "name": "Women going Digital"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1183",
+     "name": "Women in Digital"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0022",
+   "name": "2024 China-Africa Internet Development and Cooperation Forum Chair´s Statement on China-Africa Cooperation on AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0361",
+     "name": "2024 China-Africa Internet Development and Cooperation Forum Chair´s Statement on China-Africa Cooperation on AI"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0057",
+     "name": "2024 China Africa Internet Development and Cooperation Forum President's Statement on China Africa Artificial Intelligence Cooperation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0024",
+   "name": "Directorate of Science, Technology and Innovation",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0402",
+     "name": "Directorate of Science, Technology and Innovation"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1503",
+     "name": "Strategy for Science, Technology, and Innovation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0025",
+   "name": "Digital Economy Blueprint ",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0404",
+     "name": "Digital Economy Blueprint "
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1997",
+     "name": "Kenya's Digital Economy Blueprint"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0027",
+   "name": "Egypt's National Generative AI Guidelines",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0448",
+     "name": "Egypt's National Generative AI Guidelines"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0370",
+     "name": "Egypt's National Generative AI Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0028",
+   "name": "Framework for Emerging Technologies Regulatory Sandbox",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0453",
+     "name": "Framework for Emerging Technologies Regulatory Sandbox"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1585",
+     "name": "Emerging Technologies Regulatory Sandbox"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0033",
+   "name": "National Strategy for Digital Security 2022-2025",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0606",
+     "name": "National Strategy for Digital Security 2022-2025"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2514",
+     "name": "National Digital Security Strategy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0034",
+   "name": "National Communications Authority",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0621",
+     "name": "National Communications Authority"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1841",
+     "name": "National Artificial Intelligence Authority"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0035",
+   "name": "Data Protection Act No. 3 of 2024",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "agora": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0626",
+     "name": "Data Protection Act No. 3 of 2024"
+    },
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00374",
+     "name": "Data Protection Act of 2024"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0037",
+   "name": "National Guidelines for Artificial Intelligence in Education",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0717",
+     "name": "National Guidelines for Artificial Intelligence in Education"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2132",
+     "name": "National Education Lab AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0039",
+   "name": "Global AI Summit on Africa",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0794",
+     "name": "Global AI Summit on Africa"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1276",
+     "name": "Global AI Summit"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0040",
+   "name": "African Centre of Excellence in Data Science ",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0795",
+     "name": "African Centre of Excellence in Data Science "
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2231",
+     "name": "Centre of Excellence for Jewelry AI and Data Science Excellence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0041",
+   "name": "National Artificial Intelligence Strategy of Mauritania 2025-2029",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0821",
+     "name": "National Artificial Intelligence Strategy of Mauritania 2025-2029"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0359",
+     "name": "National Artificial Intelligence Strategy of Mauritania 2024–2029"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0043",
+   "name": "Task Force on the Fourth Industrial Revolution Final Report",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0909",
+     "name": "Task Force on the Fourth Industrial Revolution Final Report"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1685",
+     "name": "Expert National Task Force on the Fourth Industrial Revolution"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0046",
+   "name": "Pulse Lab Kampala",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-0992",
+     "name": "Pulse Lab Kampala"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1684",
+     "name": "Pulse Lab Kampala"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0047",
+   "name": "National Council for Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1004",
+     "name": "National Council for Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2074",
+     "name": "National Council for AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0049",
+   "name": "Center for Digital Health",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1077",
+     "name": "Center for Digital Health"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0073",
+     "name": "AI in Digital Health"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0050",
+   "name": "AI Centre of Excellence (AICE)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1089",
+     "name": "AI Centre of Excellence (AICE)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2241",
+     "name": "AI Centre of Excellence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0051",
+   "name": "Guide to Egypt's National AI Governance Framework",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1205",
+     "name": "Guide to Egypt's National AI Governance Framework"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0368",
+     "name": "Guide to Egypt's National AI Governance Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0052",
+   "name": "Mauritius Artificial Intelligence Council",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1280",
+     "name": "Mauritius Artificial Intelligence Council"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1694",
+     "name": "Mauritius AI Council"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0054",
+   "name": "National Guidelines for Trustworthy and Responsible AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1400",
+     "name": "National Guidelines for Trustworthy and Responsible AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0369",
+     "name": "Egypt National Guidelines for Trustworthy and Responsible AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0055",
+   "name": "Report of the Presidential Commission on the 4th Industrial Revolution",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1402",
+     "name": "Report of the Presidential Commission on the 4th Industrial Revolution"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1688",
+     "name": "Presidential Commission on the Fourth Industrial Revolution"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0057",
+   "name": "AU Continental Artificial Intelligence Strategy",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1456",
+     "name": "AU Continental Artificial Intelligence Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0269",
+     "name": "Continental Artificial Intelligence Strategy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0058",
+   "name": "Government Data Canvas",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "africa-policy": 1,
+    "algorithmwatch": 1
+   },
+   "members": [
+    {
+     "source": "africa-policy",
+     "record_id": "AFR-1473",
+     "name": "Government Data Canvas"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0137",
+     "name": "Data Ethics Canvas"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0059",
    "name": "Winning the Race: America's AI Action Plan 2025",
    "source_count": 2,
    "instrument_count": 2,
@@ -1705,7 +3945,7 @@
    ]
   },
   {
-   "id": "OVL-0005",
+   "id": "OVL-0063",
    "name": "San Francisco Generative AI Guidelines",
    "source_count": 2,
    "instrument_count": 2,
@@ -1727,29 +3967,7 @@
    ]
   },
   {
-   "id": "OVL-0007",
-   "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033",
-   "source_count": 2,
-   "instrument_count": 2,
-   "source_distribution": {
-    "agora": 1,
-    "oecd-ai": 1
-   },
-   "members": [
-    {
-     "source": "agora",
-     "record_id": "DOCUMENTS-00247",
-     "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-0362",
-     "name": "National strategy: Republic of Ghana National Artificial Intelligence Strategy 2023–2033"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0008",
+   "id": "OVL-0065",
    "name": "AI Act of 2024",
    "source_count": 2,
    "instrument_count": 2,
@@ -1771,7 +3989,7 @@
    ]
   },
   {
-   "id": "OVL-0013",
+   "id": "OVL-0070",
    "name": "NIST AI Risk Management Framework 1.0",
    "source_count": 2,
    "instrument_count": 2,
@@ -1793,7 +4011,7 @@
    ]
   },
   {
-   "id": "OVL-0014",
+   "id": "OVL-0071",
    "name": "G20 Ministerial Statement on Trade and Digital Economy (Annex \"G20 AI Principles\")",
    "source_count": 2,
    "instrument_count": 2,
@@ -1815,7 +4033,7 @@
    ]
   },
   {
-   "id": "OVL-0015",
+   "id": "OVL-0073",
    "name": "County of Santa Cruz Artificial Intelligence Appropriate Use Policy",
    "source_count": 2,
    "instrument_count": 2,
@@ -1837,7 +4055,7 @@
    ]
   },
   {
-   "id": "OVL-0016",
+   "id": "OVL-0074",
    "name": "City of Boston Interim Guidelines for Using Generative AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -1859,7 +4077,7 @@
    ]
   },
   {
-   "id": "OVL-0017",
+   "id": "OVL-0075",
    "name": "(Trial) Measures for Science and Technology Ethics Reviews",
    "source_count": 2,
    "instrument_count": 2,
@@ -1881,7 +4099,7 @@
    ]
   },
   {
-   "id": "OVL-0018",
+   "id": "OVL-0076",
    "name": "Federal Senate Bill of Law No. 2338, of 2023",
    "source_count": 2,
    "instrument_count": 2,
@@ -1903,7 +4121,7 @@
    ]
   },
   {
-   "id": "OVL-0019",
+   "id": "OVL-0077",
    "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
    "source_count": 2,
    "instrument_count": 2,
@@ -1925,7 +4143,7 @@
    ]
   },
   {
-   "id": "OVL-0023",
+   "id": "OVL-0081",
    "name": "Artificial Intelligence and the Information Privacy Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -1947,7 +4165,7 @@
    ]
   },
   {
-   "id": "OVL-0024",
+   "id": "OVL-0082",
    "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -1969,7 +4187,7 @@
    ]
   },
   {
-   "id": "OVL-0025",
+   "id": "OVL-0083",
    "name": "Artificial Intelligence Video Interview Act",
    "source_count": 2,
    "instrument_count": 2,
@@ -1991,7 +4209,7 @@
    ]
   },
   {
-   "id": "OVL-0026",
+   "id": "OVL-0084",
    "name": "Artificial Intelligence Training for the Acquisition Workforce Act",
    "source_count": 2,
    "instrument_count": 2,
@@ -2013,7 +4231,7 @@
    ]
   },
   {
-   "id": "OVL-0029",
+   "id": "OVL-0087",
    "name": "Safe and Responsible AI in Australia Consultation, Interim Response",
    "source_count": 2,
    "instrument_count": 2,
@@ -2035,7 +4253,7 @@
    ]
   },
   {
-   "id": "OVL-0031",
+   "id": "OVL-0089",
    "name": "L’intelligenzia artificiale al servizio del cittadino (Artificial Intelligence at the service of the citizen)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2057,7 +4275,7 @@
    ]
   },
   {
-   "id": "OVL-0032",
+   "id": "OVL-0090",
    "name": "AI Now Report 2018",
    "source_count": 2,
    "instrument_count": 2,
@@ -2079,7 +4297,7 @@
    ]
   },
   {
-   "id": "OVL-0034",
+   "id": "OVL-0092",
    "name": "Safety First for Automated Driving – Proposed technical standards for the development of Automated Driving",
    "source_count": 2,
    "instrument_count": 2,
@@ -2101,7 +4319,7 @@
    ]
   },
   {
-   "id": "OVL-0036",
+   "id": "OVL-0094",
    "name": "It’s Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process",
    "source_count": 2,
    "instrument_count": 2,
@@ -2123,7 +4341,7 @@
    ]
   },
   {
-   "id": "OVL-0037",
+   "id": "OVL-0095",
    "name": "AI4People’s Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",
    "source_count": 2,
    "instrument_count": 2,
@@ -2145,7 +4363,7 @@
    ]
   },
   {
-   "id": "OVL-0038",
+   "id": "OVL-0096",
    "name": "Artificial Intelligence Australia’s Ethics Framework A Discussion Paper",
    "source_count": 2,
    "instrument_count": 2,
@@ -2167,7 +4385,7 @@
    ]
   },
   {
-   "id": "OVL-0039",
+   "id": "OVL-0097",
    "name": "Empfehlungen für den verantwortlichen Einsatz von KI und automatisierten Entscheidungen (Recommendations for the responsible use of AI and automated decision making)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2189,7 +4407,7 @@
    ]
   },
   {
-   "id": "OVL-0040",
+   "id": "OVL-0098",
    "name": "Digital Decisions",
    "source_count": 2,
    "instrument_count": 2,
@@ -2211,7 +4429,7 @@
    ]
   },
   {
-   "id": "OVL-0041",
+   "id": "OVL-0099",
    "name": "Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2233,7 +4451,7 @@
    ]
   },
   {
-   "id": "OVL-0042",
+   "id": "OVL-0100",
    "name": "Artificial Intelligence: opportunities, risks and recommendations for the financial sector",
    "source_count": 2,
    "instrument_count": 2,
@@ -2255,7 +4473,7 @@
    ]
   },
   {
-   "id": "OVL-0044",
+   "id": "OVL-0101",
    "name": "Governing Artificial Intelligence. Upholding Human Rights & Dignity",
    "source_count": 2,
    "instrument_count": 2,
@@ -2277,7 +4495,7 @@
    ]
   },
   {
-   "id": "OVL-0045",
+   "id": "OVL-0102",
    "name": "Code of conduct for data-driven health and care technology",
    "source_count": 2,
    "instrument_count": 2,
@@ -2299,7 +4517,7 @@
    ]
   },
   {
-   "id": "OVL-0046",
+   "id": "OVL-0103",
    "name": "Künstliche Intelligenz und die Arbeit von Morgen",
    "source_count": 2,
    "instrument_count": 2,
@@ -2321,7 +4539,7 @@
    ]
   },
   {
-   "id": "OVL-0047",
+   "id": "OVL-0104",
    "name": "Data for the Benefit of the People: Recommendations from the Danish Expert Group on Data Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -2343,7 +4561,7 @@
    ]
   },
   {
-   "id": "OVL-0048",
+   "id": "OVL-0105",
    "name": "Automatisiertes und Vernetztes Fahren / Automated and connected automated driving",
    "source_count": 2,
    "instrument_count": 2,
@@ -2365,7 +4583,7 @@
    ]
   },
   {
-   "id": "OVL-0050",
+   "id": "OVL-0107",
    "name": "Code of Practice on Disinformation",
    "source_count": 2,
    "instrument_count": 2,
@@ -2387,7 +4605,7 @@
    ]
   },
   {
-   "id": "OVL-0051",
+   "id": "OVL-0108",
    "name": "Statement on Artificial Intelligence, Robotics and ‚Autonomous‘ Systems",
    "source_count": 2,
    "instrument_count": 2,
@@ -2409,7 +4627,7 @@
    ]
   },
   {
-   "id": "OVL-0053",
+   "id": "OVL-0110",
    "name": "Preparing for the future of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -2431,7 +4649,7 @@
    ]
   },
   {
-   "id": "OVL-0054",
+   "id": "OVL-0111",
    "name": "Vienna Manifesto on Digital Humanism",
    "source_count": 2,
    "instrument_count": 2,
@@ -2453,7 +4671,7 @@
    ]
   },
   {
-   "id": "OVL-0055",
+   "id": "OVL-0112",
    "name": "Principles for Accountable Algorithms and a Social Impact Statement for Algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -2475,7 +4693,7 @@
    ]
   },
   {
-   "id": "OVL-0056",
+   "id": "OVL-0113",
    "name": "How can humans keep the upper hand? Report on the ethical matters raised by AI algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -2497,7 +4715,7 @@
    ]
   },
   {
-   "id": "OVL-0057",
+   "id": "OVL-0114",
    "name": "Digital Technology and Healthcare. Which Ethical Issues for which Regulations?",
    "source_count": 2,
    "instrument_count": 2,
@@ -2519,7 +4737,7 @@
    ]
   },
   {
-   "id": "OVL-0059",
+   "id": "OVL-0116",
    "name": "Ethical, social, and political challenges of Artificial Intelligence in Health",
    "source_count": 2,
    "instrument_count": 2,
@@ -2541,7 +4759,7 @@
    ]
   },
   {
-   "id": "OVL-0060",
+   "id": "OVL-0117",
    "name": "Unfairness by algorithm: Distilling the Harms of automated decision making",
    "source_count": 2,
    "instrument_count": 2,
@@ -2563,7 +4781,7 @@
    ]
   },
   {
-   "id": "OVL-0061",
+   "id": "OVL-0118",
    "name": "People & AI Partnership Guidebook",
    "source_count": 2,
    "instrument_count": 2,
@@ -2585,7 +4803,7 @@
    ]
   },
   {
-   "id": "OVL-0062",
+   "id": "OVL-0119",
    "name": "Responsible Artificial Intelligence in the Government of Canada (whitepaper)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2607,7 +4825,7 @@
    ]
   },
   {
-   "id": "OVL-0063",
+   "id": "OVL-0120",
    "name": "Datenschutz und Big Data / Data protection and Big Data",
    "source_count": 2,
    "instrument_count": 2,
@@ -2629,7 +4847,7 @@
    ]
   },
   {
-   "id": "OVL-0064",
+   "id": "OVL-0121",
    "name": "Draft Guidelines for Trustworthy AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2651,7 +4869,7 @@
    ]
   },
   {
-   "id": "OVL-0065",
+   "id": "OVL-0122",
    "name": "10 ethische Leitlinien für die Digitalisierung von Unternehmen (10 ethical guidelines for the digitalisation of companies)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2673,7 +4891,7 @@
    ]
   },
   {
-   "id": "OVL-0067",
+   "id": "OVL-0124",
    "name": "IIIM’s Ethics Policy",
    "source_count": 2,
    "instrument_count": 2,
@@ -2695,7 +4913,7 @@
    ]
   },
   {
-   "id": "OVL-0069",
+   "id": "OVL-0126",
    "name": "Big data, artificial intelligence, machine learning and data protection",
    "source_count": 2,
    "instrument_count": 2,
@@ -2717,7 +4935,7 @@
    ]
   },
   {
-   "id": "OVL-0070",
+   "id": "OVL-0127",
    "name": "Draft AI R&D Guidelines for International Discussions",
    "source_count": 2,
    "instrument_count": 2,
@@ -2739,7 +4957,7 @@
    ]
   },
   {
-   "id": "OVL-0071",
+   "id": "OVL-0128",
    "name": "Artificial Intelligence. The Public Policy Opportunity",
    "source_count": 2,
    "instrument_count": 2,
@@ -2761,7 +4979,7 @@
    ]
   },
   {
-   "id": "OVL-0072",
+   "id": "OVL-0129",
    "name": "Intel’s AI Privacy Policy White Paper. Protecting individuals’ privacy and data in the artificial intelligence world",
    "source_count": 2,
    "instrument_count": 2,
@@ -2783,7 +5001,7 @@
    ]
   },
   {
-   "id": "OVL-0074",
+   "id": "OVL-0131",
    "name": "Responsible AI: Global Policy Framework",
    "source_count": 2,
    "instrument_count": 2,
@@ -2805,7 +5023,7 @@
    ]
   },
   {
-   "id": "OVL-0076",
+   "id": "OVL-0133",
    "name": "Kakao Algorithm Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -2827,7 +5045,7 @@
    ]
   },
   {
-   "id": "OVL-0077",
+   "id": "OVL-0134",
    "name": "Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society Managing the Fourth Industrial Revolution",
    "source_count": 2,
    "instrument_count": 2,
@@ -2849,7 +5067,7 @@
    ]
   },
   {
-   "id": "OVL-0079",
+   "id": "OVL-0136",
    "name": "MIT Schwarzman College of Computing Task Force Working Group on Social Implications and Responsibilities of Computing Final Report",
    "source_count": 2,
    "instrument_count": 2,
@@ -2871,7 +5089,7 @@
    ]
   },
   {
-   "id": "OVL-0080",
+   "id": "OVL-0137",
    "name": "Our Approach to AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2893,7 +5111,7 @@
    ]
   },
   {
-   "id": "OVL-0081",
+   "id": "OVL-0138",
    "name": "Responsible bots: 10 guidelines for developers of conversational AI",
    "source_count": 2,
    "instrument_count": 2,
@@ -2915,7 +5133,7 @@
    ]
   },
   {
-   "id": "OVL-0082",
+   "id": "OVL-0139",
    "name": "The Future Computed – Artificial intelligence and its role in society",
    "source_count": 2,
    "instrument_count": 2,
@@ -2937,7 +5155,7 @@
    ]
   },
   {
-   "id": "OVL-0084",
+   "id": "OVL-0141",
    "name": "Discussion Paper: National Strategy for Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -2959,7 +5177,7 @@
    ]
   },
   {
-   "id": "OVL-0085",
+   "id": "OVL-0142",
    "name": "Advisory Statement on Human Ethics in Artificial Intelligence and Big Data Research (2017)",
    "source_count": 2,
    "instrument_count": 2,
@@ -2981,7 +5199,7 @@
    ]
   },
   {
-   "id": "OVL-0086",
+   "id": "OVL-0143",
    "name": "Seeking Ground Rules for A.I.",
    "source_count": 2,
    "instrument_count": 2,
@@ -3003,7 +5221,7 @@
    ]
   },
   {
-   "id": "OVL-0087",
+   "id": "OVL-0144",
    "name": "Holberton Turing Oath",
    "source_count": 2,
    "instrument_count": 2,
@@ -3025,7 +5243,7 @@
    ]
   },
   {
-   "id": "OVL-0088",
+   "id": "OVL-0145",
    "name": "Recommendation of the Council on Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3047,7 +5265,7 @@
    ]
   },
   {
-   "id": "OVL-0090",
+   "id": "OVL-0147",
    "name": "Code of Conduct",
    "source_count": 2,
    "instrument_count": 2,
@@ -3069,7 +5287,7 @@
    ]
   },
   {
-   "id": "OVL-0092",
+   "id": "OVL-0149",
    "name": "AI & Data Topical Guide Series",
    "source_count": 2,
    "instrument_count": 2,
@@ -3091,7 +5309,7 @@
    ]
   },
   {
-   "id": "OVL-0095",
+   "id": "OVL-0152",
    "name": "Privacy and Freedom of Expression In the Age of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3113,7 +5331,7 @@
    ]
   },
   {
-   "id": "OVL-0096",
+   "id": "OVL-0153",
    "name": "Užupis Principles for Trustworthy AI Design",
    "source_count": 2,
    "instrument_count": 2,
@@ -3135,7 +5353,7 @@
    ]
   },
   {
-   "id": "OVL-0099",
+   "id": "OVL-0156",
    "name": "Ethical Principles for Artificial Intelligence and Data Analytics",
    "source_count": 2,
    "instrument_count": 2,
@@ -3157,7 +5375,7 @@
    ]
   },
   {
-   "id": "OVL-0103",
+   "id": "OVL-0160",
    "name": "Position on Robotics and Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3179,7 +5397,7 @@
    ]
   },
   {
-   "id": "OVL-0104",
+   "id": "OVL-0161",
    "name": "A Framework for the Ethical use of advanced Data Science Methodes in the Humanitarian Sector",
    "source_count": 2,
    "instrument_count": 2,
@@ -3201,29 +5419,7 @@
    ]
   },
   {
-   "id": "OVL-0106",
-   "name": "The Responsible Machine Learning Principles",
-   "source_count": 2,
-   "instrument_count": 2,
-   "source_distribution": {
-    "algorithmwatch": 1,
-    "oecd-ai": 1
-   },
-   "members": [
-    {
-     "source": "algorithmwatch",
-     "record_id": "AW-0134",
-     "name": "The Responsible Machine Learning Principles"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-0427",
-     "name": "Introduction to machine learning"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0107",
+   "id": "OVL-0163",
    "name": "Civil Rights Principles for the Era of Big Data",
    "source_count": 2,
    "instrument_count": 2,
@@ -3245,7 +5441,7 @@
    ]
   },
   {
-   "id": "OVL-0108",
+   "id": "OVL-0164",
    "name": "Machine learning: the power and promise of computers that learn by example",
    "source_count": 2,
    "instrument_count": 2,
@@ -3267,7 +5463,7 @@
    ]
   },
   {
-   "id": "OVL-0109",
+   "id": "OVL-0165",
    "name": "Guidance for Regulation of Artificial Intelligence Applications",
    "source_count": 2,
    "instrument_count": 2,
@@ -3289,7 +5485,7 @@
    ]
   },
   {
-   "id": "OVL-0112",
+   "id": "OVL-0168",
    "name": "Preliminary study on the Ethics of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3311,7 +5507,7 @@
    ]
   },
   {
-   "id": "OVL-0113",
+   "id": "OVL-0169",
    "name": "Report of COMEST on Robotics Ethics",
    "source_count": 2,
    "instrument_count": 2,
@@ -3333,7 +5529,7 @@
    ]
   },
   {
-   "id": "OVL-0116",
+   "id": "OVL-0172",
    "name": "A Code of Ethics for the Human Robot Interaction",
    "source_count": 2,
    "instrument_count": 2,
@@ -3355,7 +5551,7 @@
    ]
   },
   {
-   "id": "OVL-0117",
+   "id": "OVL-0173",
    "name": "The Malicious Use of Artificial Intelligence: Forecasting, Prevntion and Mitigation",
    "source_count": 2,
    "instrument_count": 2,
@@ -3377,7 +5573,7 @@
    ]
   },
   {
-   "id": "OVL-0118",
+   "id": "OVL-0174",
    "name": "AI UX: 7 Principles of Designing Good AI Products",
    "source_count": 2,
    "instrument_count": 2,
@@ -3399,7 +5595,7 @@
    ]
   },
   {
-   "id": "OVL-0120",
+   "id": "OVL-0176",
    "name": "White Paper: How to Prevent Discriminatory Outcomes in Machine Learning",
    "source_count": 2,
    "instrument_count": 2,
@@ -3421,7 +5617,29 @@
    ]
   },
   {
-   "id": "OVL-0122",
+   "id": "OVL-0177",
+   "name": "National AI Roadmap",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "asia-policy": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "asia-policy",
+     "record_id": "ASIA-008",
+     "name": "National AI Roadmap"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0355",
+     "name": "National Artificial Intelligence Roadmap (AI‑Rmap)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0179",
    "name": "Toward a G20 Framework for Artificial Intelligence in the Workplace",
    "source_count": 2,
    "instrument_count": 2,
@@ -3443,7 +5661,7 @@
    ]
   },
   {
-   "id": "OVL-0123",
+   "id": "OVL-0180",
    "name": "Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2",
    "source_count": 2,
    "instrument_count": 2,
@@ -3465,7 +5683,7 @@
    ]
   },
   {
-   "id": "OVL-0125",
+   "id": "OVL-0181",
    "name": "Montréal declaration for a responsible development of artificial intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3487,7 +5705,7 @@
    ]
   },
   {
-   "id": "OVL-0126",
+   "id": "OVL-0182",
    "name": "Artificial Intelligence for Children: Beijing Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3509,7 +5727,7 @@
    ]
   },
   {
-   "id": "OVL-0128",
+   "id": "OVL-0184",
    "name": "UNESCO Recommendation on the Ethics of Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3531,7 +5749,7 @@
    ]
   },
   {
-   "id": "OVL-0129",
+   "id": "OVL-0185",
    "name": "Ethical Aspects of Autonomous and Intelligent Systems",
    "source_count": 2,
    "instrument_count": 2,
@@ -3553,7 +5771,7 @@
    ]
   },
   {
-   "id": "OVL-0130",
+   "id": "OVL-0186",
    "name": "Draft - AI Utilization Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3575,7 +5793,7 @@
    ]
   },
   {
-   "id": "OVL-0131",
+   "id": "OVL-0187",
    "name": "Shanghai Initiative for Safe and Secure AI Development",
    "source_count": 2,
    "instrument_count": 2,
@@ -3597,7 +5815,7 @@
    ]
   },
   {
-   "id": "OVL-0132",
+   "id": "OVL-0188",
    "name": "Chinese Young Scientists' Declaration on the Governance and Innovation of Artificial Intelligence (Shanghai Declaration)",
    "source_count": 2,
    "instrument_count": 2,
@@ -3619,7 +5837,7 @@
    ]
   },
   {
-   "id": "OVL-0133",
+   "id": "OVL-0189",
    "name": "Trustworthy AI in Aotearoa: AI Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -3641,7 +5859,7 @@
    ]
   },
   {
-   "id": "OVL-0134",
+   "id": "OVL-0190",
    "name": "Stanford's Human-Centered AI Initiative Values",
    "source_count": 2,
    "instrument_count": 2,
@@ -3663,7 +5881,7 @@
    ]
   },
   {
-   "id": "OVL-0135",
+   "id": "OVL-0191",
    "name": "Guide for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3685,7 +5903,7 @@
    ]
   },
   {
-   "id": "OVL-0136",
+   "id": "OVL-0192",
    "name": "Recommendations for Reliable Artificial Intelligence",
    "source_count": 2,
    "instrument_count": 2,
@@ -3707,7 +5925,7 @@
    ]
   },
   {
-   "id": "OVL-0138",
+   "id": "OVL-0193",
    "name": "Interim Guidance on Government Use of Public Generative AI Tools",
    "source_count": 2,
    "instrument_count": 2,
@@ -3729,7 +5947,7 @@
    ]
   },
   {
-   "id": "OVL-0140",
+   "id": "OVL-0195",
    "name": "Algorithmic Impact Assessment Tool -AIA-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3751,29 +5969,7 @@
    ]
   },
   {
-   "id": "OVL-0141",
-   "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector",
-   "source_count": 2,
-   "instrument_count": 2,
-   "source_distribution": {
-    "gutierrez": 1,
-    "oecd-ai": 1
-   },
-   "members": [
-    {
-     "source": "gutierrez",
-     "record_id": "GG-0048",
-     "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector"
-    },
-    {
-     "source": "oecd-ai",
-     "record_id": "OECD-2501",
-     "name": "AI in the Public Sector"
-    }
-   ]
-  },
-  {
-   "id": "OVL-0142",
+   "id": "OVL-0196",
    "name": "Technical and Ethical Guidelines on AI for the Capital District of Bogotá",
    "source_count": 2,
    "instrument_count": 2,
@@ -3795,7 +5991,7 @@
    ]
   },
   {
-   "id": "OVL-0144",
+   "id": "OVL-0198",
    "name": "Guide to the Use of Artificial Intelligence Tools ‘AI’ in the Superintendency of Economic Competition -SEC-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3817,7 +6013,7 @@
    ]
   },
   {
-   "id": "OVL-0145",
+   "id": "OVL-0199",
    "name": "Code of Ethics of the Superintendency of Economic Competition",
    "source_count": 2,
    "instrument_count": 2,
@@ -3839,7 +6035,7 @@
    ]
   },
   {
-   "id": "OVL-0146",
+   "id": "OVL-0200",
    "name": "Model Contractual Clauses for the Public Procurement of High-Risk AI -'MCC-AIHigh-Risk'-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3861,7 +6057,7 @@
    ]
   },
   {
-   "id": "OVL-0147",
+   "id": "OVL-0201",
    "name": "Guiding Principles for the Development of Machine Learning-based Technologies",
    "source_count": 2,
    "instrument_count": 2,
@@ -3883,7 +6079,7 @@
    ]
   },
   {
-   "id": "OVL-0148",
+   "id": "OVL-0202",
    "name": "Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration",
    "source_count": 2,
    "instrument_count": 2,
@@ -3905,7 +6101,7 @@
    ]
   },
   {
-   "id": "OVL-0149",
+   "id": "OVL-0203",
    "name": "General Principles and Impact Assessment Guide for the Development and Use of Artificial Intelligence Systems in the Federal Public Administration",
    "source_count": 2,
    "instrument_count": 2,
@@ -3927,7 +6123,7 @@
    ]
   },
   {
-   "id": "OVL-0152",
+   "id": "OVL-0206",
    "name": "Algorithmic Transparency Recording Standard -ATRS-",
    "source_count": 2,
    "instrument_count": 2,
@@ -3949,7 +6145,7 @@
    ]
   },
   {
-   "id": "OVL-0156",
+   "id": "OVL-0210",
    "name": "Principles for Accountable Algorithms",
    "source_count": 2,
    "instrument_count": 2,
@@ -3971,7 +6167,7 @@
    ]
   },
   {
-   "id": "OVL-0157",
+   "id": "OVL-0211",
    "name": "Guiding principles and recommendations",
    "source_count": 2,
    "instrument_count": 2,
@@ -3993,7 +6189,7 @@
    ]
   },
   {
-   "id": "OVL-0158",
+   "id": "OVL-0212",
    "name": "Ethical principles and democratic prerequisites",
    "source_count": 2,
    "instrument_count": 2,
@@ -4015,7 +6211,7 @@
    ]
   },
   {
-   "id": "OVL-0159",
+   "id": "OVL-0213",
    "name": "Five Areas of Ethical Focus",
    "source_count": 2,
    "instrument_count": 2,
@@ -4037,7 +6233,7 @@
    ]
   },
   {
-   "id": "OVL-0160",
+   "id": "OVL-0214",
    "name": "AI Principles of Telefónica",
    "source_count": 2,
    "instrument_count": 2,
@@ -4059,7 +6255,7 @@
    ]
   },
   {
-   "id": "OVL-0161",
+   "id": "OVL-0215",
    "name": "The FAST Track Principles",
    "source_count": 2,
    "instrument_count": 2,
@@ -4082,7 +6278,14 @@
   }
  ],
  "pair_matrix": {
+  "africa-policy|agora": 10,
+  "africa-policy|algorithmwatch": 4,
+  "africa-policy|correa-2023": 10,
+  "africa-policy|gutierrez": 2,
+  "africa-policy|laip": 2,
+  "africa-policy|oecd-ai": 888,
   "agora|algorithmwatch": 8,
+  "agora|asia-policy": 8,
   "agora|concordia-ai": 20,
   "agora|correa-2023": 12,
   "agora|gutierrez": 12,
@@ -4094,6 +6297,8 @@
   "algorithmwatch|jobin-2019": 32,
   "algorithmwatch|laip": 44,
   "algorithmwatch|oecd-ai": 22,
+  "asia-policy|concordia-ai": 2,
+  "asia-policy|oecd-ai": 26,
   "concordia-ai|correa-2023": 2,
   "concordia-ai|laip": 4,
   "concordia-ai|oecd-ai": 4,
@@ -4109,18 +6314,26 @@
   "laip|oecd-ai": 20
  },
  "summary": {
-  "cluster_count": 161,
-  "duplicate_records": 417,
-  "unique_records": 4439,
-  "dedup_ratio": 0.086,
+  "cluster_count": 215,
+  "duplicate_records": 725,
+  "unique_records": 5626,
+  "dedup_ratio": 0.114,
   "by_source": {
+   "africa-policy": {
+    "total": 1483,
+    "in_overlap": 154
+   },
    "agora": {
     "total": 1066,
-    "in_overlap": 32
+    "in_overlap": 35
    },
    "algorithmwatch": {
     "total": 140,
-    "in_overlap": 99
+    "in_overlap": 100
+   },
+   "asia-policy": {
+    "total": 12,
+    "in_overlap": 6
    },
    "concordia-ai": {
     "total": 69,
@@ -4140,11 +6353,11 @@
    },
    "laip": {
     "total": 85,
-    "in_overlap": 43
+    "in_overlap": 44
    },
    "oecd-ai": {
     "total": 2378,
-    "in_overlap": 69
+    "in_overlap": 212
    },
    "responsible-ai-measures": {
     "total": 734,

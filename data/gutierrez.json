@@ -2213,7 +2213,7 @@
    "link": "https://www.saij.gob.ar/NV48559?",
    "summary": "The Guide sets out guidelines, principles and responsibilities for the responsible use of artificial intelligence within the Judiciary of the Province of Chaco, Argentina. It defines criteria relating to data protection, human oversight, transparency, risk mitigation and the non-delegation of decision-making. It includes procedures for requesting the use of AI tools, a technical glossary and a catalogue of authorised tools. It applies to all judicial staff and complements the Judiciary’s Regulations on the Use of Technology. [La Guía establece lineamientos, principios y deberes para el uso responsable de la inteligencia artificial en el Poder Judicial de la Provincia del Chaco, Argentina. Define criterios de protección de datos, supervisión humana, transparencia, mitigación de riesgos y no delegación de decisiones. Incluye procedimientos para solicitar uso de herramientas de IA, glosario técnico y catálogo de herramientas autorizadas. Aplica a todo el personal judicial y complementa el Reglamento de Uso de Tecnologías del Poder Judicial] (Resolución 961 del Superior Tribunal de Justicia de la Provincia del Chaco, 2025)",
    "classification": "unclassified",
-   "review": "auto",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -2638,7 +2638,7 @@
    "link": "https://www.pj.gov.py/descargas/ID1-133_resolucion_nro_12677_politica_operacional_que_establece_directrices_para_el_uso_de_sistemas_de_inteligencia_artificial_version_1.pdf",
    "summary": "A national policy of the Paraguayan judiciary setting out mandatory guidelines for the ethical, responsible, transparent and supervised use of artificial intelligence systems. It defines principles, rules and prohibitions to safeguard fundamental rights, ensure human oversight in decision-making, transparency, non-discrimination, the protection of personal data and information security, applicable to judges and judicial officials. [Política nacional del Poder Judicial paraguayo que establece directrices obligatorias para el uso ético, responsable, transparente y supervisado de sistemas de inteligencia artificial. Define principios, reglas y prohibiciones para garantizar derechos fundamentales, la supervisión humana en la toma de decisiones, la transparencia, la no discriminación, la protección de datos personales y la seguridad de la información, aplicable a magistrados y funcionarios judiciales] (Resolución 12.677 de la Corte Suprema de Justicia de Paraguay, 2026, Appendix)",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
@@ -2791,7 +2791,7 @@
    "link": "https://www.argentina.gob.ar/sites/default/files/2022/02/if-2026-53068261-apn-gpnyptsigen.pdf",
    "summary": "A guide produced by SIGEN to provide guidance on internal controls for the use of artificial intelligence in the Argentine public sector, adopting a risk-based approach. It sets out controls for the use of generative AI and institutional systems, addressing governance, security, data, traceability, accountability and human oversight. Aimed at public bodies and auditors, it seeks to ensure transparency, regulatory compliance and the responsible management of AI. [Guía elaborada por SIGEN para orientar los controles internos en el uso de inteligencia artificial en el sector público argentino, con enfoque basado en riesgos. Define controles para uso de IA generativa y sistemas institucionales, abordando gobernanza, seguridad, datos, trazabilidad, responsabilidad y supervisión humana. Dirigida a organismos públicos y auditores, busca asegurar transparencia, cumplimiento normativo y gestión responsable de la IA] (SIGEN, 2026)",
    "classification": "unknown",
-   "review": "human",
+   "review": "none",
    "matched_to": ""
   },
   {
