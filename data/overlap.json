@@ -1,0 +1,4043 @@
+{
+ "generated": "2026-09-30",
+ "source_count": 8,
+ "record_count": 4787,
+ "clusters": [
+  {
+   "id": "OVL-0040",
+   "name": "Artifical Intelligence and Data Protection",
+   "source_count": 5,
+   "instrument_count": 10,
+   "source_distribution": {
+    "algorithmwatch": 2,
+    "correa-2023": 2,
+    "gutierrez": 1,
+    "laip": 1,
+    "oecd-ai": 4
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0028",
+     "name": "Artifical Intelligence and Data Protection"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0083",
+     "name": "DECLARATION ON ETHICS AND DATA PROTECTION IN ARTIFICAL INTELLIGENCE"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0002",
+     "name": "Declaration on Ethics and Data Protection in Artifical Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0107",
+     "name": "Artificial Intelligence and Data Protection"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0102",
+     "name": "Guidance Data and AI Ethics Framework"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0037",
+     "name": "Declaration On Ethics And Data Protection In Artifical Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1449",
+     "name": "Data Protection Law"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1467",
+     "name": "Data Ethics and AI Guidance Landscape"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1492",
+     "name": "Guidance on AI and Data Protection"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2168",
+     "name": "Data Protection Authority"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0002",
+   "name": "Model AI Governance Framework",
+   "source_count": 5,
+   "instrument_count": 6,
+   "source_distribution": {
+    "agora": 1,
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00140",
+     "name": "Proposed Model AI Governance Framework for Generative AI"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0110",
+     "name": "A Proposed Model Artificial Intelligence Governance Framework"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0047",
+     "name": "Model AI Governance Framework"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0106",
+     "name": "A Proposed Model AI Governance Framework: Guiding Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1919",
+     "name": "Model AI Governance Framework for Generative AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1925",
+     "name": "Model AI Governance Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0018",
+   "name": "Directive on Automated Decision-Making",
+   "source_count": 5,
+   "instrument_count": 5,
+   "source_distribution": {
+    "agora": 1,
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00771",
+     "name": "Directive on Automated Decision-Making (Canada)"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0063",
+     "name": "Directive on Automated Decision-Making"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0015",
+     "name": "Directive on Automated Decision-Making"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0045",
+     "name": "Directive on Automated Decision-making"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2149",
+     "name": "Canada's Directive on Automated Decision-making"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0024",
+   "name": "Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence",
+   "source_count": 5,
+   "instrument_count": 5,
+   "source_distribution": {
+    "agora": 1,
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-01020",
+     "name": "Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0024",
+     "name": "Governance Principles for a New Generation of Artificial Intelligence: Develop Responsible Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0026",
+     "name": "Next-Generation AI Governance Principles - Develop responsible artificial intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0003",
+     "name": "Governance Principles for the New Generation Artificial Intelligence--Developing Responsible Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1714",
+     "name": "Governance Principles for New Generation AI – Developing Responsible AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0032",
+   "name": "Statement on Algorithmic Transparency and Accountability",
+   "source_count": 5,
+   "instrument_count": 5,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "gutierrez": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0012",
+     "name": "Statement on Algorithmic Transparency and Accountability"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0035",
+     "name": "Statement on Algorithmic Transparency and Accountability"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0157",
+     "name": "Algorithmic Transparency Declaration"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-011",
+     "name": "Principles for Algorithmic Transparency and Accountability"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0099",
+     "name": "Principles for Algorithmic Transparency and Accountability"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0027",
+   "name": "National Artificial Intelligence Research and Development Strategic Plan 2023 Update",
+   "source_count": 4,
+   "instrument_count": 5,
+   "source_distribution": {
+    "agora": 1,
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-01053",
+     "name": "National Artificial Intelligence Research and Development Strategic Plan 2023 Update"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0102",
+     "name": "The National Artificial Intelligence Research and Development Strategic Plan"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0149",
+     "name": "The National Artificial Intelligence Research and Development Strategic Plan: 2019 Update"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1762",
+     "name": "National AI R&D Strategic Plan: 2019 Update"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2144",
+     "name": "National Plan for the Development of AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0108",
+   "name": "A guide to using Artificial Intelligence in the public sector",
+   "source_count": 4,
+   "instrument_count": 5,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "gutierrez": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0143",
+     "name": "A guide to using Artificial Intelligence in the public sector"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0117",
+     "name": "A guide to using artificial intelligence in the public sector"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0006",
+     "name": "Guide for the Use of AI in the Public Sector in Argentina"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0101",
+     "name": "A Guide to Using Artificial Intelligence in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1500",
+     "name": "A Guide to Using AI in the Public Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0009",
+   "name": "OpenAI Charter",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "agora": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00299",
+     "name": "OpenAI Charter"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0153",
+     "name": "OpenAI Charter"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-043",
+     "name": "OpenAI Charter"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0082",
+     "name": "OpenAI Charter"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0010",
+   "name": "Ethical Norms for the New Generation Artificial Intelligence",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "agora": 1,
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00300",
+     "name": "Ethical Norms for the New Generation Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0142",
+     "name": "The Ethical Norms for the New Generation Artificial Intelligence, China"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0018",
+     "name": "Ethical Norms for the New Generation Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1715",
+     "name": "Ethical Norms for New Generation AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0072",
+   "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0086",
+     "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0010",
+     "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-014",
+     "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0041",
+     "name": "The Japanese Society for Artificial Intelligence Ethical Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0086",
+   "name": "OP Financial Group’s ethical guidelines for artificial intelligence",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0106",
+     "name": "OP Financial Group’s ethical guidelines for artificial intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0152",
+     "name": "OP Financial Group's Ethical Guidelines for Artificial Intelligence"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-081",
+     "name": "OP Financial Group’s ethical guidelines for artificial intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0111",
+     "name": "OP Financial Group’s ethical guidelines for artificial intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0094",
+   "name": "The Ethics of Code: Developing AI for Business with Five Core Principles",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0119",
+     "name": "The Ethics of Code: Developing AI for Business with Five Core Principles"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0064",
+     "name": "The Ethics of Code: Developing AI for Business with Five Core Principles"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-018",
+     "name": "The Ethics of Code: Developing AI for Business with Five Core Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0112",
+     "name": "The Ethics of Code: Developing AI for Business with Five Core Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0095",
+   "name": "SAP’s guiding principles for Artificial Intelligence",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0120",
+     "name": "SAP’s guiding principles for Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0082",
+     "name": "SAP's guiding principles for Artificial Intelligence"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-059",
+     "name": "SAP’s guiding principles for artificial intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0067",
+     "name": "SAP's Guiding Principles for Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0097",
+   "name": "Sony Group AI Ethics Guidelines",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0123",
+     "name": "Sony Group AI Ethics Guidelines"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0090",
+     "name": "Sony Group AI Ethics Guidelines"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-060",
+     "name": "Sony Group AI Ethics Guidelines"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0045",
+     "name": "Sony Group AI Ethics Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0107",
+   "name": "Tieto’s AI ethics guidelines",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0142",
+     "name": "Tieto’s AI ethics guidelines"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0116",
+     "name": "Tieto's AI ethics guidelines"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-064",
+     "name": "Tieto’s AI ethics guidelines"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0072",
+     "name": "Tieto’s AI ethics guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0111",
+   "name": "Top 10 Principles for Ethical Artificial Intelligence",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0148",
+     "name": "Top 10 Principles for Ethical Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0122",
+     "name": "Top 10 Principles for Ethical Artificial Intelligence"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-034",
+     "name": "Top 10 Principles for Ethical Artificial Intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0049",
+     "name": "Top 10 Principles For Ethical Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0112",
+   "name": "Unity’s six guiding AI principles",
+   "source_count": 4,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0150",
+     "name": "Unity’s six guiding AI principles"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0123",
+     "name": "Introducing Unity's Guiding Principles for Ethical AI"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-069",
+     "name": "Unity’s six guiding AI principles are as follows"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0100",
+     "name": "Unity’s Guiding Principles for Ethical AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0152",
+   "name": "AI R&D Principles",
+   "source_count": 3,
+   "instrument_count": 6,
+   "source_distribution": {
+    "jobin-2019": 2,
+    "laip": 1,
+    "oecd-ai": 3
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-008",
+     "name": "R&D Strategy"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-021",
+     "name": "AI R&D Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0015",
+     "name": "AI R&D Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1481",
+     "name": "National Strategy on R&D and Application of AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1743",
+     "name": "AI R&D Strategy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2002",
+     "name": "AI R&D Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0070",
+   "name": "Artificial Intelligence and Machine Learning: Policy Paper",
+   "source_count": 3,
+   "instrument_count": 4,
+   "source_distribution": {
+    "algorithmwatch": 2,
+    "correa-2023": 1,
+    "gutierrez": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0084",
+     "name": "Artifical Intelligence and Machine Learning Policy Paper"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0135",
+     "name": "Artificial Intelligence and Machine Learning: Policy Paper"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0005",
+     "name": "Artificial Intelligence and Machine Learning: Policy Paper"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0147",
+     "name": "Artificial Intelligence & Machine Learning Usage Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0121",
+   "name": "Opinion of the Data Ethics Commission",
+   "source_count": 3,
+   "instrument_count": 4,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0106",
+     "name": "Opinion of the Data Ethics Commission"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0078",
+     "name": "Opinion of the Data Ethics Commission: General ethical and legal principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2301",
+     "name": "Data Ethics Commission"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2302",
+     "name": "Opinion of the Data Ethics Commission"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0124",
+   "name": "Social Principles of Human-centric AI",
+   "source_count": 3,
+   "instrument_count": 4,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0129",
+     "name": "Social Principles of Human-Centric AI"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0008",
+     "name": "Social Principles of Human-centric AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0036",
+     "name": "Council on Social Principles of Human Centric AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2007",
+     "name": "Social Principles of Human-centric AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0151",
+   "name": "ASEAN Guide on AI Governance and Ethics",
+   "source_count": 3,
+   "instrument_count": 4,
+   "source_distribution": {
+    "gutierrez": 1,
+    "laip": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0136",
+     "name": "Expanded ASEAN Guide on AI Governance and Ethics - Generative AI"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0031",
+     "name": "ASEAN Guide on AI Governance and Ethics"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0266",
+     "name": "ASEAN Guide on AI Governance and Ethics"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1932",
+     "name": "ASEAN Guide on AI Governance and Ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0025",
+   "name": "Australia’s AI Ethics Principles",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "agora": 1,
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-01033",
+     "name": "Australia’s AI Ethics Principles"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0031",
+     "name": "Australia’s Artificial Intelligence Ethics Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2258",
+     "name": "Australia's AI Ethics Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0030",
+   "name": "Policy Recommendations on Augmented Intelligence in Health Care H-480.940",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0009",
+     "name": "Policy Recommendations on Augmented Intelligence in Health Care H-480.940"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0140",
+     "name": "Augmented Intelligence in Health Care H-480.940"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-053",
+     "name": "Intelligence in Health Care H- 480.940"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0046",
+   "name": "European ethical Charter on the use of Artificial Intelligence in judicial systems and their environment",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0043",
+     "name": "European ethical Charter on the use of Artificial Intelligence in judicial systems and their environment"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0099",
+     "name": "European ethical Charter on the use of Artificial Intelligence in judicial systems and their environment"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-073",
+     "name": "\"The five principles of the Ethical Charter on the Use of Artificial Intelligence in Judicial Systems and their environment\""
+    }
+   ]
+  },
+  {
+   "id": "OVL-0049",
+   "name": "Report with recommendations to the Commission on Civil Law Rules on Robotics",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0046",
+     "name": "Report with recommendations to the Commission on Civil Law Rules on Robotics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0109",
+     "name": "Report with recommendations to the Commission on Civil Law Rules on Robotics"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1355",
+     "name": "Resolution on Civil Law Rules on Robotics and AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0063",
+   "name": "IBM’s Principles for Trust and Transparency",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0071",
+     "name": "IBM’s Principles for Trust and Transparency"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0020",
+     "name": "IBM's Principles for Trust and Transparency"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-036",
+     "name": "IBM’s Principles for Trust and Transparency"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0075",
+   "name": "Charlevoix Common Vision for the Future of Artificial Intelligence",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0090",
+     "name": "Charlevoix Common Vision for the Future of Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0023",
+     "name": "Charlevoix Common Vision for the Future of Artificial Intelligence"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-051",
+     "name": "Charlevoix Common Vision for the Future of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0080",
+   "name": "Principlesto Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics in Singapore’sFinancial Sector",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0098",
+     "name": "Principlesto Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics in Singapore’sFinancial Sector"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0038",
+     "name": "Principles to Promote Fairness, Ethics, Accountability and Transparency (FEAT) in the Use of Artificial Intelligence and Data Analytics in Singapore's Financial Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1917",
+     "name": "Principles to Promote Fairness, Ethics, Accountability and Transparency in the Use of Artificial Intelligence and Data Analytics in Singapore's Financial Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0088",
+   "name": "Tenets Partnership on AI",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0109",
+     "name": "Tenets Partnership on AI"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0155",
+     "name": "Partnership on AI Tenets"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0083",
+     "name": "Partnership on AI: Tenets"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0090",
+   "name": "Rome Call for AI Ethics",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0114",
+     "name": "Rome Call – AI Ethics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0058",
+     "name": "Rome Call for AI Ethics"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0084",
+     "name": "Rome Call for AI Ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0091",
+   "name": "A practical guide to Responsible Artificial Intelligence (AI)",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0115",
+     "name": "A practical guide to Responsible Artificial Intelligence (AI)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0059",
+     "name": "A practical guide to Responsible Artificial Intelligence (AI)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0122",
+     "name": "Justice Practical Guide"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0098",
+   "name": "Principles for the safe and effective use of data and analytics",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0124",
+     "name": "Principles for the safe and effective use of data and analytics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0091",
+     "name": "Principles for the safe and effective use of data and analytics"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1881",
+     "name": "Principles for Safe and Effective Use of Data and Analytics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0099",
+   "name": "Telia Company Guiding Principles on trusted AI ethics",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0127",
+     "name": "Telia Company Guiding Principles on trusted AI ethics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0097",
+     "name": "Telia Company Guiding Principles on trusted AI ethics"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0026",
+     "name": "Telia Company Guiding Principles on trusted AI ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0102",
+   "name": "Unified Ethical Frame for Big Data Analysis (draft)",
+   "source_count": 3,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0133",
+     "name": "Unified Ethical Frame for Big Data Analysis (draft)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0193",
+     "name": "Unified Ethical Frame for Big Data Analysis"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1873",
+     "name": "Big Data Analysis"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0005",
+   "name": "Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)",
+   "source_count": 2,
+   "instrument_count": 4,
+   "source_distribution": {
+    "agora": 3,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00235",
+     "name": "Guiding Opinions on Strengthening the Governance of Science and Technology Ethics (Draft for Feedback)"
+    },
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00303",
+     "name": "Opinion on Strengthening Science and Technology Ethics Governance"
+    },
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00480",
+     "name": "Opinions on Strengthening the Governance of Science and Technology Ethics"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1721",
+     "name": "Guiding Opinions on Strengthening Ethical Governance of Science and Technology"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0019",
+   "name": "National AI Strategy 2.0",
+   "source_count": 2,
+   "instrument_count": 4,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 3
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00795",
+     "name": "Singapore National AI Strategy 2.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0353",
+     "name": "National AI Strategy Roadmap 2.0 (NAISR 2.0)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2068",
+     "name": "National AI Strategy 2.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2091",
+     "name": "National AI Strategy 2.0"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0136",
+   "name": "Guide on the Use of Generative Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 4,
+   "source_distribution": {
+    "gutierrez": 3,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0044",
+     "name": "Guide on the Use of Generative Artificial Intelligence"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0141",
+     "name": "Generative AI Guide"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0142",
+     "name": "Responsible Use Guide for Generative AI Tools"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2152",
+     "name": "Guide on the use of Generative AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0008",
+   "name": "Executive Order on Removing Barriers To American Leadership In Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00277",
+     "name": "Executive Order on Removing Barriers To American Leadership In Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0228",
+     "name": "Executive Order 14179: Removing Barriers to American Leadership in AI"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1817",
+     "name": "Executive Order on Maintaining American Leadership in AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0055",
+   "name": "For a meaningful Artificial Intelligence. Towards a French and European strategy",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 2,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0053",
+     "name": "For a meaningful Artificial Intelligence. Towards a French and European strategy"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0097",
+     "name": "For a meaningful Artificial Intelligence. Towards a French and European strategy"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0037",
+     "name": "For a meaningful Artificial Intelligence - Towards a French and European strategy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0065",
+   "name": "Ethically Aligned Design",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 2,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0074",
+     "name": "Ethically Aligned Design"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0075",
+     "name": "Ethically Aligned Design 2"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0039",
+     "name": "Ethically Aligned Design (v2): General Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0116",
+   "name": "Artificial Intelligence: open questions about gender inclusion",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "algorithmwatch": 2,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0161",
+     "name": "Artificial Intelligence: open questions about gender inclusion"
+    },
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0162",
+     "name": "Artificial Intelligence: open questions about gender inclusion"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0138",
+     "name": "Artificial Intelligence: open questions about gender inclusion"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0118",
+   "name": "Artificial Intelligence at Google: Our Principles",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "correa-2023": 2,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0014",
+     "name": "AI at Google: our principles"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0085",
+     "name": "Artificial Intelligence at Google: Our Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0012",
+     "name": "Artificial Intelligence at Google: Our Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0134",
+   "name": "Policy for the Responsible Use of AI in Government",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0027",
+     "name": "Policy for the Responsible Use of AI in Government"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0345",
+     "name": "Policy for the responsible use of AI in government"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1617",
+     "name": "Digital Government Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0140",
+   "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE)",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0064",
+     "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition -SCE-"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0347",
+     "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE)"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0372",
+     "name": "Guide for Auditing the Use of Artificial Intelligence Tools in the Superintendence of Economic Competition (SCE)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0147",
+   "name": "Generative Artificial Intelligence for Government Guidelines",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "gutierrez": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0086",
+     "name": "Generative Artificial Intelligence for Government Guidelines"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0097",
+     "name": "Generative AI Framework for HM Government"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1643",
+     "name": "Generative Artificial Intelligence Guidelines for Government"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0148",
+   "name": "Guidelines for Generative AI in Public Administration",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 2
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0092",
+     "name": "Guidelines for Generative AI in Public Administration"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1285",
+     "name": "Guidelines for the use of generative AI in the public administration"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1641",
+     "name": "Generative Artificial Intelligence Guidelines Public"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0150",
+   "name": "Artificial Intelligence -AI- and Generative Artificial Intelligence -GenAI- Policy",
+   "source_count": 2,
+   "instrument_count": 3,
+   "source_distribution": {
+    "gutierrez": 2,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0111",
+     "name": "Artificial Intelligence -AI- and Generative Artificial Intelligence -GenAI- Policy"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0116",
+     "name": "Generative Artificial Intelligence Policy"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0448",
+     "name": "Policy on the use of Generative AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0001",
+   "name": "Winning the Race: America's AI Action Plan 2025",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00022",
+     "name": "Winning the Race: America's AI Action Plan 2025"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1282",
+     "name": "America's AI Action Plan"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0003",
+   "name": "Global AI Governance Initiative",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00213",
+     "name": "Global AI Governance Initiative"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0009",
+     "name": "Global AI Governance Initiative"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0004",
+   "name": "San Francisco Generative AI Guidelines",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "gutierrez": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00227",
+     "name": "San Francisco Generative AI Guidelines"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0115",
+     "name": "San Francisco Generative AI Guidelines"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0006",
+   "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00247",
+     "name": "Republic of Ghana National Artificial Intelligence Strategy: 2023-2033"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0362",
+     "name": "National strategy: Republic of Ghana National Artificial Intelligence Strategy 2023–2033"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0007",
+   "name": "AI Act of 2024",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00266",
+     "name": "AI Act of 2024"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1373",
+     "name": "Finance Act 2024"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0011",
+   "name": "NIST AI Risk Management Framework 1.0",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00310",
+     "name": "NIST AI Risk Management Framework 1.0"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0275",
+     "name": "NIST AI Risk Management Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0012",
+   "name": "G20 Ministerial Statement on Trade and Digital Economy (Annex \"G20 AI Principles\")",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00380",
+     "name": "G20 Ministerial Statement on Trade and Digital Economy (Annex \"G20 AI Principles\")"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0053",
+     "name": "G20 Ministerial Statement on Trade and Digital Economy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0013",
+   "name": "County of Santa Cruz Artificial Intelligence Appropriate Use Policy",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "gutierrez": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00445",
+     "name": "County of Santa Cruz Artificial Intelligence Appropriate Use Policy"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0119",
+     "name": "County of Santa Cruz Artificial Intelligence Appropriate Use Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0014",
+   "name": "City of Boston Interim Guidelines for Using Generative AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "gutierrez": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00449",
+     "name": "City of Boston Interim Guidelines for Using Generative AI"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0121",
+     "name": "City of Boston Interim Guidelines for Using Generative AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0015",
+   "name": "Federal Senate Bill of Law No. 2338, of 2023",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00547",
+     "name": "Federal Senate Bill of Law No. 2338, of 2023"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0342",
+     "name": "Bill No. 2338 of 2023"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0016",
+   "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00712",
+     "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0207",
+     "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0017",
+   "name": "New Generation Artificial Intelligence Development Plan",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00714",
+     "name": "New Generation Artificial Intelligence Development Plan"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1729",
+     "name": "National New Generation AI Plan"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0020",
+   "name": "Artificial Intelligence and the Information Privacy Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "gutierrez": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00802",
+     "name": "Artificial Intelligence and the Information Privacy Principles"
+    },
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0158",
+     "name": "Guidelines on Information Security and Privacy for Artificial Intelligence Systems"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0021",
+   "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00815",
+     "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1816",
+     "name": "Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0022",
+   "name": "Artificial Intelligence Video Interview Act",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00821",
+     "name": "Artificial Intelligence Video Interview Act"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1803",
+     "name": "Illinois Artificial Intelligence Video Interview Act"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0023",
+   "name": "Artificial Intelligence Training for the Acquisition Workforce Act",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-00827",
+     "name": "Artificial Intelligence Training for the Acquisition Workforce Act"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1808",
+     "name": "AI Training for the Acquisition Workforce Act (Bill S-2551)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0026",
+   "name": "Safe and Responsible AI in Australia Consultation, Interim Response",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "agora": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "agora",
+     "record_id": "DOCUMENTS-01037",
+     "name": "Safe and Responsible AI in Australia Consultation, Interim Response"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2204",
+     "name": "Safe and Responsible AI in Australia: Interim Response"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0028",
+   "name": "L’intelligenzia artificiale al servizio del cittadino (Artificial Intelligence at the service of the citizen)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0006",
+     "name": "L’intelligenzia artificiale al servizio del cittadino (Artificial Intelligence at the service of the citizen)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0137",
+     "name": "Artificial Intelligence at the service of the citizen (L'intelligenzia artificiale al servizio del cittadino)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0029",
+   "name": "AI Now Report 2018",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0007",
+     "name": "AI Now Report 2018"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0100",
+     "name": "AI Now Report 2018"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0031",
+   "name": "Safety First for Automated Driving – Proposed technical standards for the development of Automated Driving",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0011",
+     "name": "Safety First for Automated Driving – Proposed technical standards for the development of Automated Driving"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0104",
+     "name": "Safety First for Automated Driving – Proposed technical standards for the development of Automated Driving"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0033",
+   "name": "It’s Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0013",
+     "name": "It’s Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0041",
+     "name": "It's Time to Do Something: Mitigating the Negative Impacts of Computing Through a Change to the Peer Review Process"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0034",
+   "name": "AI4People’s Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0014",
+     "name": "AI4People’s Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0056",
+     "name": "AI 4People 's Ethical Framework for a Good AI Society: Opportunities, Risks, Principles, and Recommendations"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0035",
+   "name": "Artificial Intelligence Australia’s Ethics Framework A Discussion Paper",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0015",
+     "name": "Artificial Intelligence Australia’s Ethics Framework A Discussion Paper"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0087",
+     "name": "Artificial Intelligence: Australia's Ethics Framework - A Discussion Paper"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0036",
+   "name": "Empfehlungen für den verantwortlichen Einsatz von KI und automatisierten Entscheidungen (Recommendations for the responsible use of AI and automated decision making)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0018",
+     "name": "Empfehlungen für den verantwortlichen Einsatz von KI und automatisierten Entscheidungen (Recommendations for the responsible use of AI and automated decision making)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0092",
+     "name": "Recommendations for the responsible use of AI and automated decision-making - Corporate Digital Responsibility and Decision Making (Empfehlungen für den verantwortlichen Einsatz von KI und automatisierten Entscheidungen - Corporate Digital Responsibility and Decision Making)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0037",
+   "name": "Digital Decisions",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0022",
+     "name": "Digital Decisions"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0044",
+     "name": "Digital Decisions"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0038",
+   "name": "Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0023",
+     "name": "Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment)"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0005",
+     "name": "Joint Pledge on Artificial Intelligence Industry Self-Discipline (Draft for Comment)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0039",
+   "name": "Artificial Intelligence: opportunities, risks and recommendations for the financial sector",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0027",
+     "name": "Artificial Intelligence: opportunities, risks and recommendations for the financial sector"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0078",
+     "name": "Artificial Intelligence: opportunities, risks and recommendations for the financial sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0041",
+   "name": "Governing Artificial Intelligence. Upholding Human Rights & Dignity",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0029",
+     "name": "Governing Artificial Intelligence. Upholding Human Rights & Dignity"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0132",
+     "name": "Governing Artificial Intelligence: Upholding human rights & dignity"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0042",
+   "name": "Code of conduct for data-driven health and care technology",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0034",
+     "name": "Code of conduct for data-driven health and care technology"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0068",
+     "name": "Code of conduct for data-driven health and care technology"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0043",
+   "name": "Künstliche Intelligenz und die Arbeit von Morgen",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0036",
+     "name": "Künstliche Intelligenz und die Arbeit von Morgen"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0070",
+     "name": "Artificial intelligence and the work of tomorrow (Künstliche Intelligenz und die Arbeit von Morgen)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0044",
+   "name": "Data for the Benefit of the People: Recommendations from the Danish Expert Group on Data Ethics",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0039",
+     "name": "Data for the Benefit of the People: Recommendations from the Danish Expert Group on Data Ethics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0073",
+     "name": "Data for the Benefit of the People: Recommendations from the Danish Expert Group on Data Ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0045",
+   "name": "Automatisiertes und Vernetztes Fahren / Automated and connected automated driving",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0042",
+     "name": "Automatisiertes und Vernetztes Fahren / Automated and connected automated driving"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0096",
+     "name": "Automated and connected automated driving (Automatisiertes und Vernetztes Fahren)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0047",
+   "name": "Code of Practice on Disinformation",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0044",
+     "name": "Code of Practice on Disinformation"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0040",
+     "name": "Code of Practice on Disinformation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0048",
+   "name": "Statement on Artificial Intelligence, Robotics and ‚Autonomous‘ Systems",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0045",
+     "name": "Statement on Artificial Intelligence, Robotics and ‚Autonomous‘ Systems"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0108",
+     "name": "Statement on Artificial Intelligence, Robotics and 'Autonomous‘ Systems"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0050",
+   "name": "Preparing for the future of Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0047",
+     "name": "Preparing for the future of Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0110",
+     "name": "Preparing for the future of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0051",
+   "name": "Vienna Manifesto on Digital Humanism",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0048",
+     "name": "Vienna Manifesto on Digital Humanism"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0111",
+     "name": "Vienna Manifesto on Digital Humanism"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0052",
+   "name": "Principles for Accountable Algorithms and a Social Impact Statement for Algorithms",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0049",
+     "name": "Principles for Accountable Algorithms and a Social Impact Statement for Algorithms"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0112",
+     "name": "Principles for Accountable Algorithms and a Social Impact Statement for Algorithms"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0053",
+   "name": "How can humans keep the upper hand? Report on the ethical matters raised by AI algorithms",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0051",
+     "name": "How can humans keep the upper hand? Report on the ethical matters raised by AI algorithms"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0034",
+     "name": "How Can Humans Keep The Upper Hand? The Ethical Matters Raised By Algorithms And Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0054",
+   "name": "Digital Technology and Healthcare. Which Ethical Issues for which Regulations?",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0052",
+     "name": "Digital Technology and Healthcare. Which Ethical Issues for which Regulations?"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0042",
+     "name": "Digital Technology and Healthcare which ethical issues for which regulations?"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0056",
+   "name": "Ethical, social, and political challenges of Artificial Intelligence in Health",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0054",
+     "name": "Ethical, social, and political challenges of Artificial Intelligence in Health"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0046",
+     "name": "Ethical, Social, and Political Challenges of Artificial Intelligence in Health"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0057",
+   "name": "Unfairness by algorithm: Distilling the Harms of automated decision making",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0056",
+     "name": "Unfairness by algorithm: Distilling the Harms of automated decision making"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0051",
+     "name": "Unfairness by Algorithm: Distilling the Harms of Automated Decision-making"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0058",
+   "name": "People & AI Partnership Guidebook",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0061",
+     "name": "People & AI Partnership Guidebook"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0083",
+     "name": "People + AI Guidebook"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0059",
+   "name": "Responsible Artificial Intelligence in the Government of Canada (whitepaper)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0064",
+     "name": "Responsible Artificial Intelligence in the Government of Canada (whitepaper)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0080",
+     "name": "Responsible Artificial Intelligence in the Government of Canada (whitepaper)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0060",
+   "name": "Datenschutz und Big Data / Data protection and Big Data",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0066",
+     "name": "Datenschutz und Big Data / Data protection and Big Data"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0079",
+     "name": "Data protection and Big Data (Datenschutz und Big Data)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0061",
+   "name": "Draft Guidelines for Trustworthy AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0067",
+     "name": "Draft Guidelines for Trustworthy AI"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0036",
+     "name": "Draft Ethics Guidelines for Trustworthy AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0062",
+   "name": "10 ethische Leitlinien für die Digitalisierung von Unternehmen (10 ethical guidelines for the digitalisation of companies)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0068",
+     "name": "10 ethische Leitlinien für die Digitalisierung von Unternehmen (10 ethical guidelines for the digitalisation of companies)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0017",
+     "name": "10 ethical guidelines for the digitalisation of companies (10 ethische Leitlinien für die Digitalisierung von Unternehmen)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0064",
+   "name": "IIIM’s Ethics Policy",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0073",
+     "name": "IIIM’s Ethics Policy"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-004",
+     "name": "IIIM's Ethics Policy"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0066",
+   "name": "Big data, artificial intelligence, machine learning and data protection",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0077",
+     "name": "Big data, artificial intelligence, machine learning and data protection"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0045",
+     "name": "Big Data, Artificial Intelligence, Machine Learning, and Data Protection"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0067",
+   "name": "Draft AI R&D Guidelines for International Discussions",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0080",
+     "name": "Draft AI R&D Guidelines for International Discussions"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0028",
+     "name": "Draft AI R&D Guidelines for International Discussions"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0068",
+   "name": "Artificial Intelligence. The Public Policy Opportunity",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0081",
+     "name": "Artificial Intelligence. The Public Policy Opportunity"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0040",
+     "name": "AI public policy principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0069",
+   "name": "Intel’s AI Privacy Policy White Paper. Protecting individuals’ privacy and data in the artificial intelligence world",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0082",
+     "name": "Intel’s AI Privacy Policy White Paper. Protecting individuals’ privacy and data in the artificial intelligence world"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0003",
+     "name": "Intel's AI Privacy Policy White Paper: Protecting individuals' privacy and data in the artificial intelligence world"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0071",
+   "name": "Responsible AI: Global Policy Framework",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0085",
+     "name": "Responsible AI: Global Policy Framework"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0008",
+     "name": "Responsible AI: A Global Policy Framework"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0073",
+   "name": "Kakao Algorithm Ethics",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0087",
+     "name": "Kakao Algorithm Ethics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0011",
+     "name": "Kakao Algorithm Ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0074",
+   "name": "Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society Managing the Fourth Industrial Revolution",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0089",
+     "name": "Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society Managing the Fourth Industrial Revolution"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0022",
+     "name": "Mid- to Long-Term Master Plan in Preparation for the Intelligent Information Society Managing the Fourth Industrial Revolution"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0076",
+   "name": "MIT Schwarzman College of Computing Task Force Working Group on Social Implications and Responsibilities of Computing Final Report",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0092",
+     "name": "MIT Schwarzman College of Computing Task Force Working Group on Social Implications and Responsibilities of Computing Final Report"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0027",
+     "name": "MIT Schwarzman College of Computing Task Force Working Group on Social Implications and Responsibilities of Computing Final Report"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0077",
+   "name": "Our Approach to AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0094",
+     "name": "Our Approach to AI"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-025",
+     "name": "AI - Our approach"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0078",
+   "name": "Responsible bots: 10 guidelines for developers of conversational AI",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0095",
+     "name": "Responsible bots: 10 guidelines for developers of conversational AI"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0029",
+     "name": "Responsible bots: 10 guidelines for developers of conversational AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0079",
+   "name": "The Future Computed – Artificial intelligence and its role in society",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0096",
+     "name": "The Future Computed – Artificial intelligence and its role in society"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0033",
+     "name": "The Future Computed – Artificial intelligence and its role in society"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0081",
+   "name": "Discussion Paper: National Strategy for Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0100",
+     "name": "Discussion Paper: National Strategy for Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0147",
+     "name": "Discussion Paper: National Strategy for Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0082",
+   "name": "Advisory Statement on Human Ethics in Artificial Intelligence and Big Data Research (2017)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0101",
+     "name": "Advisory Statement on Human Ethics in Artificial Intelligence and Big Data Research (2017)"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0148",
+     "name": "Advisory statement on human ethics in artificial intelligence and big data research (2017)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0083",
+   "name": "Seeking Ground Rules for A.I.",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0103",
+     "name": "Seeking Ground Rules for A.I."
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0095",
+     "name": "Seeking Ground Rules for A.I.: The Recommendations"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0084",
+   "name": "Holberton Turing Oath",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0104",
+     "name": "Holberton Turing Oath"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0150",
+     "name": "The Holberton-Turing Oath"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0085",
+   "name": "Recommendation of the Council on Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0105",
+     "name": "Recommendation of the Council on Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0151",
+     "name": "OECD, Recommendation of the Council on Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0087",
+   "name": "Code of Conduct",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0108",
+     "name": "Code of Conduct"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0400",
+     "name": "Voluntary Code of Conduct for the Ethical and Responsible Use of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0089",
+   "name": "AI & Data Topical Guide Series",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0113",
+     "name": "AI & Data Topical Guide Series"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0057",
+     "name": "AI & Data Topical Guide Series"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0092",
+   "name": "Privacy and Freedom of Expression In the Age of Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0116",
+     "name": "Privacy and Freedom of Expression In the Age of Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0062",
+     "name": "Privacy and Freedom of Expression In the Age of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0093",
+   "name": "Užupis Principles for Trustworthy AI Design",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0117",
+     "name": "Užupis Principles for Trustworthy AI Design"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0063",
+     "name": "Užupis Principles for Trustworthy AI Design"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0096",
+   "name": "Ethical Principles for Artificial Intelligence and Data Analytics",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0122",
+     "name": "Ethical Principles for Artificial Intelligence and Data Analytics"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-024",
+     "name": "Ethical Principles for Artificial Intelligence and Data Analytics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0100",
+   "name": "Position on Robotics and Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0131",
+     "name": "Position on Robotics and Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0131",
+     "name": "Position on Robotics and Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0101",
+   "name": "A Framework for the Ethical use of advanced Data Science Methodes in the Humanitarian Sector",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0132",
+     "name": "A Framework for the Ethical use of advanced Data Science Methodes in the Humanitarian Sector"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0192",
+     "name": "A Framework for the Ethical use of advanced Data Science Methodes in the Humanitarian Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0103",
+   "name": "The Responsible Machine Learning Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0134",
+     "name": "The Responsible Machine Learning Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0427",
+     "name": "Introduction to machine learning"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0104",
+   "name": "Civil Rights Principles for the Era of Big Data",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0136",
+     "name": "Civil Rights Principles for the Era of Big Data"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0194",
+     "name": "Civil Rights Principles for the Era of Big Data"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0105",
+   "name": "Machine learning: the power and promise of computers that learn by example",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0140",
+     "name": "Machine learning: the power and promise of computers that learn by example"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0114",
+     "name": "Machine learning: the power and promise of computers that learn by example"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0106",
+   "name": "Guidance for Regulation of Artificial Intelligence Applications",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0141",
+     "name": "Guidance for Regulation of Artificial Intelligence Applications"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0115",
+     "name": "Guidance for Regulation of Artificial Intelligence Applications"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0109",
+   "name": "Preliminary study on the Ethics of Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0145",
+     "name": "Preliminary study on the Ethics of Artificial Intelligence"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0120",
+     "name": "Preliminary Study on the Ethics of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0110",
+   "name": "Report of COMEST on Robotics Ethics",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0146",
+     "name": "Report of COMEST on Robotics Ethics"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0121",
+     "name": "Report of COMEST on robotics ethics"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0113",
+   "name": "A Code of Ethics for the Human Robot Interaction",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0151",
+     "name": "A Code of Ethics for the Human Robot Interaction"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0145",
+     "name": "A Code of Ethics for the Human-Robot Interaction Profession"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0114",
+   "name": "The Malicious Use of Artificial Intelligence: Forecasting, Prevntion and Mitigation",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0153",
+     "name": "The Malicious Use of Artificial Intelligence: Forecasting, Prevntion and Mitigation"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0159",
+     "name": "The Malicious Use of Artificial Intelligence: Forecasting, Prevention, and Mitigation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0115",
+   "name": "AI UX: 7 Principles of Designing Good AI Products",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0156",
+     "name": "AI UX: 7 Principles of Designing Good AI Products"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0160",
+     "name": "AI UX: 7 Principles of Designing Good AI Products"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0117",
+   "name": "White Paper: How to Prevent Discriminatory Outcomes in Machine Learning",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "algorithmwatch": 1,
+    "correa-2023": 1
+   },
+   "members": [
+    {
+     "source": "algorithmwatch",
+     "record_id": "AW-0167",
+     "name": "White Paper: How to Prevent Discriminatory Outcomes in Machine Learning"
+    },
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0146",
+     "name": "How to Prevent Discriminatory Outcomes in Machine Learning"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0119",
+   "name": "Toward a G20 Framework for Artificial Intelligence in the Workplace",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0031",
+     "name": "Toward a G20 Framework for Artificial Intelligence in the Workplace"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0056",
+     "name": "Toward a G20 Framework for Artificial Intelligence in the Workplace"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0120",
+   "name": "Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0061",
+     "name": "Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, Version 2"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-032",
+     "name": "Ethically Aligned Design. A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, version 2"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0122",
+   "name": "Montréal declaration for a responsible development of artificial intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "jobin-2019": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0125",
+     "name": "Montréal declaration for a responsible development of artificial intelligence"
+    },
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-031",
+     "name": "Montréal Declaration: Responsible AI"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0123",
+   "name": "Artificial Intelligence for Children: Beijing Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0128",
+     "name": "Artificial Intelligence for Children: Beijing Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0007",
+     "name": "Artificial Intelligence for Children: Beijing Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0125",
+   "name": "UNESCO Recommendation on the Ethics of Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0156",
+     "name": "UNESCO Recommendation on the Ethics of Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2315",
+     "name": "The Ethics of AI as a UNESCO Recommendation"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0126",
+   "name": "Ethical Aspects of Autonomous and Intelligent Systems",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0176",
+     "name": "Ethical Aspects of Autonomous and Intelligent Systems"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0093",
+     "name": "Ethical Aspects of Autonomous and Intelligent Systems"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0127",
+   "name": "Draft - AI Utilization Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0183",
+     "name": "Draft - AI Utilization Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0016",
+     "name": "Draft AI Utilization Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0128",
+   "name": "Shanghai Initiative for Safe and Secure AI Development",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0185",
+     "name": "Shanghai Initiative for Safe and Secure AI Development"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0024",
+     "name": "Shanghai Initiative for the Safe Development of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0129",
+   "name": "Chinese Young Scientists' Declaration on the Governance and Innovation of Artificial Intelligence (Shanghai Declaration)",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0186",
+     "name": "Chinese Young Scientists' Declaration on the Governance and Innovation of Artificial Intelligence (Shanghai Declaration)"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0044",
+     "name": "Chinese Young Scientists’ Declaration on the Governance and Innovation of Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0130",
+   "name": "Trustworthy AI in Aotearoa: AI Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0187",
+     "name": "Trustworthy AI in Aotearoa: AI Principles"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0054",
+     "name": "Trustworthy AI in Aotearoa: The AI Principles"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0131",
+   "name": "Stanford's Human-Centered AI Initiative Values",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "correa-2023": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "correa-2023",
+     "record_id": "WAIE-0199",
+     "name": "Stanford's Human-Centered AI Initiative Values"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0115",
+     "name": "The Stanford Human-Centered AI Initiative (HAI)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0132",
+   "name": "Guide for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0017",
+     "name": "Guide for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1378",
+     "name": "Guidance for Public and Private Entities on Transparency and Personal Data Protection for Responsible Artificial Intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0133",
+   "name": "Recommendations for Reliable Artificial Intelligence",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0018",
+     "name": "Recommendations for Reliable Artificial Intelligence"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0006",
+     "name": "Recommendations for reliable artificial intelligence"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0135",
+   "name": "Interim Guidance on Government Use of Public Generative AI Tools",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0030",
+     "name": "Interim Guidance on Government Use of Public Generative AI Tools"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0059",
+     "name": "Guidance on Government use of Public Generative AI Tools"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0137",
+   "name": "Algorithmic Impact Assessment Tool -AIA-",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0046",
+     "name": "Algorithmic Impact Assessment Tool -AIA-"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2154",
+     "name": "Algorithmic Impact Assessment"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0138",
+   "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0048",
+     "name": "Guidelines for the Use of Artificial Intelligence Tools in the Public Sector"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2501",
+     "name": "AI in the Public Sector"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0139",
+   "name": "Technical and Ethical Guidelines on AI for the Capital District of Bogotá",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0055",
+     "name": "Technical and Ethical Guidelines on AI for the Capital District of Bogotá"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0004",
+     "name": "Technical and Ethical Guidelines on Artificial Intelligence for the Capital District of Bogotá (Subnational: Bogotá D.C.)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0141",
+   "name": "Guide to the Use of Artificial Intelligence Tools ‘AI’ in the Superintendency of Economic Competition -SEC-",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0065",
+     "name": "Guide to the Use of Artificial Intelligence Tools ‘AI’ in the Superintendency of Economic Competition -SEC-"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0376",
+     "name": "Guide to Using Artificial Intelligence \"AI\" Tools in the Superintendency of Economic Competition"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0142",
+   "name": "Code of Ethics of the Superintendency of Economic Competition",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0066",
+     "name": "Code of Ethics of the Superintendency of Economic Competition"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0375",
+     "name": "Code of Ethics for Artificial Intelligence \"AI\" in the Superintendency of Economic Competition"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0143",
+   "name": "Model Contractual Clauses for the Public Procurement of High-Risk AI -'MCC-AIHigh-Risk'-",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0068",
+     "name": "Model Contractual Clauses for the Public Procurement of High-Risk AI -'MCC-AIHigh-Risk'-"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0278",
+     "name": "Model Contractual Clauses for the Public Procurement of Non-High-Risk AI (MCC-AI-Light)"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0144",
+   "name": "Guiding Principles for the Development of Machine Learning-based Technologies",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0077",
+     "name": "Guiding Principles for the Development of Machine Learning-based Technologies"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-2047",
+     "name": "Guiding Principles for the Development of Machine-learning Based Technologies in Healthcare"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0145",
+   "name": "Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0078",
+     "name": "Guideline for Japanese Governments’ Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-0167",
+     "name": "Guideline for Japanese Government’s Procurements and Utilizations of Generative AI for the sake of Evolution and Innovation of Public Administration"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0146",
+   "name": "General Principles and Impact Assessment Guide for the Development and Use of Artificial Intelligence Systems in the Federal Public Administration",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0079",
+     "name": "General Principles and Impact Assessment Guide for the Development and Use of Artificial Intelligence Systems in the Federal Public Administration"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1940",
+     "name": "Principles and Impact Analysis Guide for the Development and Use of Systems Based on Artificial Intelligence in the Federal Public Administration"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0149",
+   "name": "Algorithmic Transparency Recording Standard -ATRS-",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "gutierrez": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "gutierrez",
+     "record_id": "GG-0100",
+     "name": "Algorithmic Transparency Recording Standard -ATRS-"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1459",
+     "name": "Algorithmic Transparency Recording Standard"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0153",
+   "name": "Principles for Accountable Algorithms",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-010",
+     "name": "Principles for Accountable Algorithms"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0091",
+     "name": "Principles for Accountable Algorithms"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0154",
+   "name": "Guiding principles and recommendations",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-016",
+     "name": "Guiding principles and recommendations"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0014",
+     "name": "Guiding Principles and Recommendations"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0155",
+   "name": "Ethical principles and democratic prerequisites",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-041",
+     "name": "Ethical principles and democratic prerequisites"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0010",
+     "name": "Ethical principles and democratic prerequisites"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0156",
+   "name": "Five Areas of Ethical Focus",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-055",
+     "name": "Five Areas of Ethical Focus"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0105",
+     "name": "Everyday Ethics for Artificial Intelligence: Five Areas of Ethical Focus"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0157",
+   "name": "AI Principles of Telefónica",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "jobin-2019": 1,
+    "laip": 1
+   },
+   "members": [
+    {
+     "source": "jobin-2019",
+     "record_id": "JOBIN-068",
+     "name": "AI Principles of Telefónica"
+    },
+    {
+     "source": "laip",
+     "record_id": "LAIP-0070",
+     "name": "AI Principles of Telefónica"
+    }
+   ]
+  },
+  {
+   "id": "OVL-0158",
+   "name": "The FAST Track Principles",
+   "source_count": 2,
+   "instrument_count": 2,
+   "source_distribution": {
+    "laip": 1,
+    "oecd-ai": 1
+   },
+   "members": [
+    {
+     "source": "laip",
+     "record_id": "LAIP-0053",
+     "name": "The FAST Track Principles"
+    },
+    {
+     "source": "oecd-ai",
+     "record_id": "OECD-1258",
+     "name": "Fast Track"
+    }
+   ]
+  }
+ ],
+ "pair_matrix": {
+  "agora|algorithmwatch": 8,
+  "agora|correa-2023": 12,
+  "agora|gutierrez": 12,
+  "agora|jobin-2019": 2,
+  "agora|laip": 10,
+  "agora|oecd-ai": 48,
+  "algorithmwatch|correa-2023": 180,
+  "algorithmwatch|gutierrez": 8,
+  "algorithmwatch|jobin-2019": 32,
+  "algorithmwatch|laip": 44,
+  "algorithmwatch|oecd-ai": 22,
+  "correa-2023|gutierrez": 8,
+  "correa-2023|jobin-2019": 30,
+  "correa-2023|laip": 56,
+  "correa-2023|oecd-ai": 38,
+  "gutierrez|jobin-2019": 2,
+  "gutierrez|laip": 6,
+  "gutierrez|oecd-ai": 66,
+  "jobin-2019|laip": 32,
+  "jobin-2019|oecd-ai": 10,
+  "laip|oecd-ai": 20
+ },
+ "summary": {
+  "cluster_count": 158,
+  "duplicate_records": 404,
+  "unique_records": 4383,
+  "dedup_ratio": 0.084,
+  "by_source": {
+   "agora": {
+    "total": 1066,
+    "in_overlap": 29
+   },
+   "algorithmwatch": {
+    "total": 140,
+    "in_overlap": 99
+   },
+   "correa-2023": {
+    "total": 166,
+    "in_overlap": 103
+   },
+   "gutierrez": {
+    "total": 154,
+    "in_overlap": 35
+   },
+   "jobin-2019": {
+    "total": 64,
+    "in_overlap": 26
+   },
+   "laip": {
+    "total": 85,
+    "in_overlap": 43
+   },
+   "oecd-ai": {
+    "total": 2378,
+    "in_overlap": 69
+   },
+   "responsible-ai-measures": {
+    "total": 734,
+    "in_overlap": 0
+   }
+  }
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "generated": "2026-09-30",
+ "sources": [
+  {
+   "db": "agora",
+   "file": "agora.json",
+   "title": "AGORA — AI governance instruments, measures & actors (Zenodo v1.29.0)",
+   "count": 1068
+  },
+  {
+   "db": "algorithmwatch",
+   "file": "algorithmwatch.json",
+   "title": "AlgorithmWatch — AI Ethics Guidelines Global Inventory",
+   "count": 167
+  },
+  {
+   "db": "correa-2023",
+   "file": "correa-2023.json",
+   "title": "Corrêa et al. — Worldwide AI Ethics: a pooled data set of 200 guidelines",
+   "count": 200
+  },
+  {
+   "db": "gutierrez",
+   "file": "gutierrez.json",
+   "title": "Gutiérrez et al. — AI guidelines & regulation (Uniandes)",
+   "count": 166
+  },
+  {
+   "db": "jobin-2019",
+   "file": "jobin-2019.json",
+   "title": "Jobin, Ienca & Vayena (2019) — The global landscape of AI ethics guidelines",
+   "count": 85
+  },
+  {
+   "db": "laip",
+   "file": "laip.json",
+   "title": "Linking AI Principles (LAIP) — AI principle catalog",
+   "count": 115
+  },
+  {
+   "db": "oecd-ai",
+   "file": "oecd-ai.json",
+   "title": "OECD.AI — Policy initiatives database",
+   "count": 2557
+  },
+  {
+   "db": "responsible-ai-measures",
+   "file": "responsible-ai-measures.json",
+   "title": "RAISE-Lab — Responsible AI Measures Dataset (791 evaluation measures)",
+   "count": 791
+  }
+ ]
+}
