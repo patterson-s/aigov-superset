@@ -159,16 +159,44 @@ function renderOverview() {
     matrix = `<h3>Shared instruments between source pairs</h3><table class="matrix">${head}${body}</table>`;
   }
   $("overview").innerHTML =
-    `<h2>Cross-source overlap</h2>
-     <div class="stats">
-       <span><b>${s.cluster_count}</b> instruments appear in ≥2 sources</span>
-       <span><b>${s.duplicate_records}</b> of ${state.overlap.record_count} records duplicate an identical instrument in another source</span>
-       <span><b>${Math.round(s.dedup_ratio * 100)}%</b> of the union is duplicate</span>
-       <span><b>${s.unique_records}</b> records are unique to one source</span>
-     </div>
-     <div class="stats">${bysrc}</div>
-     ${matrix || ""}`;
-}
+      `<h2>Cross-source overlap</h2>
+       <div class="stats">
+         <span><b>${s.cluster_count}</b> instruments appear in ≥2 sources</span>
+         <span><b>${s.duplicate_records}</b> of ${state.overlap.record_count} records duplicate an identical instrument in another source</span>
+         <span><b>${Math.round(s.dedup_ratio * 100)}%</b> of the union is duplicate</span>
+         <span><b>${s.unique_records}</b> records are unique to one source</span>
+       </div>
+       <div class="stats">${bysrc}</div>
+       ${matrix || ""}
+       ${renderRanking()}`;
+  }
+
+  function renderRanking() {
+    const clusters = state.overlap.clusters;
+    const maxSrc = Math.max(...clusters.map((c) => c.source_count));
+    // histogram: how many instruments appear in exactly N sources
+    const dist = {};
+    for (const c of clusters) dist[c.source_count] = (dist[c.source_count] || 0) + 1;
+    const maxCount = Math.max(...Object.values(dist));
+    const hist = Object.keys(dist).sort((a, b) => b - a).map((n) => {
+      const w = Math.round((dist[n] / maxCount) * 100);
+      return `<div class="hist-row"><span class="hist-label">${n} sources</span>
+        <div class="hist-bar" style="width:${w}%"></div><span class="hist-n">${dist[n]}</span></div>`;
+    }).join("");
+    // ranked list: all clusters by source_count desc, bar width proportional to source_count
+    const ranked = [...clusters].sort((a, b) => b.source_count - a.source_count)
+      .map((c) => {
+        const w = Math.round((c.source_count / maxSrc) * 100);
+        const hi = c.source_count === maxSrc ? " hi" : "";
+        return `<div class="rank-row"><span class="rank-name" title="${c.name}">${c.name}</span>
+          <div class="rank-bar${hi}" style="width:${w}%"></div><span class="rank-n">${c.source_count}</span></div>`;
+      }).join("");
+    return `<div class="rank-sec">
+      <h3>Ranking by source count — triage (more sources = stronger candidate)</h3>
+      <div class="hist">${hist}</div>
+      <div class="rank">${ranked}</div>
+          </div>`;
+  }
 
 function clusterCard(c) {
   const pills = Object.entries(c.source_distribution)

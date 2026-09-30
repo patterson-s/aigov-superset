@@ -76,6 +76,21 @@ main { padding: 18px 32px 40px; }
 .cluster .member { padding: 2px 0; }
 .cluster .member .src { color: var(--accent); font-weight: 600; }
 
+/* ranking figure */
+.rank-sec { margin-top: 16px; }
+.rank-sec h3 { margin: 0 0 8px; font-size: 14px; color: var(--ink); }
+.hist { margin-bottom: 14px; }
+.hist-row { display: flex; align-items: center; gap: 8px; margin: 3px 0; font-size: 12px; }
+.hist-label { width: 90px; text-align: right; color: var(--muted); flex: none; }
+.hist-bar { height: 14px; background: var(--accent); border-radius: 3px; min-width: 2px; }
+.hist-n { color: var(--ink); font-weight: 600; width: 30px; }
+.rank { max-height: 420px; overflow-y: auto; border: 1px solid var(--line); border-radius: 8px; padding: 6px 10px; }
+.rank-row { display: flex; align-items: center; gap: 8px; padding: 3px 0; font-size: 12px; }
+.rank-name { width: 46%; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: var(--ink); flex: none; }
+.rank-bar { height: 12px; background: #c9d6ff; border-radius: 3px; min-width: 2px; }
+.rank-bar.hi { background: var(--accent); }
+.rank-n { color: var(--muted); font-weight: 600; width: 22px; flex: none; }
+
 .grid {
   display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 14px;
