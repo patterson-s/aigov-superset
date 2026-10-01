@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>International AI-Governance Initiatives — Superset</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  .intl-card { border-left: 4px solid var(--accent); }
+  .intl-card h3 { font-size: 14.5px; }
+  .src-line { font-size: 12px; color: var(--muted); display: flex; flex-wrap: wrap; gap: 4px 10px; margin-top: 2px; }
+  .src-pill { background: #eef2ff; border: 1px solid #d6defa; color: #3b3f8f; border-radius: 12px; padding: 1px 9px; font-size: 11px; }
+  .class-pill { background: #e7f6ef; border: 1px solid #b7e6cf; color: var(--pass); border-radius: 12px; padding: 1px 9px; font-size: 11px; }
+  .primary { font-size: 12px; color: var(--muted); margin-top: 4px; }
+  .primary b { color: var(--ink); }
+  .primary .ok { color: var(--pass); }
+  .primary .none { color: var(--excluded); }
+  .evidence { font-size: 11.5px; color: var(--muted); margin-top: 6px; border-top: 1px dashed var(--line); padding-top: 6px; }
+  .stats { display: flex; flex-wrap: wrap; gap: 6px 22px; margin-bottom: 12px; font-size: 13px; color: var(--muted); }
+  .stats b { color: var(--ink); }
+  .controls select { min-width: 200px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>International AI-Governance Initiatives</h1>
+  <p class="sub">The <b>PASS</b> records whose issuer is an international actor
+    (multilateral / regional IO, plurilateral, bilateral, standards body, or
+    multistakeholder). For each: which dataset it came from, and what primary
+    source material we have collected so far (archived document + extracted text).
+    <a href="index.html">← back to the full superset map</a></p>
+  <div id="summary" class="summary"></div>
+</header>
+
+<main>
+  <section id="controls" class="controls">
+    <input type="search" id="q" placeholder="Search name, issuer…" autocomplete="off">
+    <select id="source">
+      <option value="">Dataset: all</option>
+    </select>
+    <select id="orgclass">
+      <option value="">Issuer class: all</option>
+    </select>
+    <select id="primary">
+      <option value="">Primary source: any</option>
+      <option value="both">archive + text</option>
+      <option value="archive">archive only</option>
+      <option value="text">text only</option>
+      <option value="none">none collected</option>
+    </select>
+    <span id="count" class="count"></span>
+  </section>
+  <div id="grid" class="grid"></div>
+</main>
+
+<footer>
+  <p>Generated from the superset pipeline. Each record is metadata + a link to the source — not trusted text. Primary-source status reflects the local archive (<code>primary/&lt;src&gt;/&lt;rid&gt;.*</code>) and extracted text (<code>primary/text/&lt;src&gt;/&lt;rid&gt;.txt</code>).</p>
+</footer>
+<script src="international.js"></script>
+</body>
+</html>
