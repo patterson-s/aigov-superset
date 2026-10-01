@@ -1,0 +1,318 @@
+{
+ "generated": "2026-10-01",
+ "title": "Gates Foundation — AI-governance ego network",
+ "description": "The Gates Foundation's footprint in the Africa AI Policy source: 6 initiatives it touches, and the co-actors named in each initiative's archived text. Edges are labeled by relationship type. Curated from the primary sources (hand-verified).",
+ "ego": "gates",
+ "node_count": 27,
+ "edge_count": 26,
+ "initiative_count": 6,
+ "nodes": [
+  {
+   "id": "gates",
+   "label": "Gates Foundation",
+   "kind": "actor",
+   "type": "philanthropy",
+   "country": "USA"
+  },
+  {
+   "id": "AFR-0365",
+   "label": "Nigeria AI Scaling Hub",
+   "kind": "initiative",
+   "country": "Nigeria",
+   "year": "2025"
+  },
+  {
+   "id": "actor:Federal Ministry of Communications, Innovation & Digital Economy (Nigeria)",
+   "label": "Federal Ministry of Communications, Innovation & Digital Economy (Nigeria)",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Government of Nigeria",
+   "label": "Government of Nigeria",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Lagos Business School",
+   "label": "Lagos Business School",
+   "kind": "actor"
+  },
+  {
+   "id": "AFR-1272",
+   "label": "Rwanda AI Scaling Hub (Centre for 4IR Rwanda)",
+   "kind": "initiative",
+   "country": "Rwanda",
+   "year": "2018"
+  },
+  {
+   "id": "actor:Government of Rwanda",
+   "label": "Government of Rwanda",
+   "kind": "actor"
+  },
+  {
+   "id": "AFR-0201",
+   "label": "IntelSurv — AI disease-surveillance project (MUBAS)",
+   "kind": "initiative",
+   "country": "Malawi",
+   "year": "2024"
+  },
+  {
+   "id": "actor:Malawi University of Business and Applied Sciences (MUBAS)",
+   "label": "Malawi University of Business and Applied Sciences (MUBAS)",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:KAI Lab",
+   "label": "KAI Lab",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Public Health Institute of Malawi",
+   "label": "Public Health Institute of Malawi",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Ministry of Health (Malawi)",
+   "label": "Ministry of Health (Malawi)",
+   "kind": "actor"
+  },
+  {
+   "id": "AFR-0782",
+   "label": "Data Use Partnership (DUP)",
+   "kind": "initiative",
+   "country": "Tanzania",
+   "year": "2017"
+  },
+  {
+   "id": "actor:Government of Tanzania",
+   "label": "Government of Tanzania",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:PATH",
+   "label": "PATH",
+   "kind": "actor"
+  },
+  {
+   "id": "AFR-0794",
+   "label": "Global AI Summit on Africa (GAIS 2025)",
+   "kind": "initiative",
+   "country": "Rwanda",
+   "year": "2025"
+  },
+  {
+   "id": "actor:Centre for the Fourth Industrial Revolution Rwanda",
+   "label": "Centre for the Fourth Industrial Revolution Rwanda",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Ministry of ICT & Innovation (Rwanda)",
+   "label": "Ministry of ICT & Innovation (Rwanda)",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:World Economic Forum",
+   "label": "World Economic Forum",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:African Union Commission",
+   "label": "African Union Commission",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:International Telecommunication Union (ITU)",
+   "label": "International Telecommunication Union (ITU)",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:OpenAI",
+   "label": "OpenAI",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Mastercard Foundation",
+   "label": "Mastercard Foundation",
+   "kind": "actor"
+  },
+  {
+   "id": "AFR-0431",
+   "label": "Agence des Systèmes d'Information et du Numérique (ASIN)",
+   "kind": "initiative",
+   "country": "Benin",
+   "year": "2022"
+  },
+  {
+   "id": "actor:Digital Public Goods Alliance (DPGA)",
+   "label": "Digital Public Goods Alliance (DPGA)",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:UNSGSA",
+   "label": "UNSGSA",
+   "kind": "actor"
+  },
+  {
+   "id": "actor:Government of Benin",
+   "label": "Government of Benin",
+   "kind": "actor"
+  }
+ ],
+ "edges": [
+  {
+   "source": "gates",
+   "target": "AFR-0365",
+   "type": "funder",
+   "detail": "Gates Foundation supporting with up to $7.5M over 3 years; MoU signed in Abuja"
+  },
+  {
+   "source": "AFR-0365",
+   "target": "actor:Federal Ministry of Communications, Innovation & Digital Economy (Nigeria)",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0365",
+   "target": "actor:Government of Nigeria",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0365",
+   "target": "actor:Lagos Business School",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "gates",
+   "target": "AFR-1272",
+   "type": "funder",
+   "detail": "MoU signed at Global AI Summit; backed by $7.5M"
+  },
+  {
+   "source": "AFR-1272",
+   "target": "actor:Government of Rwanda",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "gates",
+   "target": "AFR-0201",
+   "type": "funder",
+   "detail": "Grand Challenges grant for Catalyzing Equitable AI Use"
+  },
+  {
+   "source": "AFR-0201",
+   "target": "actor:Malawi University of Business and Applied Sciences (MUBAS)",
+   "type": "host",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0201",
+   "target": "actor:KAI Lab",
+   "type": "implementer",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0201",
+   "target": "actor:Public Health Institute of Malawi",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0201",
+   "target": "actor:Ministry of Health (Malawi)",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "gates",
+   "target": "AFR-0782",
+   "type": "supporter",
+   "detail": "Supported the 2016 landscape & gap analysis that produced the Digital Health Investment Roadmap"
+  },
+  {
+   "source": "AFR-0782",
+   "target": "actor:Government of Tanzania",
+   "type": "lead",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0782",
+   "target": "actor:PATH",
+   "type": "implementer",
+   "detail": ""
+  },
+  {
+   "source": "gates",
+   "target": "AFR-0794",
+   "type": "participant",
+   "detail": "Bill Gates (Chair, Gates Foundation) gave remarks"
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:Centre for the Fourth Industrial Revolution Rwanda",
+   "type": "host",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:Ministry of ICT & Innovation (Rwanda)",
+   "type": "host",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:World Economic Forum",
+   "type": "co-host",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:African Union Commission",
+   "type": "participant",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:International Telecommunication Union (ITU)",
+   "type": "participant",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:OpenAI",
+   "type": "participant",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0794",
+   "target": "actor:Mastercard Foundation",
+   "type": "partner",
+   "detail": ""
+  },
+  {
+   "source": "gates",
+   "target": "AFR-0431",
+   "type": "member",
+   "detail": "ASIN won the 50-in-5 Impact Award 2026; Gates Foundation is part of the 50-in-5 coalition"
+  },
+  {
+   "source": "AFR-0431",
+   "target": "actor:Digital Public Goods Alliance (DPGA)",
+   "type": "coalition",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0431",
+   "target": "actor:UNSGSA",
+   "type": "coalition",
+   "detail": ""
+  },
+  {
+   "source": "AFR-0431",
+   "target": "actor:Government of Benin",
+   "type": "partner",
+   "detail": ""
+  }
+ ]
+}

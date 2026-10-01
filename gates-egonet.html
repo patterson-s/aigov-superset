@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gates Foundation Ego Network — Superset</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://unpkg.com/vis-network@9.1.9/standalone/umd/vis-network.min.js"></script>
+<style>
+  #net { width: 100%; height: 640px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+  .legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 12px; color: var(--muted); margin: 10px 0; }
+  .legend span { display: inline-flex; align-items: center; gap: 5px; }
+  .dot { width: 12px; height: 12px; border-radius: 50%; display: inline-block; }
+  .line { width: 18px; height: 3px; display: inline-block; border-radius: 2px; }
+  #detail { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-top: 14px; font-size: 13px; min-height: 40px; }
+  #detail h3 { margin: 0 0 6px; font-size: 15px; }
+  #detail .meta { color: var(--muted); font-size: 12px; }
+  #detail ul { margin: 6px 0 0; padding-left: 18px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 12px; background: var(--panel); border: 1px solid var(--line); border-radius: 10px; margin-bottom: 14px; }
+  .controls select { padding: 8px; border: 1px solid var(--line); border-radius: 6px; background: #fff; }
+  .count { margin-left: auto; font-size: 13px; color: var(--muted); }
+</style>
+</head>
+<body>
+<header>
+  <h1>Gates Foundation — Ego Network</h1>
+  <p class="sub">The Gates Foundation's footprint in the Africa AI Policy source:
+    the 6 initiatives it touches, and the co-actors named in each initiative's
+    archived text. Edges are labeled by relationship type. Curated from the
+    primary sources. <a href="international.html">← international initiatives</a> ·
+    <a href="index.html">← full superset map</a></p>
+  <div id="summary" class="summary"></div>
+</header>
+
+<main>
+  <section class="controls">
+    <select id="relfilter">
+      <option value="">Relationship: all</option>
+    </select>
+    <span id="count" class="count"></span>
+  </section>
+  <div class="legend" id="legend"></div>
+  <div id="net"></div>
+  <div id="detail"><p class="empty">Click a node to see details.</p></div>
+</main>
+
+<footer>
+  <p>Generated from the superset pipeline. Actor connections are curated from the
+    archived primary sources (<code>primary/text/africa-policy/</code>) — each
+    initiative's co-actors were hand-verified against its document. This is a
+    seed for the full actor network, not an automated extraction.</p>
+</footer>
+<script src="gates-egonet.js"></script>
+</body>
+</html>
