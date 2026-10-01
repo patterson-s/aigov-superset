@@ -29,15 +29,22 @@ function primaryBadge(p) {
 function card(r) {
   const p = r.primary;
   const conf = r.confidence ? `<span class="badge">${r.confidence} conf</span>` : "";
+  const rel = r.relationship
+    ? `<span class="badge rel">${r.relationship}</span>` : "";
+  const members = (r.members && r.members.length)
+    ? `<details class="members"><summary>${r.member_count} member${r.member_count > 1 ? "s" : ""}: ${r.members.slice(0, 4).join(", ")}${r.members.length > 4 ? "…" : ""}</summary><div class="member-list">${r.members.map((m) => `<span>${m}</span>`).join("")}</div></details>`
+    : (r.country ? `<div class="meta"><span><b>Country:</b> ${r.country}</span></div>` : "");
   return `<div class="card intl-card">
     <h3>${r.name || r.id}</h3>
     <div class="src-line">
       <span class="src-pill">${r.source_title}</span>
       <span class="class-pill">${r.org_label}</span>
       ${r.reach ? `<span class="badge">${r.reach}</span>` : ""}
+      ${rel}
       ${conf}
     </div>
     ${r.issuer ? `<div class="meta"><span><b>Issuer:</b> ${r.issuer}</span></div>` : ""}
+    ${members}
     <div class="primary"><b>Primary sources:</b> ${primaryBadge(p)}</div>
     ${r.evidence ? `<div class="evidence">${r.evidence}</div>` : ""}
   </div>`;
